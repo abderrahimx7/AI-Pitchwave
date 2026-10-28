@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+ml/data/
+ml/prepared/
+ml/runs/
+ml/predictions.json

@@ -1,0 +1,6852 @@
+{
+  "schema": "pitchwave-shot-risk-v1",
+  "source": "StatsBomb Open Data",
+  "model": "nn",
+  "match_id": 3869220,
+  "home": "Morocco",
+  "away": "Spain",
+  "horizon_seconds": 10,
+  "notice": "Independent estimated shot risks, not complementary shares; no spatial prediction. No extra time. Period clock includes stoppage time.",
+  "frames": [
+    {
+      "period": 1,
+      "period_seconds": 30.0,
+      "home_shot_probability": 0.00042812112951651216,
+      "away_shot_probability": 0.009572740644216537
+    },
+    {
+      "period": 1,
+      "period_seconds": 35.0,
+      "home_shot_probability": 0.00037455561687238514,
+      "away_shot_probability": 0.014856702648103237
+    },
+    {
+      "period": 1,
+      "period_seconds": 40.0,
+      "home_shot_probability": 0.0002404637634754181,
+      "away_shot_probability": 0.021975861862301826
+    },
+    {
+      "period": 1,
+      "period_seconds": 45.0,
+      "home_shot_probability": 0.0002733716682996601,
+      "away_shot_probability": 0.02630842663347721
+    },
+    {
+      "period": 1,
+      "period_seconds": 50.0,
+      "home_shot_probability": 0.0002990869397763163,
+      "away_shot_probability": 0.025392349809408188
+    },
+    {
+      "period": 1,
+      "period_seconds": 55.0,
+      "home_shot_probability": 0.001697041094303131,
+      "away_shot_probability": 0.016198670491576195
+    },
+    {
+      "period": 1,
+      "period_seconds": 60.0,
+      "home_shot_probability": 0.0015494086546823382,
+      "away_shot_probability": 0.00919815618544817
+    },
+    {
+      "period": 1,
+      "period_seconds": 65.0,
+      "home_shot_probability": 0.0006912281969562173,
+      "away_shot_probability": 0.00807176623493433
+    },
+    {
+      "period": 1,
+      "period_seconds": 70.0,
+      "home_shot_probability": 0.0004748549545183778,
+      "away_shot_probability": 0.01460461039096117
+    },
+    {
+      "period": 1,
+      "period_seconds": 75.0,
+      "home_shot_probability": 0.005312945693731308,
+      "away_shot_probability": 0.017327597364783287
+    },
+    {
+      "period": 1,
+      "period_seconds": 80.0,
+      "home_shot_probability": 0.006077384110540152,
+      "away_shot_probability": 0.00963267870247364
+    },
+    {
+      "period": 1,
+      "period_seconds": 85.0,
+      "home_shot_probability": 0.002603229833766818,
+      "away_shot_probability": 0.015284406952559948
+    },
+    {
+      "period": 1,
+      "period_seconds": 90.0,
+      "home_shot_probability": 0.002664287341758609,
+      "away_shot_probability": 0.0043978262692689896
+    },
+    {
+      "period": 1,
+      "period_seconds": 95.0,
+      "home_shot_probability": 0.0019142895471304655,
+      "away_shot_probability": 0.0020201026927679777
+    },
+    {
+      "period": 1,
+      "period_seconds": 100.0,
+      "home_shot_probability": 0.0011430999729782343,
+      "away_shot_probability": 0.0011440505040809512
+    },
+    {
+      "period": 1,
+      "period_seconds": 105.0,
+      "home_shot_probability": 0.004111016634851694,
+      "away_shot_probability": 0.000654862611554563
+    },
+    {
+      "period": 1,
+      "period_seconds": 110.0,
+      "home_shot_probability": 0.004446642007678747,
+      "away_shot_probability": 0.0008830711012706161
+    },
+    {
+      "period": 1,
+      "period_seconds": 115.0,
+      "home_shot_probability": 0.004759936593472958,
+      "away_shot_probability": 0.000792271108366549
+    },
+    {
+      "period": 1,
+      "period_seconds": 120.0,
+      "home_shot_probability": 0.0004042798827867955,
+      "away_shot_probability": 0.013278023339807987
+    },
+    {
+      "period": 1,
+      "period_seconds": 125.0,
+      "home_shot_probability": 0.00031601512455381453,
+      "away_shot_probability": 0.03599134460091591
+    },
+    {
+      "period": 1,
+      "period_seconds": 130.0,
+      "home_shot_probability": 0.0001945185795193538,
+      "away_shot_probability": 0.01284309197217226
+    },
+    {
+      "period": 1,
+      "period_seconds": 135.0,
+      "home_shot_probability": 0.00019239545508753508,
+      "away_shot_probability": 0.030936533585190773
+    },
+    {
+      "period": 1,
+      "period_seconds": 140.0,
+      "home_shot_probability": 0.00014213919348549098,
+      "away_shot_probability": 0.013764861971139908
+    },
+    {
+      "period": 1,
+      "period_seconds": 145.0,
+      "home_shot_probability": 7.10055828676559e-05,
+      "away_shot_probability": 0.009240403771400452
+    },
+    {
+      "period": 1,
+      "period_seconds": 150.0,
+      "home_shot_probability": 0.0001065449250745587,
+      "away_shot_probability": 0.013956432230770588
+    },
+    {
+      "period": 1,
+      "period_seconds": 155.0,
+      "home_shot_probability": 8.750008419156075e-05,
+      "away_shot_probability": 0.03983336687088013
+    },
+    {
+      "period": 1,
+      "period_seconds": 160.0,
+      "home_shot_probability": 0.00011053125490434468,
+      "away_shot_probability": 0.01662588119506836
+    },
+    {
+      "period": 1,
+      "period_seconds": 165.0,
+      "home_shot_probability": 0.00011488143354654312,
+      "away_shot_probability": 0.02913423627614975
+    },
+    {
+      "period": 1,
+      "period_seconds": 170.0,
+      "home_shot_probability": 0.00015981163596734405,
+      "away_shot_probability": 0.015379205346107483
+    },
+    {
+      "period": 1,
+      "period_seconds": 175.0,
+      "home_shot_probability": 0.00014804287638980895,
+      "away_shot_probability": 0.02095082215964794
+    },
+    {
+      "period": 1,
+      "period_seconds": 180.0,
+      "home_shot_probability": 0.0009704534313641489,
+      "away_shot_probability": 0.0267458725720644
+    },
+    {
+      "period": 1,
+      "period_seconds": 185.0,
+      "home_shot_probability": 0.0008995192474685609,
+      "away_shot_probability": 0.020605705678462982
+    },
+    {
+      "period": 1,
+      "period_seconds": 190.0,
+      "home_shot_probability": 0.0010393258417025208,
+      "away_shot_probability": 0.04283855855464935
+    },
+    {
+      "period": 1,
+      "period_seconds": 195.0,
+      "home_shot_probability": 0.0005376803455874324,
+      "away_shot_probability": 0.039400987327098846
+    },
+    {
+      "period": 1,
+      "period_seconds": 200.0,
+      "home_shot_probability": 0.00019885464280378073,
+      "away_shot_probability": 0.026327045634388924
+    },
+    {
+      "period": 1,
+      "period_seconds": 205.0,
+      "home_shot_probability": 9.917277930071577e-05,
+      "away_shot_probability": 0.03817823901772499
+    },
+    {
+      "period": 1,
+      "period_seconds": 210.0,
+      "home_shot_probability": 0.00012937594146933407,
+      "away_shot_probability": 0.07405951619148254
+    },
+    {
+      "period": 1,
+      "period_seconds": 215.0,
+      "home_shot_probability": 0.003587628249078989,
+      "away_shot_probability": 0.03705199807882309
+    },
+    {
+      "period": 1,
+      "period_seconds": 220.0,
+      "home_shot_probability": 0.00509959552437067,
+      "away_shot_probability": 0.014126816764473915
+    },
+    {
+      "period": 1,
+      "period_seconds": 225.0,
+      "home_shot_probability": 0.005087597761303186,
+      "away_shot_probability": 0.03085639886558056
+    },
+    {
+      "period": 1,
+      "period_seconds": 230.0,
+      "home_shot_probability": 0.0024199848994612694,
+      "away_shot_probability": 0.038857121020555496
+    },
+    {
+      "period": 1,
+      "period_seconds": 235.0,
+      "home_shot_probability": 0.001428147777915001,
+      "away_shot_probability": 0.015251235105097294
+    },
+    {
+      "period": 1,
+      "period_seconds": 240.0,
+      "home_shot_probability": 0.0009471365483477712,
+      "away_shot_probability": 0.02782939001917839
+    },
+    {
+      "period": 1,
+      "period_seconds": 245.0,
+      "home_shot_probability": 0.0005626881611533463,
+      "away_shot_probability": 0.01755225472152233
+    },
+    {
+      "period": 1,
+      "period_seconds": 250.0,
+      "home_shot_probability": 0.00038590264739468694,
+      "away_shot_probability": 0.005903306882828474
+    },
+    {
+      "period": 1,
+      "period_seconds": 255.0,
+      "home_shot_probability": 0.00011455173080321401,
+      "away_shot_probability": 0.036792390048503876
+    },
+    {
+      "period": 1,
+      "period_seconds": 260.0,
+      "home_shot_probability": 0.00011039253149647266,
+      "away_shot_probability": 0.0262374896556139
+    },
+    {
+      "period": 1,
+      "period_seconds": 265.0,
+      "home_shot_probability": 5.936396337347105e-05,
+      "away_shot_probability": 0.02253216877579689
+    },
+    {
+      "period": 1,
+      "period_seconds": 270.0,
+      "home_shot_probability": 7.232031202875078e-05,
+      "away_shot_probability": 0.013957554474473
+    },
+    {
+      "period": 1,
+      "period_seconds": 275.0,
+      "home_shot_probability": 0.010905793868005276,
+      "away_shot_probability": 0.04653066769242287
+    },
+    {
+      "period": 1,
+      "period_seconds": 280.0,
+      "home_shot_probability": 0.01627313904464245,
+      "away_shot_probability": 0.025354767218232155
+    },
+    {
+      "period": 1,
+      "period_seconds": 285.0,
+      "home_shot_probability": 0.02177131362259388,
+      "away_shot_probability": 0.004404407925903797
+    },
+    {
+      "period": 1,
+      "period_seconds": 290.0,
+      "home_shot_probability": 0.005067457444965839,
+      "away_shot_probability": 0.001788869732990861
+    },
+    {
+      "period": 1,
+      "period_seconds": 295.0,
+      "home_shot_probability": 0.004084419459104538,
+      "away_shot_probability": 0.0013204027200117707
+    },
+    {
+      "period": 1,
+      "period_seconds": 300.0,
+      "home_shot_probability": 0.002759284107014537,
+      "away_shot_probability": 0.0008118357509374619
+    },
+    {
+      "period": 1,
+      "period_seconds": 305.0,
+      "home_shot_probability": 0.001928633777424693,
+      "away_shot_probability": 0.006163215264678001
+    },
+    {
+      "period": 1,
+      "period_seconds": 310.0,
+      "home_shot_probability": 0.0014576204121112823,
+      "away_shot_probability": 0.00617551151663065
+    },
+    {
+      "period": 1,
+      "period_seconds": 315.0,
+      "home_shot_probability": 0.001769156428053975,
+      "away_shot_probability": 0.024365203455090523
+    },
+    {
+      "period": 1,
+      "period_seconds": 320.0,
+      "home_shot_probability": 0.0007880987832322717,
+      "away_shot_probability": 0.06620889902114868
+    },
+    {
+      "period": 1,
+      "period_seconds": 325.0,
+      "home_shot_probability": 0.001814221846871078,
+      "away_shot_probability": 0.14420750737190247
+    },
+    {
+      "period": 1,
+      "period_seconds": 330.0,
+      "home_shot_probability": 0.0007226896123029292,
+      "away_shot_probability": 0.03828515484929085
+    },
+    {
+      "period": 1,
+      "period_seconds": 335.0,
+      "home_shot_probability": 0.00036943602026440203,
+      "away_shot_probability": 0.014374003745615482
+    },
+    {
+      "period": 1,
+      "period_seconds": 340.0,
+      "home_shot_probability": 0.00022141447698231786,
+      "away_shot_probability": 0.010929040610790253
+    },
+    {
+      "period": 1,
+      "period_seconds": 345.0,
+      "home_shot_probability": 0.0001555608178023249,
+      "away_shot_probability": 0.01482887752354145
+    },
+    {
+      "period": 1,
+      "period_seconds": 350.0,
+      "home_shot_probability": 9.942180622601882e-05,
+      "away_shot_probability": 0.019686896353960037
+    },
+    {
+      "period": 1,
+      "period_seconds": 355.0,
+      "home_shot_probability": 0.006186645478010178,
+      "away_shot_probability": 0.0012891968945041299
+    },
+    {
+      "period": 1,
+      "period_seconds": 360.0,
+      "home_shot_probability": 0.00651871832087636,
+      "away_shot_probability": 0.0015062211314216256
+    },
+    {
+      "period": 1,
+      "period_seconds": 365.0,
+      "home_shot_probability": 0.11349459737539291,
+      "away_shot_probability": 0.0001539192016934976
+    },
+    {
+      "period": 1,
+      "period_seconds": 370.0,
+      "home_shot_probability": 0.10752809047698975,
+      "away_shot_probability": 0.00045690094702877104
+    },
+    {
+      "period": 1,
+      "period_seconds": 375.0,
+      "home_shot_probability": 0.012182334437966347,
+      "away_shot_probability": 0.004885697737336159
+    },
+    {
+      "period": 1,
+      "period_seconds": 380.0,
+      "home_shot_probability": 0.01817469298839569,
+      "away_shot_probability": 0.0014275237917900085
+    },
+    {
+      "period": 1,
+      "period_seconds": 385.0,
+      "home_shot_probability": 0.006002284120768309,
+      "away_shot_probability": 0.0006840064306743443
+    },
+    {
+      "period": 1,
+      "period_seconds": 390.0,
+      "home_shot_probability": 0.006249027326703072,
+      "away_shot_probability": 0.0004668625188060105
+    },
+    {
+      "period": 1,
+      "period_seconds": 395.0,
+      "home_shot_probability": 0.0032713261898607016,
+      "away_shot_probability": 0.0003447323979344219
+    },
+    {
+      "period": 1,
+      "period_seconds": 400.0,
+      "home_shot_probability": 0.0027588617522269487,
+      "away_shot_probability": 0.0007089227437973022
+    },
+    {
+      "period": 1,
+      "period_seconds": 405.0,
+      "home_shot_probability": 0.0028884217608720064,
+      "away_shot_probability": 0.0023307553492486477
+    },
+    {
+      "period": 1,
+      "period_seconds": 410.0,
+      "home_shot_probability": 0.001661284826695919,
+      "away_shot_probability": 0.0050383261404931545
+    },
+    {
+      "period": 1,
+      "period_seconds": 415.0,
+      "home_shot_probability": 0.001285447971895337,
+      "away_shot_probability": 0.004827341064810753
+    },
+    {
+      "period": 1,
+      "period_seconds": 420.0,
+      "home_shot_probability": 0.0008121437858790159,
+      "away_shot_probability": 0.010100211948156357
+    },
+    {
+      "period": 1,
+      "period_seconds": 425.0,
+      "home_shot_probability": 0.002486688317731023,
+      "away_shot_probability": 0.02134394831955433
+    },
+    {
+      "period": 1,
+      "period_seconds": 430.0,
+      "home_shot_probability": 0.0009247000562027097,
+      "away_shot_probability": 0.008786060847342014
+    },
+    {
+      "period": 1,
+      "period_seconds": 435.0,
+      "home_shot_probability": 0.0011320161866024137,
+      "away_shot_probability": 0.02419624850153923
+    },
+    {
+      "period": 1,
+      "period_seconds": 440.0,
+      "home_shot_probability": 0.0006902509485371411,
+      "away_shot_probability": 0.03537292033433914
+    },
+    {
+      "period": 1,
+      "period_seconds": 445.0,
+      "home_shot_probability": 0.00038005082751624286,
+      "away_shot_probability": 0.026975270360708237
+    },
+    {
+      "period": 1,
+      "period_seconds": 450.0,
+      "home_shot_probability": 0.00017295470752287656,
+      "away_shot_probability": 0.014025963842868805
+    },
+    {
+      "period": 1,
+      "period_seconds": 455.0,
+      "home_shot_probability": 0.00020287047664169222,
+      "away_shot_probability": 0.030834782868623734
+    },
+    {
+      "period": 1,
+      "period_seconds": 460.0,
+      "home_shot_probability": 0.00012670211435761303,
+      "away_shot_probability": 0.013945785351097584
+    },
+    {
+      "period": 1,
+      "period_seconds": 465.0,
+      "home_shot_probability": 0.0013449153630062938,
+      "away_shot_probability": 0.015915656462311745
+    },
+    {
+      "period": 1,
+      "period_seconds": 470.0,
+      "home_shot_probability": 0.0006526656216010451,
+      "away_shot_probability": 0.015108098275959492
+    },
+    {
+      "period": 1,
+      "period_seconds": 475.0,
+      "home_shot_probability": 0.00027064140886068344,
+      "away_shot_probability": 0.012806213460862637
+    },
+    {
+      "period": 1,
+      "period_seconds": 480.0,
+      "home_shot_probability": 0.0001918396883411333,
+      "away_shot_probability": 0.12826381623744965
+    },
+    {
+      "period": 1,
+      "period_seconds": 485.0,
+      "home_shot_probability": 0.0012875538086518645,
+      "away_shot_probability": 0.08869406580924988
+    },
+    {
+      "period": 1,
+      "period_seconds": 490.0,
+      "home_shot_probability": 0.0007625598227605224,
+      "away_shot_probability": 0.027115393429994583
+    },
+    {
+      "period": 1,
+      "period_seconds": 495.0,
+      "home_shot_probability": 0.0005921162664890289,
+      "away_shot_probability": 0.008161820471286774
+    },
+    {
+      "period": 1,
+      "period_seconds": 500.0,
+      "home_shot_probability": 0.00039565854240208864,
+      "away_shot_probability": 0.0062350984662771225
+    },
+    {
+      "period": 1,
+      "period_seconds": 505.0,
+      "home_shot_probability": 0.00023853694438003004,
+      "away_shot_probability": 0.006418768782168627
+    },
+    {
+      "period": 1,
+      "period_seconds": 510.0,
+      "home_shot_probability": 0.0013476291205734015,
+      "away_shot_probability": 0.002325443783774972
+    },
+    {
+      "period": 1,
+      "period_seconds": 515.0,
+      "home_shot_probability": 0.004559079650789499,
+      "away_shot_probability": 0.0011763591319322586
+    },
+    {
+      "period": 1,
+      "period_seconds": 520.0,
+      "home_shot_probability": 0.0011160376016050577,
+      "away_shot_probability": 0.013129374012351036
+    },
+    {
+      "period": 1,
+      "period_seconds": 525.0,
+      "home_shot_probability": 0.00097802618984133,
+      "away_shot_probability": 0.022585274651646614
+    },
+    {
+      "period": 1,
+      "period_seconds": 530.0,
+      "home_shot_probability": 0.0005371560691855848,
+      "away_shot_probability": 0.05017046630382538
+    },
+    {
+      "period": 1,
+      "period_seconds": 535.0,
+      "home_shot_probability": 0.0002810146543197334,
+      "away_shot_probability": 0.009859981946647167
+    },
+    {
+      "period": 1,
+      "period_seconds": 540.0,
+      "home_shot_probability": 0.0002747989783529192,
+      "away_shot_probability": 0.005204448010772467
+    },
+    {
+      "period": 1,
+      "period_seconds": 545.0,
+      "home_shot_probability": 0.00014374575403053313,
+      "away_shot_probability": 0.009350870735943317
+    },
+    {
+      "period": 1,
+      "period_seconds": 550.0,
+      "home_shot_probability": 0.0001632243802305311,
+      "away_shot_probability": 0.030294831842184067
+    },
+    {
+      "period": 1,
+      "period_seconds": 555.0,
+      "home_shot_probability": 0.0001257862604688853,
+      "away_shot_probability": 0.01616796851158142
+    },
+    {
+      "period": 1,
+      "period_seconds": 560.0,
+      "home_shot_probability": 0.00012146669905632734,
+      "away_shot_probability": 0.008674266748130322
+    },
+    {
+      "period": 1,
+      "period_seconds": 565.0,
+      "home_shot_probability": 7.17258735676296e-05,
+      "away_shot_probability": 0.02814633958041668
+    },
+    {
+      "period": 1,
+      "period_seconds": 570.0,
+      "home_shot_probability": 0.003908280283212662,
+      "away_shot_probability": 0.04076831415295601
+    },
+    {
+      "period": 1,
+      "period_seconds": 575.0,
+      "home_shot_probability": 0.0010860033798962831,
+      "away_shot_probability": 0.02643396519124508
+    },
+    {
+      "period": 1,
+      "period_seconds": 580.0,
+      "home_shot_probability": 0.0015462179435417056,
+      "away_shot_probability": 0.0055924067273736
+    },
+    {
+      "period": 1,
+      "period_seconds": 585.0,
+      "home_shot_probability": 0.039561983197927475,
+      "away_shot_probability": 0.016500651836395264
+    },
+    {
+      "period": 1,
+      "period_seconds": 590.0,
+      "home_shot_probability": 0.011841810308396816,
+      "away_shot_probability": 0.013917448930442333
+    },
+    {
+      "period": 1,
+      "period_seconds": 595.0,
+      "home_shot_probability": 0.002750016748905182,
+      "away_shot_probability": 0.005970720201730728
+    },
+    {
+      "period": 1,
+      "period_seconds": 600.0,
+      "home_shot_probability": 0.0016434837598353624,
+      "away_shot_probability": 0.0033698317129164934
+    },
+    {
+      "period": 1,
+      "period_seconds": 605.0,
+      "home_shot_probability": 0.0009284918196499348,
+      "away_shot_probability": 0.0020090672187507153
+    },
+    {
+      "period": 1,
+      "period_seconds": 610.0,
+      "home_shot_probability": 0.0009007984772324562,
+      "away_shot_probability": 0.0014891570899635553
+    },
+    {
+      "period": 1,
+      "period_seconds": 615.0,
+      "home_shot_probability": 0.012612704187631607,
+      "away_shot_probability": 0.01592870242893696
+    },
+    {
+      "period": 1,
+      "period_seconds": 620.0,
+      "home_shot_probability": 0.016584208235144615,
+      "away_shot_probability": 0.016584208235144615
+    },
+    {
+      "period": 1,
+      "period_seconds": 625.0,
+      "home_shot_probability": 0.01658840849995613,
+      "away_shot_probability": 0.01658840849995613
+    },
+    {
+      "period": 1,
+      "period_seconds": 630.0,
+      "home_shot_probability": 0.016592610627412796,
+      "away_shot_probability": 0.016592610627412796
+    },
+    {
+      "period": 1,
+      "period_seconds": 635.0,
+      "home_shot_probability": 0.016596803441643715,
+      "away_shot_probability": 0.016596803441643715
+    },
+    {
+      "period": 1,
+      "period_seconds": 640.0,
+      "home_shot_probability": 0.01660100743174553,
+      "away_shot_probability": 0.01660100743174553
+    },
+    {
+      "period": 1,
+      "period_seconds": 645.0,
+      "home_shot_probability": 0.016605213284492493,
+      "away_shot_probability": 0.016605213284492493
+    },
+    {
+      "period": 1,
+      "period_seconds": 650.0,
+      "home_shot_probability": 0.016609417274594307,
+      "away_shot_probability": 0.016609417274594307
+    },
+    {
+      "period": 1,
+      "period_seconds": 655.0,
+      "home_shot_probability": 0.01661362312734127,
+      "away_shot_probability": 0.01661362312734127
+    },
+    {
+      "period": 1,
+      "period_seconds": 660.0,
+      "home_shot_probability": 0.016617830842733383,
+      "away_shot_probability": 0.016617830842733383
+    },
+    {
+      "period": 1,
+      "period_seconds": 665.0,
+      "home_shot_probability": 0.07517410069704056,
+      "away_shot_probability": 0.00018664367962628603
+    },
+    {
+      "period": 1,
+      "period_seconds": 670.0,
+      "home_shot_probability": 0.028268221765756607,
+      "away_shot_probability": 0.00020731697441078722
+    },
+    {
+      "period": 1,
+      "period_seconds": 675.0,
+      "home_shot_probability": 0.022460225969552994,
+      "away_shot_probability": 0.00022842282487545162
+    },
+    {
+      "period": 1,
+      "period_seconds": 680.0,
+      "home_shot_probability": 0.007773228920996189,
+      "away_shot_probability": 0.005184963345527649
+    },
+    {
+      "period": 1,
+      "period_seconds": 685.0,
+      "home_shot_probability": 0.002845154609531164,
+      "away_shot_probability": 0.015669921413064003
+    },
+    {
+      "period": 1,
+      "period_seconds": 690.0,
+      "home_shot_probability": 0.0016307979822158813,
+      "away_shot_probability": 0.029659563675522804
+    },
+    {
+      "period": 1,
+      "period_seconds": 695.0,
+      "home_shot_probability": 0.00017652484530117363,
+      "away_shot_probability": 0.012986608780920506
+    },
+    {
+      "period": 1,
+      "period_seconds": 700.0,
+      "home_shot_probability": 6.166153616504744e-05,
+      "away_shot_probability": 0.1270044595003128
+    },
+    {
+      "period": 1,
+      "period_seconds": 705.0,
+      "home_shot_probability": 0.005023279692977667,
+      "away_shot_probability": 0.020781129598617554
+    },
+    {
+      "period": 1,
+      "period_seconds": 710.0,
+      "home_shot_probability": 0.0015691544394940138,
+      "away_shot_probability": 0.011855723336338997
+    },
+    {
+      "period": 1,
+      "period_seconds": 715.0,
+      "home_shot_probability": 0.0037585333921015263,
+      "away_shot_probability": 0.014473934657871723
+    },
+    {
+      "period": 1,
+      "period_seconds": 720.0,
+      "home_shot_probability": 0.0018701436929404736,
+      "away_shot_probability": 0.005538399331271648
+    },
+    {
+      "period": 1,
+      "period_seconds": 725.0,
+      "home_shot_probability": 0.001648781937547028,
+      "away_shot_probability": 0.0018868176266551018
+    },
+    {
+      "period": 1,
+      "period_seconds": 730.0,
+      "home_shot_probability": 0.001337799127213657,
+      "away_shot_probability": 0.0015734154731035233
+    },
+    {
+      "period": 1,
+      "period_seconds": 735.0,
+      "home_shot_probability": 0.0008444528793916106,
+      "away_shot_probability": 0.0015919716097414494
+    },
+    {
+      "period": 1,
+      "period_seconds": 740.0,
+      "home_shot_probability": 0.000690549670252949,
+      "away_shot_probability": 0.0018924121977761388
+    },
+    {
+      "period": 1,
+      "period_seconds": 745.0,
+      "home_shot_probability": 0.0057485103607177734,
+      "away_shot_probability": 0.0004304208268877119
+    },
+    {
+      "period": 1,
+      "period_seconds": 750.0,
+      "home_shot_probability": 0.004935757257044315,
+      "away_shot_probability": 0.0006374703370966017
+    },
+    {
+      "period": 1,
+      "period_seconds": 755.0,
+      "home_shot_probability": 0.007432881742715836,
+      "away_shot_probability": 0.0005546115571632981
+    },
+    {
+      "period": 1,
+      "period_seconds": 760.0,
+      "home_shot_probability": 0.03404642269015312,
+      "away_shot_probability": 0.000360802689101547
+    },
+    {
+      "period": 1,
+      "period_seconds": 765.0,
+      "home_shot_probability": 0.008213856257498264,
+      "away_shot_probability": 0.0021821025293320417
+    },
+    {
+      "period": 1,
+      "period_seconds": 770.0,
+      "home_shot_probability": 0.008249413222074509,
+      "away_shot_probability": 0.001506231026723981
+    },
+    {
+      "period": 1,
+      "period_seconds": 775.0,
+      "home_shot_probability": 0.01401921920478344,
+      "away_shot_probability": 0.0009483109461143613
+    },
+    {
+      "period": 1,
+      "period_seconds": 780.0,
+      "home_shot_probability": 0.014691288582980633,
+      "away_shot_probability": 0.0008187531493604183
+    },
+    {
+      "period": 1,
+      "period_seconds": 785.0,
+      "home_shot_probability": 0.049799591302871704,
+      "away_shot_probability": 0.00021929833746980876
+    },
+    {
+      "period": 1,
+      "period_seconds": 790.0,
+      "home_shot_probability": 0.029014181345701218,
+      "away_shot_probability": 0.02413678914308548
+    },
+    {
+      "period": 1,
+      "period_seconds": 795.0,
+      "home_shot_probability": 0.03499234840273857,
+      "away_shot_probability": 0.012052172794938087
+    },
+    {
+      "period": 1,
+      "period_seconds": 800.0,
+      "home_shot_probability": 0.03567573055624962,
+      "away_shot_probability": 0.004265776369720697
+    },
+    {
+      "period": 1,
+      "period_seconds": 805.0,
+      "home_shot_probability": 0.01021913904696703,
+      "away_shot_probability": 0.0024448330514132977
+    },
+    {
+      "period": 1,
+      "period_seconds": 810.0,
+      "home_shot_probability": 0.0035615882370620966,
+      "away_shot_probability": 0.0017384943785145879
+    },
+    {
+      "period": 1,
+      "period_seconds": 815.0,
+      "home_shot_probability": 0.003839274402707815,
+      "away_shot_probability": 0.011105144396424294
+    },
+    {
+      "period": 1,
+      "period_seconds": 820.0,
+      "home_shot_probability": 0.005162129644304514,
+      "away_shot_probability": 0.0039027484599500895
+    },
+    {
+      "period": 1,
+      "period_seconds": 825.0,
+      "home_shot_probability": 0.0035183876752853394,
+      "away_shot_probability": 0.007088456768542528
+    },
+    {
+      "period": 1,
+      "period_seconds": 830.0,
+      "home_shot_probability": 0.010042555630207062,
+      "away_shot_probability": 0.0028439860325306654
+    },
+    {
+      "period": 1,
+      "period_seconds": 835.0,
+      "home_shot_probability": 0.018065473064780235,
+      "away_shot_probability": 0.008748398162424564
+    },
+    {
+      "period": 1,
+      "period_seconds": 840.0,
+      "home_shot_probability": 0.05615684390068054,
+      "away_shot_probability": 0.0021306187845766544
+    },
+    {
+      "period": 1,
+      "period_seconds": 845.0,
+      "home_shot_probability": 0.21779939532279968,
+      "away_shot_probability": 0.00012908475764561445
+    },
+    {
+      "period": 1,
+      "period_seconds": 850.0,
+      "home_shot_probability": 0.06417930871248245,
+      "away_shot_probability": 0.00010980491060763597
+    },
+    {
+      "period": 1,
+      "period_seconds": 855.0,
+      "home_shot_probability": 0.01822580024600029,
+      "away_shot_probability": 9.893342212308198e-05
+    },
+    {
+      "period": 1,
+      "period_seconds": 860.0,
+      "home_shot_probability": 0.0041187661699950695,
+      "away_shot_probability": 0.0017192332306876779
+    },
+    {
+      "period": 1,
+      "period_seconds": 865.0,
+      "home_shot_probability": 0.0032160794362425804,
+      "away_shot_probability": 0.007792785298079252
+    },
+    {
+      "period": 1,
+      "period_seconds": 870.0,
+      "home_shot_probability": 0.002880222164094448,
+      "away_shot_probability": 0.0033400992397218943
+    },
+    {
+      "period": 1,
+      "period_seconds": 875.0,
+      "home_shot_probability": 0.0005102292634546757,
+      "away_shot_probability": 0.009432564489543438
+    },
+    {
+      "period": 1,
+      "period_seconds": 880.0,
+      "home_shot_probability": 0.00028498840401880443,
+      "away_shot_probability": 0.014745361171662807
+    },
+    {
+      "period": 1,
+      "period_seconds": 885.0,
+      "home_shot_probability": 0.0016066725365817547,
+      "away_shot_probability": 0.019717561081051826
+    },
+    {
+      "period": 1,
+      "period_seconds": 890.0,
+      "home_shot_probability": 0.0009985808283090591,
+      "away_shot_probability": 0.012241472490131855
+    },
+    {
+      "period": 1,
+      "period_seconds": 895.0,
+      "home_shot_probability": 0.0006163723883219063,
+      "away_shot_probability": 0.010696573182940483
+    },
+    {
+      "period": 1,
+      "period_seconds": 900.0,
+      "home_shot_probability": 0.00015704792167525738,
+      "away_shot_probability": 0.013745376840233803
+    },
+    {
+      "period": 1,
+      "period_seconds": 905.0,
+      "home_shot_probability": 0.00015191998681984842,
+      "away_shot_probability": 0.007448901422321796
+    },
+    {
+      "period": 1,
+      "period_seconds": 910.0,
+      "home_shot_probability": 0.00013487027899827808,
+      "away_shot_probability": 0.01315467432141304
+    },
+    {
+      "period": 1,
+      "period_seconds": 915.0,
+      "home_shot_probability": 0.00015969722880981863,
+      "away_shot_probability": 0.01537849847227335
+    },
+    {
+      "period": 1,
+      "period_seconds": 920.0,
+      "home_shot_probability": 7.711918442510068e-05,
+      "away_shot_probability": 0.02725461684167385
+    },
+    {
+      "period": 1,
+      "period_seconds": 925.0,
+      "home_shot_probability": 5.136505569680594e-05,
+      "away_shot_probability": 0.015182431787252426
+    },
+    {
+      "period": 1,
+      "period_seconds": 930.0,
+      "home_shot_probability": 0.0008586387266404927,
+      "away_shot_probability": 0.05826655030250549
+    },
+    {
+      "period": 1,
+      "period_seconds": 935.0,
+      "home_shot_probability": 0.00033306278055533767,
+      "away_shot_probability": 0.06061812862753868
+    },
+    {
+      "period": 1,
+      "period_seconds": 940.0,
+      "home_shot_probability": 0.0007866885280236602,
+      "away_shot_probability": 0.15384113788604736
+    },
+    {
+      "period": 1,
+      "period_seconds": 945.0,
+      "home_shot_probability": 0.0014683015178889036,
+      "away_shot_probability": 0.02205703966319561
+    },
+    {
+      "period": 1,
+      "period_seconds": 950.0,
+      "home_shot_probability": 0.000631000439170748,
+      "away_shot_probability": 0.023525746539235115
+    },
+    {
+      "period": 1,
+      "period_seconds": 955.0,
+      "home_shot_probability": 0.0004291726800147444,
+      "away_shot_probability": 0.025160783901810646
+    },
+    {
+      "period": 1,
+      "period_seconds": 960.0,
+      "home_shot_probability": 0.0007907135877758265,
+      "away_shot_probability": 0.1233944296836853
+    },
+    {
+      "period": 1,
+      "period_seconds": 965.0,
+      "home_shot_probability": 0.005038608331233263,
+      "away_shot_probability": 0.033044639974832535
+    },
+    {
+      "period": 1,
+      "period_seconds": 970.0,
+      "home_shot_probability": 0.0008321107598021626,
+      "away_shot_probability": 0.011136564426124096
+    },
+    {
+      "period": 1,
+      "period_seconds": 975.0,
+      "home_shot_probability": 0.0006309294840320945,
+      "away_shot_probability": 0.004776926711201668
+    },
+    {
+      "period": 1,
+      "period_seconds": 980.0,
+      "home_shot_probability": 0.0007114052423276007,
+      "away_shot_probability": 0.1445932686328888
+    },
+    {
+      "period": 1,
+      "period_seconds": 985.0,
+      "home_shot_probability": 0.0030152432154864073,
+      "away_shot_probability": 0.20913192629814148
+    },
+    {
+      "period": 1,
+      "period_seconds": 990.0,
+      "home_shot_probability": 0.0011049318127334118,
+      "away_shot_probability": 0.023832254111766815
+    },
+    {
+      "period": 1,
+      "period_seconds": 995.0,
+      "home_shot_probability": 0.00029758515302091837,
+      "away_shot_probability": 0.003734155325219035
+    },
+    {
+      "period": 1,
+      "period_seconds": 1000.0,
+      "home_shot_probability": 0.0002533051010686904,
+      "away_shot_probability": 0.002234736690297723
+    },
+    {
+      "period": 1,
+      "period_seconds": 1005.0,
+      "home_shot_probability": 0.0010100664803758264,
+      "away_shot_probability": 0.0016973481979221106
+    },
+    {
+      "period": 1,
+      "period_seconds": 1010.0,
+      "home_shot_probability": 0.0013125125551596284,
+      "away_shot_probability": 0.0018377701053395867
+    },
+    {
+      "period": 1,
+      "period_seconds": 1015.0,
+      "home_shot_probability": 0.010658599436283112,
+      "away_shot_probability": 0.0008894226048141718
+    },
+    {
+      "period": 1,
+      "period_seconds": 1020.0,
+      "home_shot_probability": 0.0010214769281446934,
+      "away_shot_probability": 0.021956177428364754
+    },
+    {
+      "period": 1,
+      "period_seconds": 1025.0,
+      "home_shot_probability": 0.00042356361518613994,
+      "away_shot_probability": 0.05237650126218796
+    },
+    {
+      "period": 1,
+      "period_seconds": 1030.0,
+      "home_shot_probability": 0.002565925708040595,
+      "away_shot_probability": 0.00879026111215353
+    },
+    {
+      "period": 1,
+      "period_seconds": 1035.0,
+      "home_shot_probability": 0.0009469001670368016,
+      "away_shot_probability": 0.0073565226048231125
+    },
+    {
+      "period": 1,
+      "period_seconds": 1040.0,
+      "home_shot_probability": 0.0007616023067384958,
+      "away_shot_probability": 0.004161969292908907
+    },
+    {
+      "period": 1,
+      "period_seconds": 1045.0,
+      "home_shot_probability": 0.00046514676068909466,
+      "away_shot_probability": 0.0020147371105849743
+    },
+    {
+      "period": 1,
+      "period_seconds": 1050.0,
+      "home_shot_probability": 0.00031140068313106894,
+      "away_shot_probability": 0.0052165682427585125
+    },
+    {
+      "period": 1,
+      "period_seconds": 1055.0,
+      "home_shot_probability": 0.00018249479762744159,
+      "away_shot_probability": 0.0157445278018713
+    },
+    {
+      "period": 1,
+      "period_seconds": 1060.0,
+      "home_shot_probability": 0.0002632945543155074,
+      "away_shot_probability": 0.011587724089622498
+    },
+    {
+      "period": 1,
+      "period_seconds": 1065.0,
+      "home_shot_probability": 0.00012933487596455961,
+      "away_shot_probability": 0.008959268219769001
+    },
+    {
+      "period": 1,
+      "period_seconds": 1070.0,
+      "home_shot_probability": 8.422527025686577e-05,
+      "away_shot_probability": 0.04115533456206322
+    },
+    {
+      "period": 1,
+      "period_seconds": 1075.0,
+      "home_shot_probability": 6.495763955172151e-05,
+      "away_shot_probability": 0.018686754629015923
+    },
+    {
+      "period": 1,
+      "period_seconds": 1080.0,
+      "home_shot_probability": 0.000721896649338305,
+      "away_shot_probability": 0.006081786472350359
+    },
+    {
+      "period": 1,
+      "period_seconds": 1085.0,
+      "home_shot_probability": 0.0005057925009168684,
+      "away_shot_probability": 0.004719356540590525
+    },
+    {
+      "period": 1,
+      "period_seconds": 1090.0,
+      "home_shot_probability": 0.0016230465844273567,
+      "away_shot_probability": 0.0028363559395074844
+    },
+    {
+      "period": 1,
+      "period_seconds": 1095.0,
+      "home_shot_probability": 0.002273010788485408,
+      "away_shot_probability": 0.0022688943427056074
+    },
+    {
+      "period": 1,
+      "period_seconds": 1100.0,
+      "home_shot_probability": 0.0019036044832319021,
+      "away_shot_probability": 0.15596599876880646
+    },
+    {
+      "period": 1,
+      "period_seconds": 1105.0,
+      "home_shot_probability": 0.008725503459572792,
+      "away_shot_probability": 0.036684419959783554
+    },
+    {
+      "period": 1,
+      "period_seconds": 1110.0,
+      "home_shot_probability": 0.002732021501287818,
+      "away_shot_probability": 0.05845880135893822
+    },
+    {
+      "period": 1,
+      "period_seconds": 1115.0,
+      "home_shot_probability": 0.0024386877194046974,
+      "away_shot_probability": 0.01978529617190361
+    },
+    {
+      "period": 1,
+      "period_seconds": 1120.0,
+      "home_shot_probability": 0.017045892775058746,
+      "away_shot_probability": 0.004685134626924992
+    },
+    {
+      "period": 1,
+      "period_seconds": 1125.0,
+      "home_shot_probability": 0.004778046626597643,
+      "away_shot_probability": 0.0021155907306820154
+    },
+    {
+      "period": 1,
+      "period_seconds": 1130.0,
+      "home_shot_probability": 0.003894378198310733,
+      "away_shot_probability": 0.0014669185038655996
+    },
+    {
+      "period": 1,
+      "period_seconds": 1135.0,
+      "home_shot_probability": 0.0014392327284440398,
+      "away_shot_probability": 0.001515067764557898
+    },
+    {
+      "period": 1,
+      "period_seconds": 1140.0,
+      "home_shot_probability": 0.016044888645410538,
+      "away_shot_probability": 0.13299177587032318
+    },
+    {
+      "period": 1,
+      "period_seconds": 1145.0,
+      "home_shot_probability": 0.0038771433755755424,
+      "away_shot_probability": 0.048612598329782486
+    },
+    {
+      "period": 1,
+      "period_seconds": 1150.0,
+      "home_shot_probability": 0.004833323415368795,
+      "away_shot_probability": 0.021772190928459167
+    },
+    {
+      "period": 1,
+      "period_seconds": 1155.0,
+      "home_shot_probability": 0.0020291495602577925,
+      "away_shot_probability": 0.005003991071134806
+    },
+    {
+      "period": 1,
+      "period_seconds": 1160.0,
+      "home_shot_probability": 0.0006028104689903557,
+      "away_shot_probability": 0.0222923681139946
+    },
+    {
+      "period": 1,
+      "period_seconds": 1165.0,
+      "home_shot_probability": 0.0002850215823855251,
+      "away_shot_probability": 0.007237771525979042
+    },
+    {
+      "period": 1,
+      "period_seconds": 1170.0,
+      "home_shot_probability": 0.0001567355648148805,
+      "away_shot_probability": 0.008973072282969952
+    },
+    {
+      "period": 1,
+      "period_seconds": 1175.0,
+      "home_shot_probability": 0.0001889135892270133,
+      "away_shot_probability": 0.023017989471554756
+    },
+    {
+      "period": 1,
+      "period_seconds": 1180.0,
+      "home_shot_probability": 0.002671939553692937,
+      "away_shot_probability": 0.01672467216849327
+    },
+    {
+      "period": 1,
+      "period_seconds": 1185.0,
+      "home_shot_probability": 0.011015819385647774,
+      "away_shot_probability": 0.007204687688499689
+    },
+    {
+      "period": 1,
+      "period_seconds": 1190.0,
+      "home_shot_probability": 0.0019324852619320154,
+      "away_shot_probability": 0.002486630342900753
+    },
+    {
+      "period": 1,
+      "period_seconds": 1195.0,
+      "home_shot_probability": 0.034871261566877365,
+      "away_shot_probability": 0.0018288706196472049
+    },
+    {
+      "period": 1,
+      "period_seconds": 1200.0,
+      "home_shot_probability": 0.20430777966976166,
+      "away_shot_probability": 0.0005963057628832757
+    },
+    {
+      "period": 1,
+      "period_seconds": 1205.0,
+      "home_shot_probability": 0.24625790119171143,
+      "away_shot_probability": 0.00047923781676217914
+    },
+    {
+      "period": 1,
+      "period_seconds": 1210.0,
+      "home_shot_probability": 0.06572501361370087,
+      "away_shot_probability": 0.0012755211209878325
+    },
+    {
+      "period": 1,
+      "period_seconds": 1215.0,
+      "home_shot_probability": 0.020171113312244415,
+      "away_shot_probability": 0.0003561035555321723
+    },
+    {
+      "period": 1,
+      "period_seconds": 1220.0,
+      "home_shot_probability": 0.01383576076477766,
+      "away_shot_probability": 0.0001108870274038054
+    },
+    {
+      "period": 1,
+      "period_seconds": 1225.0,
+      "home_shot_probability": 0.006826560012996197,
+      "away_shot_probability": 0.00012118255835957825
+    },
+    {
+      "period": 1,
+      "period_seconds": 1230.0,
+      "home_shot_probability": 0.005698558408766985,
+      "away_shot_probability": 0.00010736307012848556
+    },
+    {
+      "period": 1,
+      "period_seconds": 1235.0,
+      "home_shot_probability": 0.01604318618774414,
+      "away_shot_probability": 0.0002102712751366198
+    },
+    {
+      "period": 1,
+      "period_seconds": 1240.0,
+      "home_shot_probability": 0.017821526154875755,
+      "away_shot_probability": 0.00020366685930639505
+    },
+    {
+      "period": 1,
+      "period_seconds": 1245.0,
+      "home_shot_probability": 0.01688575930893421,
+      "away_shot_probability": 0.01688575930893421
+    },
+    {
+      "period": 1,
+      "period_seconds": 1250.0,
+      "home_shot_probability": 0.038829803466796875,
+      "away_shot_probability": 0.000158462964463979
+    },
+    {
+      "period": 1,
+      "period_seconds": 1255.0,
+      "home_shot_probability": 0.028384214267134666,
+      "away_shot_probability": 0.00017303338972851634
+    },
+    {
+      "period": 1,
+      "period_seconds": 1260.0,
+      "home_shot_probability": 0.014735618606209755,
+      "away_shot_probability": 0.00025979505153372884
+    },
+    {
+      "period": 1,
+      "period_seconds": 1265.0,
+      "home_shot_probability": 0.007719768211245537,
+      "away_shot_probability": 0.00035660123103298247
+    },
+    {
+      "period": 1,
+      "period_seconds": 1270.0,
+      "home_shot_probability": 0.006245779804885387,
+      "away_shot_probability": 0.0004525194235611707
+    },
+    {
+      "period": 1,
+      "period_seconds": 1275.0,
+      "home_shot_probability": 0.00826177280396223,
+      "away_shot_probability": 0.0002631018287502229
+    },
+    {
+      "period": 1,
+      "period_seconds": 1280.0,
+      "home_shot_probability": 0.029559893533587456,
+      "away_shot_probability": 0.00012625876115635037
+    },
+    {
+      "period": 1,
+      "period_seconds": 1285.0,
+      "home_shot_probability": 0.044734835624694824,
+      "away_shot_probability": 0.001831510802730918
+    },
+    {
+      "period": 1,
+      "period_seconds": 1290.0,
+      "home_shot_probability": 0.1598759889602661,
+      "away_shot_probability": 0.00045068448525853455
+    },
+    {
+      "period": 1,
+      "period_seconds": 1295.0,
+      "home_shot_probability": 0.20538577437400818,
+      "away_shot_probability": 0.0007563806138932705
+    },
+    {
+      "period": 1,
+      "period_seconds": 1300.0,
+      "home_shot_probability": 0.06670626252889633,
+      "away_shot_probability": 0.0003827763721346855
+    },
+    {
+      "period": 1,
+      "period_seconds": 1305.0,
+      "home_shot_probability": 0.017452694475650787,
+      "away_shot_probability": 0.00024804106215015054
+    },
+    {
+      "period": 1,
+      "period_seconds": 1310.0,
+      "home_shot_probability": 0.009233592078089714,
+      "away_shot_probability": 0.00016802996105980128
+    },
+    {
+      "period": 1,
+      "period_seconds": 1315.0,
+      "home_shot_probability": 0.006550829857587814,
+      "away_shot_probability": 0.00011844254186144099
+    },
+    {
+      "period": 1,
+      "period_seconds": 1320.0,
+      "home_shot_probability": 0.013015973381698132,
+      "away_shot_probability": 9.592041169526055e-05
+    },
+    {
+      "period": 1,
+      "period_seconds": 1325.0,
+      "home_shot_probability": 0.07769506424665451,
+      "away_shot_probability": 7.555465708719566e-05
+    },
+    {
+      "period": 1,
+      "period_seconds": 1330.0,
+      "home_shot_probability": 0.02591082453727722,
+      "away_shot_probability": 0.0016537444898858666
+    },
+    {
+      "period": 1,
+      "period_seconds": 1335.0,
+      "home_shot_probability": 0.01678762212395668,
+      "away_shot_probability": 0.0012313255574554205
+    },
+    {
+      "period": 1,
+      "period_seconds": 1340.0,
+      "home_shot_probability": 0.024851301684975624,
+      "away_shot_probability": 0.0033751765731722116
+    },
+    {
+      "period": 1,
+      "period_seconds": 1345.0,
+      "home_shot_probability": 0.007494624238461256,
+      "away_shot_probability": 0.0008618051651865244
+    },
+    {
+      "period": 1,
+      "period_seconds": 1350.0,
+      "home_shot_probability": 0.015991955995559692,
+      "away_shot_probability": 0.0003672321035992354
+    },
+    {
+      "period": 1,
+      "period_seconds": 1355.0,
+      "home_shot_probability": 0.010763298720121384,
+      "away_shot_probability": 0.00025863692280836403
+    },
+    {
+      "period": 1,
+      "period_seconds": 1360.0,
+      "home_shot_probability": 0.005559409502893686,
+      "away_shot_probability": 0.0002121374272974208
+    },
+    {
+      "period": 1,
+      "period_seconds": 1365.0,
+      "home_shot_probability": 0.007765325251966715,
+      "away_shot_probability": 0.00022681876725982875
+    },
+    {
+      "period": 1,
+      "period_seconds": 1370.0,
+      "home_shot_probability": 0.03471406549215317,
+      "away_shot_probability": 0.0011332986177876592
+    },
+    {
+      "period": 1,
+      "period_seconds": 1375.0,
+      "home_shot_probability": 0.014258899725973606,
+      "away_shot_probability": 0.000605492852628231
+    },
+    {
+      "period": 1,
+      "period_seconds": 1380.0,
+      "home_shot_probability": 0.014058483764529228,
+      "away_shot_probability": 0.00042498420225456357
+    },
+    {
+      "period": 1,
+      "period_seconds": 1385.0,
+      "home_shot_probability": 0.0028148028068244457,
+      "away_shot_probability": 0.010392378084361553
+    },
+    {
+      "period": 1,
+      "period_seconds": 1390.0,
+      "home_shot_probability": 0.0013396836584433913,
+      "away_shot_probability": 0.009333090856671333
+    },
+    {
+      "period": 1,
+      "period_seconds": 1395.0,
+      "home_shot_probability": 0.0012101682368665934,
+      "away_shot_probability": 0.0053783017210662365
+    },
+    {
+      "period": 1,
+      "period_seconds": 1400.0,
+      "home_shot_probability": 0.00026146339951083064,
+      "away_shot_probability": 0.015864364802837372
+    },
+    {
+      "period": 1,
+      "period_seconds": 1405.0,
+      "home_shot_probability": 0.053226031363010406,
+      "away_shot_probability": 0.01586957648396492
+    },
+    {
+      "period": 1,
+      "period_seconds": 1410.0,
+      "home_shot_probability": 0.049098189920186996,
+      "away_shot_probability": 0.007253929972648621
+    },
+    {
+      "period": 1,
+      "period_seconds": 1415.0,
+      "home_shot_probability": 0.012879954650998116,
+      "away_shot_probability": 0.004132790025323629
+    },
+    {
+      "period": 1,
+      "period_seconds": 1420.0,
+      "home_shot_probability": 0.00450546620413661,
+      "away_shot_probability": 0.0028324825689196587
+    },
+    {
+      "period": 1,
+      "period_seconds": 1425.0,
+      "home_shot_probability": 0.0025147879496216774,
+      "away_shot_probability": 0.0020334308501333
+    },
+    {
+      "period": 1,
+      "period_seconds": 1430.0,
+      "home_shot_probability": 0.0015076912241056561,
+      "away_shot_probability": 0.0012832069769501686
+    },
+    {
+      "period": 1,
+      "period_seconds": 1435.0,
+      "home_shot_probability": 0.024089308455586433,
+      "away_shot_probability": 0.0005486101727001369
+    },
+    {
+      "period": 1,
+      "period_seconds": 1440.0,
+      "home_shot_probability": 0.018597735092043877,
+      "away_shot_probability": 0.0005173227400518954
+    },
+    {
+      "period": 1,
+      "period_seconds": 1445.0,
+      "home_shot_probability": 0.017049504444003105,
+      "away_shot_probability": 0.017049504444003105
+    },
+    {
+      "period": 1,
+      "period_seconds": 1450.0,
+      "home_shot_probability": 0.017053620889782906,
+      "away_shot_probability": 0.017053620889782906
+    },
+    {
+      "period": 1,
+      "period_seconds": 1455.0,
+      "home_shot_probability": 0.01705772988498211,
+      "away_shot_probability": 0.01705772988498211
+    },
+    {
+      "period": 1,
+      "period_seconds": 1460.0,
+      "home_shot_probability": 0.01706184633076191,
+      "away_shot_probability": 0.01706184633076191
+    },
+    {
+      "period": 1,
+      "period_seconds": 1465.0,
+      "home_shot_probability": 0.01706596650183201,
+      "away_shot_probability": 0.01706596650183201
+    },
+    {
+      "period": 1,
+      "period_seconds": 1470.0,
+      "home_shot_probability": 0.012545445933938026,
+      "away_shot_probability": 0.00025797050329856575
+    },
+    {
+      "period": 1,
+      "period_seconds": 1475.0,
+      "home_shot_probability": 0.004688733723014593,
+      "away_shot_probability": 0.0014154183445498347
+    },
+    {
+      "period": 1,
+      "period_seconds": 1480.0,
+      "home_shot_probability": 0.004032186698168516,
+      "away_shot_probability": 0.0012559539172798395
+    },
+    {
+      "period": 1,
+      "period_seconds": 1485.0,
+      "home_shot_probability": 0.0017681984463706613,
+      "away_shot_probability": 0.016324277967214584
+    },
+    {
+      "period": 1,
+      "period_seconds": 1490.0,
+      "home_shot_probability": 0.0010926078539341688,
+      "away_shot_probability": 0.007308552972972393
+    },
+    {
+      "period": 1,
+      "period_seconds": 1495.0,
+      "home_shot_probability": 0.0007361734751611948,
+      "away_shot_probability": 0.0035534510388970375
+    },
+    {
+      "period": 1,
+      "period_seconds": 1500.0,
+      "home_shot_probability": 0.00043136189924553037,
+      "away_shot_probability": 0.004037751816213131
+    },
+    {
+      "period": 1,
+      "period_seconds": 1505.0,
+      "home_shot_probability": 0.00033958296990022063,
+      "away_shot_probability": 0.006502027157694101
+    },
+    {
+      "period": 1,
+      "period_seconds": 1510.0,
+      "home_shot_probability": 0.00025180255761370063,
+      "away_shot_probability": 0.009428431279957294
+    },
+    {
+      "period": 1,
+      "period_seconds": 1515.0,
+      "home_shot_probability": 0.01710718497633934,
+      "away_shot_probability": 0.01710718497633934
+    },
+    {
+      "period": 1,
+      "period_seconds": 1520.0,
+      "home_shot_probability": 0.017111314460635185,
+      "away_shot_probability": 0.017111314460635185
+    },
+    {
+      "period": 1,
+      "period_seconds": 1525.0,
+      "home_shot_probability": 0.017115438356995583,
+      "away_shot_probability": 0.017115438356995583
+    },
+    {
+      "period": 1,
+      "period_seconds": 1530.0,
+      "home_shot_probability": 0.017119569703936577,
+      "away_shot_probability": 0.017119569703936577
+    },
+    {
+      "period": 1,
+      "period_seconds": 1535.0,
+      "home_shot_probability": 0.005932157393544912,
+      "away_shot_probability": 0.0013500262284651399
+    },
+    {
+      "period": 1,
+      "period_seconds": 1540.0,
+      "home_shot_probability": 0.002521670190617442,
+      "away_shot_probability": 0.04672277346253395
+    },
+    {
+      "period": 1,
+      "period_seconds": 1545.0,
+      "home_shot_probability": 0.0011296580778434873,
+      "away_shot_probability": 0.035469017922878265
+    },
+    {
+      "period": 1,
+      "period_seconds": 1550.0,
+      "home_shot_probability": 0.0006160364137031138,
+      "away_shot_probability": 0.021342433989048004
+    },
+    {
+      "period": 1,
+      "period_seconds": 1555.0,
+      "home_shot_probability": 0.00031309094629250467,
+      "away_shot_probability": 0.009791141375899315
+    },
+    {
+      "period": 1,
+      "period_seconds": 1560.0,
+      "home_shot_probability": 0.0001351094397250563,
+      "away_shot_probability": 0.039844539016485214
+    },
+    {
+      "period": 1,
+      "period_seconds": 1565.0,
+      "home_shot_probability": 6.437575211748481e-05,
+      "away_shot_probability": 0.019512591883540154
+    },
+    {
+      "period": 1,
+      "period_seconds": 1570.0,
+      "home_shot_probability": 9.675868932390586e-05,
+      "away_shot_probability": 0.010318998247385025
+    },
+    {
+      "period": 1,
+      "period_seconds": 1575.0,
+      "home_shot_probability": 0.00014941922563593835,
+      "away_shot_probability": 0.012144435197114944
+    },
+    {
+      "period": 1,
+      "period_seconds": 1580.0,
+      "home_shot_probability": 0.0002032520860666409,
+      "away_shot_probability": 0.01646050065755844
+    },
+    {
+      "period": 1,
+      "period_seconds": 1585.0,
+      "home_shot_probability": 0.00019061878265347332,
+      "away_shot_probability": 0.021001502871513367
+    },
+    {
+      "period": 1,
+      "period_seconds": 1590.0,
+      "home_shot_probability": 0.01716919243335724,
+      "away_shot_probability": 0.01716919243335724
+    },
+    {
+      "period": 1,
+      "period_seconds": 1595.0,
+      "home_shot_probability": 0.005644584074616432,
+      "away_shot_probability": 0.0015056588454172015
+    },
+    {
+      "period": 1,
+      "period_seconds": 1600.0,
+      "home_shot_probability": 0.004047431517392397,
+      "away_shot_probability": 0.009296336211264133
+    },
+    {
+      "period": 1,
+      "period_seconds": 1605.0,
+      "home_shot_probability": 0.0019501785282045603,
+      "away_shot_probability": 0.009850493632256985
+    },
+    {
+      "period": 1,
+      "period_seconds": 1610.0,
+      "home_shot_probability": 0.0011999786365777254,
+      "away_shot_probability": 0.007395967375487089
+    },
+    {
+      "period": 1,
+      "period_seconds": 1615.0,
+      "home_shot_probability": 0.0006290555465966463,
+      "away_shot_probability": 0.046799320727586746
+    },
+    {
+      "period": 1,
+      "period_seconds": 1620.0,
+      "home_shot_probability": 0.0027595071587711573,
+      "away_shot_probability": 0.04977017641067505
+    },
+    {
+      "period": 1,
+      "period_seconds": 1625.0,
+      "home_shot_probability": 0.0006019328720867634,
+      "away_shot_probability": 0.028800880536437035
+    },
+    {
+      "period": 1,
+      "period_seconds": 1630.0,
+      "home_shot_probability": 0.00048799708019942045,
+      "away_shot_probability": 0.043515436351299286
+    },
+    {
+      "period": 1,
+      "period_seconds": 1635.0,
+      "home_shot_probability": 0.0002213688858319074,
+      "away_shot_probability": 0.020240502431988716
+    },
+    {
+      "period": 1,
+      "period_seconds": 1640.0,
+      "home_shot_probability": 6.578034663107246e-05,
+      "away_shot_probability": 0.08195901662111282
+    },
+    {
+      "period": 1,
+      "period_seconds": 1645.0,
+      "home_shot_probability": 0.0007224479340948164,
+      "away_shot_probability": 0.03269409388303757
+    },
+    {
+      "period": 1,
+      "period_seconds": 1650.0,
+      "home_shot_probability": 0.0005022461991757154,
+      "away_shot_probability": 0.015474815852940083
+    },
+    {
+      "period": 1,
+      "period_seconds": 1655.0,
+      "home_shot_probability": 0.0004539285146165639,
+      "away_shot_probability": 0.017593737691640854
+    },
+    {
+      "period": 1,
+      "period_seconds": 1660.0,
+      "home_shot_probability": 0.00023243649047799408,
+      "away_shot_probability": 0.06904133409261703
+    },
+    {
+      "period": 1,
+      "period_seconds": 1665.0,
+      "home_shot_probability": 0.000113880836579483,
+      "away_shot_probability": 0.052615031599998474
+    },
+    {
+      "period": 1,
+      "period_seconds": 1670.0,
+      "home_shot_probability": 7.509258284699172e-05,
+      "away_shot_probability": 0.041513338685035706
+    },
+    {
+      "period": 1,
+      "period_seconds": 1675.0,
+      "home_shot_probability": 7.333920802921057e-05,
+      "away_shot_probability": 0.012943633832037449
+    },
+    {
+      "period": 1,
+      "period_seconds": 1680.0,
+      "home_shot_probability": 4.65465200250037e-05,
+      "away_shot_probability": 0.03564104810357094
+    },
+    {
+      "period": 1,
+      "period_seconds": 1685.0,
+      "home_shot_probability": 4.6557524910895154e-05,
+      "away_shot_probability": 0.04790012538433075
+    },
+    {
+      "period": 1,
+      "period_seconds": 1690.0,
+      "home_shot_probability": 6.07104848313611e-05,
+      "away_shot_probability": 0.02217557281255722
+    },
+    {
+      "period": 1,
+      "period_seconds": 1695.0,
+      "home_shot_probability": 3.2857755286386237e-05,
+      "away_shot_probability": 0.025225114077329636
+    },
+    {
+      "period": 1,
+      "period_seconds": 1700.0,
+      "home_shot_probability": 0.0005305912345647812,
+      "away_shot_probability": 0.005951275117695332
+    },
+    {
+      "period": 1,
+      "period_seconds": 1705.0,
+      "home_shot_probability": 0.0003656452754512429,
+      "away_shot_probability": 0.004541411995887756
+    },
+    {
+      "period": 1,
+      "period_seconds": 1710.0,
+      "home_shot_probability": 0.005054978653788567,
+      "away_shot_probability": 0.00958262849599123
+    },
+    {
+      "period": 1,
+      "period_seconds": 1715.0,
+      "home_shot_probability": 0.05279722809791565,
+      "away_shot_probability": 0.020317845046520233
+    },
+    {
+      "period": 1,
+      "period_seconds": 1720.0,
+      "home_shot_probability": 0.018665596842765808,
+      "away_shot_probability": 0.006703787017613649
+    },
+    {
+      "period": 1,
+      "period_seconds": 1725.0,
+      "home_shot_probability": 0.10707030445337296,
+      "away_shot_probability": 0.0018180635524913669
+    },
+    {
+      "period": 1,
+      "period_seconds": 1730.0,
+      "home_shot_probability": 0.020291784778237343,
+      "away_shot_probability": 0.0009815192315727472
+    },
+    {
+      "period": 1,
+      "period_seconds": 1735.0,
+      "home_shot_probability": 0.009846596978604794,
+      "away_shot_probability": 0.0008268184028565884
+    },
+    {
+      "period": 1,
+      "period_seconds": 1740.0,
+      "home_shot_probability": 0.006801765877753496,
+      "away_shot_probability": 0.0006891287048347294
+    },
+    {
+      "period": 1,
+      "period_seconds": 1745.0,
+      "home_shot_probability": 0.006640483625233173,
+      "away_shot_probability": 0.0002848015574272722
+    },
+    {
+      "period": 1,
+      "period_seconds": 1750.0,
+      "home_shot_probability": 0.006552477367222309,
+      "away_shot_probability": 0.00031502003548666835
+    },
+    {
+      "period": 1,
+      "period_seconds": 1755.0,
+      "home_shot_probability": 0.0012609373079612851,
+      "away_shot_probability": 0.010335378348827362
+    },
+    {
+      "period": 1,
+      "period_seconds": 1760.0,
+      "home_shot_probability": 0.0006839552661404014,
+      "away_shot_probability": 0.025719398632645607
+    },
+    {
+      "period": 1,
+      "period_seconds": 1765.0,
+      "home_shot_probability": 0.00030333062750287354,
+      "away_shot_probability": 0.01126843225210905
+    },
+    {
+      "period": 1,
+      "period_seconds": 1770.0,
+      "home_shot_probability": 0.00012263165262993425,
+      "away_shot_probability": 0.04685774818062782
+    },
+    {
+      "period": 1,
+      "period_seconds": 1775.0,
+      "home_shot_probability": 0.0816354751586914,
+      "away_shot_probability": 0.01931859366595745
+    },
+    {
+      "period": 1,
+      "period_seconds": 1780.0,
+      "home_shot_probability": 0.01791713386774063,
+      "away_shot_probability": 0.0020779347978532314
+    },
+    {
+      "period": 1,
+      "period_seconds": 1785.0,
+      "home_shot_probability": 0.0063499026000499725,
+      "away_shot_probability": 0.004269646946340799
+    },
+    {
+      "period": 1,
+      "period_seconds": 1790.0,
+      "home_shot_probability": 0.01353064738214016,
+      "away_shot_probability": 0.014970912598073483
+    },
+    {
+      "period": 1,
+      "period_seconds": 1795.0,
+      "home_shot_probability": 0.008452453650534153,
+      "away_shot_probability": 0.02682521566748619
+    },
+    {
+      "period": 1,
+      "period_seconds": 1800.0,
+      "home_shot_probability": 0.005044842138886452,
+      "away_shot_probability": 0.03811940550804138
+    },
+    {
+      "period": 1,
+      "period_seconds": 1805.0,
+      "home_shot_probability": 0.00041616964153945446,
+      "away_shot_probability": 0.014002947136759758
+    },
+    {
+      "period": 1,
+      "period_seconds": 1810.0,
+      "home_shot_probability": 0.0014965962618589401,
+      "away_shot_probability": 0.11500731855630875
+    },
+    {
+      "period": 1,
+      "period_seconds": 1815.0,
+      "home_shot_probability": 0.004498588852584362,
+      "away_shot_probability": 0.043306559324264526
+    },
+    {
+      "period": 1,
+      "period_seconds": 1820.0,
+      "home_shot_probability": 0.005327616818249226,
+      "away_shot_probability": 0.05561261624097824
+    },
+    {
+      "period": 1,
+      "period_seconds": 1825.0,
+      "home_shot_probability": 0.0013676350936293602,
+      "away_shot_probability": 0.030613208189606667
+    },
+    {
+      "period": 1,
+      "period_seconds": 1830.0,
+      "home_shot_probability": 0.0004949099966324866,
+      "away_shot_probability": 0.027881376445293427
+    },
+    {
+      "period": 1,
+      "period_seconds": 1835.0,
+      "home_shot_probability": 0.00023879544460214674,
+      "away_shot_probability": 0.07029400020837784
+    },
+    {
+      "period": 1,
+      "period_seconds": 1840.0,
+      "home_shot_probability": 0.00016865661018528044,
+      "away_shot_probability": 0.06855279207229614
+    },
+    {
+      "period": 1,
+      "period_seconds": 1845.0,
+      "home_shot_probability": 0.0004688564804382622,
+      "away_shot_probability": 0.03794101998209953
+    },
+    {
+      "period": 1,
+      "period_seconds": 1850.0,
+      "home_shot_probability": 0.0004964540712535381,
+      "away_shot_probability": 0.07313982397317886
+    },
+    {
+      "period": 1,
+      "period_seconds": 1855.0,
+      "home_shot_probability": 0.0011473092017695308,
+      "away_shot_probability": 0.11893784254789352
+    },
+    {
+      "period": 1,
+      "period_seconds": 1860.0,
+      "home_shot_probability": 0.0005832270835526288,
+      "away_shot_probability": 0.03982003778219223
+    },
+    {
+      "period": 1,
+      "period_seconds": 1865.0,
+      "home_shot_probability": 0.00033533188980072737,
+      "away_shot_probability": 0.013570955023169518
+    },
+    {
+      "period": 1,
+      "period_seconds": 1870.0,
+      "home_shot_probability": 0.00021340760577004403,
+      "away_shot_probability": 0.007438888773322105
+    },
+    {
+      "period": 1,
+      "period_seconds": 1875.0,
+      "home_shot_probability": 0.0001930905127665028,
+      "away_shot_probability": 0.0057033514603972435
+    },
+    {
+      "period": 1,
+      "period_seconds": 1880.0,
+      "home_shot_probability": 0.0001409822580171749,
+      "away_shot_probability": 0.004491415340453386
+    },
+    {
+      "period": 1,
+      "period_seconds": 1885.0,
+      "home_shot_probability": 0.016092391684651375,
+      "away_shot_probability": 0.000425860402174294
+    },
+    {
+      "period": 1,
+      "period_seconds": 1890.0,
+      "home_shot_probability": 0.13324518501758575,
+      "away_shot_probability": 0.00016368180513381958
+    },
+    {
+      "period": 1,
+      "period_seconds": 1895.0,
+      "home_shot_probability": 0.062390536069869995,
+      "away_shot_probability": 0.00013074099842924625
+    },
+    {
+      "period": 1,
+      "period_seconds": 1900.0,
+      "home_shot_probability": 0.013904379680752754,
+      "away_shot_probability": 0.0035237933043390512
+    },
+    {
+      "period": 1,
+      "period_seconds": 1905.0,
+      "home_shot_probability": 0.010375900194048882,
+      "away_shot_probability": 0.005891512613743544
+    },
+    {
+      "period": 1,
+      "period_seconds": 1910.0,
+      "home_shot_probability": 0.0065851532854139805,
+      "away_shot_probability": 0.0018676690524443984
+    },
+    {
+      "period": 1,
+      "period_seconds": 1915.0,
+      "home_shot_probability": 0.02600221335887909,
+      "away_shot_probability": 0.0007588720764033496
+    },
+    {
+      "period": 1,
+      "period_seconds": 1920.0,
+      "home_shot_probability": 0.009492422454059124,
+      "away_shot_probability": 0.0022943485528230667
+    },
+    {
+      "period": 1,
+      "period_seconds": 1925.0,
+      "home_shot_probability": 0.005259450059384108,
+      "away_shot_probability": 0.0010832594707608223
+    },
+    {
+      "period": 1,
+      "period_seconds": 1930.0,
+      "home_shot_probability": 0.010199845768511295,
+      "away_shot_probability": 0.00045937663526274264
+    },
+    {
+      "period": 1,
+      "period_seconds": 1935.0,
+      "home_shot_probability": 0.02584478072822094,
+      "away_shot_probability": 0.00256682769395411
+    },
+    {
+      "period": 1,
+      "period_seconds": 1940.0,
+      "home_shot_probability": 0.04150521755218506,
+      "away_shot_probability": 0.0022172441240400076
+    },
+    {
+      "period": 1,
+      "period_seconds": 1945.0,
+      "home_shot_probability": 0.013277459889650345,
+      "away_shot_probability": 0.0014796117320656776
+    },
+    {
+      "period": 1,
+      "period_seconds": 1950.0,
+      "home_shot_probability": 0.005291867535561323,
+      "away_shot_probability": 0.0009056079434230924
+    },
+    {
+      "period": 1,
+      "period_seconds": 1955.0,
+      "home_shot_probability": 0.002771992003545165,
+      "away_shot_probability": 0.0005262648919597268
+    },
+    {
+      "period": 1,
+      "period_seconds": 1960.0,
+      "home_shot_probability": 0.0007439524051733315,
+      "away_shot_probability": 0.019176308065652847
+    },
+    {
+      "period": 1,
+      "period_seconds": 1965.0,
+      "home_shot_probability": 0.001117525389418006,
+      "away_shot_probability": 0.09455446153879166
+    },
+    {
+      "period": 1,
+      "period_seconds": 1970.0,
+      "home_shot_probability": 0.0002473561908118427,
+      "away_shot_probability": 0.009067869745194912
+    },
+    {
+      "period": 1,
+      "period_seconds": 1975.0,
+      "home_shot_probability": 0.0013567692367359996,
+      "away_shot_probability": 0.007304274011403322
+    },
+    {
+      "period": 1,
+      "period_seconds": 1980.0,
+      "home_shot_probability": 0.0008074751240201294,
+      "away_shot_probability": 0.007823913358151913
+    },
+    {
+      "period": 1,
+      "period_seconds": 1985.0,
+      "home_shot_probability": 0.002029520459473133,
+      "away_shot_probability": 0.0016668655443936586
+    },
+    {
+      "period": 1,
+      "period_seconds": 1990.0,
+      "home_shot_probability": 0.0033306980039924383,
+      "away_shot_probability": 0.03465898707509041
+    },
+    {
+      "period": 1,
+      "period_seconds": 1995.0,
+      "home_shot_probability": 0.001314834807999432,
+      "away_shot_probability": 0.0073982891626656055
+    },
+    {
+      "period": 1,
+      "period_seconds": 2000.0,
+      "home_shot_probability": 0.0006532120169140399,
+      "away_shot_probability": 0.021095290780067444
+    },
+    {
+      "period": 1,
+      "period_seconds": 2005.0,
+      "home_shot_probability": 0.0003288735169917345,
+      "away_shot_probability": 0.028544461354613304
+    },
+    {
+      "period": 1,
+      "period_seconds": 2010.0,
+      "home_shot_probability": 0.00020565530576277524,
+      "away_shot_probability": 0.040880925953388214
+    },
+    {
+      "period": 1,
+      "period_seconds": 2015.0,
+      "home_shot_probability": 0.0001661235000938177,
+      "away_shot_probability": 0.017939023673534393
+    },
+    {
+      "period": 1,
+      "period_seconds": 2020.0,
+      "home_shot_probability": 0.000841356988530606,
+      "away_shot_probability": 0.30523744225502014
+    },
+    {
+      "period": 1,
+      "period_seconds": 2025.0,
+      "home_shot_probability": 0.0011053744237869978,
+      "away_shot_probability": 0.048441290855407715
+    },
+    {
+      "period": 1,
+      "period_seconds": 2030.0,
+      "home_shot_probability": 0.008764813654124737,
+      "away_shot_probability": 0.017899053171277046
+    },
+    {
+      "period": 1,
+      "period_seconds": 2035.0,
+      "home_shot_probability": 0.007970123551785946,
+      "away_shot_probability": 0.006550159305334091
+    },
+    {
+      "period": 1,
+      "period_seconds": 2040.0,
+      "home_shot_probability": 0.0019538074266165495,
+      "away_shot_probability": 0.001106626121327281
+    },
+    {
+      "period": 1,
+      "period_seconds": 2045.0,
+      "home_shot_probability": 0.0011342046782374382,
+      "away_shot_probability": 0.002172676147893071
+    },
+    {
+      "period": 1,
+      "period_seconds": 2050.0,
+      "home_shot_probability": 0.0005278621683828533,
+      "away_shot_probability": 0.014930028468370438
+    },
+    {
+      "period": 1,
+      "period_seconds": 2055.0,
+      "home_shot_probability": 0.0003459635772742331,
+      "away_shot_probability": 0.025010867044329643
+    },
+    {
+      "period": 1,
+      "period_seconds": 2060.0,
+      "home_shot_probability": 0.000132026121718809,
+      "away_shot_probability": 0.03630979731678963
+    },
+    {
+      "period": 1,
+      "period_seconds": 2065.0,
+      "home_shot_probability": 4.8138663260033354e-05,
+      "away_shot_probability": 0.14652827382087708
+    },
+    {
+      "period": 1,
+      "period_seconds": 2070.0,
+      "home_shot_probability": 0.0005927695310674608,
+      "away_shot_probability": 0.15149691700935364
+    },
+    {
+      "period": 1,
+      "period_seconds": 2075.0,
+      "home_shot_probability": 0.0005450568278320134,
+      "away_shot_probability": 0.18702511489391327
+    },
+    {
+      "period": 1,
+      "period_seconds": 2080.0,
+      "home_shot_probability": 0.00045933102956041694,
+      "away_shot_probability": 0.08210382610559464
+    },
+    {
+      "period": 1,
+      "period_seconds": 2085.0,
+      "home_shot_probability": 0.0003178509941790253,
+      "away_shot_probability": 0.1163264587521553
+    },
+    {
+      "period": 1,
+      "period_seconds": 2090.0,
+      "home_shot_probability": 0.00013032651622779667,
+      "away_shot_probability": 0.15513567626476288
+    },
+    {
+      "period": 1,
+      "period_seconds": 2095.0,
+      "home_shot_probability": 6.907636998221278e-05,
+      "away_shot_probability": 0.18820326030254364
+    },
+    {
+      "period": 1,
+      "period_seconds": 2100.0,
+      "home_shot_probability": 0.000741759198717773,
+      "away_shot_probability": 0.15651766955852509
+    },
+    {
+      "period": 1,
+      "period_seconds": 2105.0,
+      "home_shot_probability": 0.0012681258376687765,
+      "away_shot_probability": 0.07530456781387329
+    },
+    {
+      "period": 1,
+      "period_seconds": 2110.0,
+      "home_shot_probability": 0.0011266060173511505,
+      "away_shot_probability": 0.06424695253372192
+    },
+    {
+      "period": 1,
+      "period_seconds": 2115.0,
+      "home_shot_probability": 0.0005731359706260264,
+      "away_shot_probability": 0.015144463628530502
+    },
+    {
+      "period": 1,
+      "period_seconds": 2120.0,
+      "home_shot_probability": 0.0004601613327395171,
+      "away_shot_probability": 0.006063168868422508
+    },
+    {
+      "period": 1,
+      "period_seconds": 2125.0,
+      "home_shot_probability": 0.0003994472208432853,
+      "away_shot_probability": 0.00462696747854352
+    },
+    {
+      "period": 1,
+      "period_seconds": 2130.0,
+      "home_shot_probability": 0.00031076304730959237,
+      "away_shot_probability": 0.004443299490958452
+    },
+    {
+      "period": 1,
+      "period_seconds": 2135.0,
+      "home_shot_probability": 0.006225040648132563,
+      "away_shot_probability": 0.001066469238139689
+    },
+    {
+      "period": 1,
+      "period_seconds": 2140.0,
+      "home_shot_probability": 0.017501749098300934,
+      "away_shot_probability": 0.017501749098300934
+    },
+    {
+      "period": 1,
+      "period_seconds": 2145.0,
+      "home_shot_probability": 0.01750432327389717,
+      "away_shot_probability": 0.01750432327389717
+    },
+    {
+      "period": 1,
+      "period_seconds": 2150.0,
+      "home_shot_probability": 0.017506906762719154,
+      "away_shot_probability": 0.017506906762719154
+    },
+    {
+      "period": 1,
+      "period_seconds": 2155.0,
+      "home_shot_probability": 0.007747988682240248,
+      "away_shot_probability": 0.0008046615403145552
+    },
+    {
+      "period": 1,
+      "period_seconds": 2160.0,
+      "home_shot_probability": 0.006988374516367912,
+      "away_shot_probability": 0.011078908108174801
+    },
+    {
+      "period": 1,
+      "period_seconds": 2165.0,
+      "home_shot_probability": 0.003577782306820154,
+      "away_shot_probability": 0.015096403658390045
+    },
+    {
+      "period": 1,
+      "period_seconds": 2170.0,
+      "home_shot_probability": 0.003053489373996854,
+      "away_shot_probability": 0.0036996854469180107
+    },
+    {
+      "period": 1,
+      "period_seconds": 2175.0,
+      "home_shot_probability": 0.002261305460706353,
+      "away_shot_probability": 0.0036550608929246664
+    },
+    {
+      "period": 1,
+      "period_seconds": 2180.0,
+      "home_shot_probability": 0.000786256103310734,
+      "away_shot_probability": 0.017181579023599625
+    },
+    {
+      "period": 1,
+      "period_seconds": 2185.0,
+      "home_shot_probability": 0.00019296866958029568,
+      "away_shot_probability": 0.028713392093777657
+    },
+    {
+      "period": 1,
+      "period_seconds": 2190.0,
+      "home_shot_probability": 0.00562327541410923,
+      "away_shot_probability": 0.018151162192225456
+    },
+    {
+      "period": 1,
+      "period_seconds": 2195.0,
+      "home_shot_probability": 0.011938498355448246,
+      "away_shot_probability": 0.031338904052972794
+    },
+    {
+      "period": 1,
+      "period_seconds": 2200.0,
+      "home_shot_probability": 0.004438865929841995,
+      "away_shot_probability": 0.006409549154341221
+    },
+    {
+      "period": 1,
+      "period_seconds": 2205.0,
+      "home_shot_probability": 0.0022946835961192846,
+      "away_shot_probability": 0.004948483780026436
+    },
+    {
+      "period": 1,
+      "period_seconds": 2210.0,
+      "home_shot_probability": 0.0010704593732953072,
+      "away_shot_probability": 0.021335354074835777
+    },
+    {
+      "period": 1,
+      "period_seconds": 2215.0,
+      "home_shot_probability": 0.0008822999079711735,
+      "away_shot_probability": 0.01847156509757042
+    },
+    {
+      "period": 1,
+      "period_seconds": 2220.0,
+      "home_shot_probability": 0.00040968655957840383,
+      "away_shot_probability": 0.04084184020757675
+    },
+    {
+      "period": 1,
+      "period_seconds": 2225.0,
+      "home_shot_probability": 0.00010779454896692187,
+      "away_shot_probability": 0.05941836163401604
+    },
+    {
+      "period": 1,
+      "period_seconds": 2230.0,
+      "home_shot_probability": 5.3761650633532554e-05,
+      "away_shot_probability": 0.14526812732219696
+    },
+    {
+      "period": 1,
+      "period_seconds": 2235.0,
+      "home_shot_probability": 0.001173191238194704,
+      "away_shot_probability": 0.14335116744041443
+    },
+    {
+      "period": 1,
+      "period_seconds": 2240.0,
+      "home_shot_probability": 0.0006310332682915032,
+      "away_shot_probability": 0.04817623645067215
+    },
+    {
+      "period": 1,
+      "period_seconds": 2245.0,
+      "home_shot_probability": 0.0003182998043484986,
+      "away_shot_probability": 0.01703941449522972
+    },
+    {
+      "period": 1,
+      "period_seconds": 2250.0,
+      "home_shot_probability": 0.00021126121282577515,
+      "away_shot_probability": 0.012581933289766312
+    },
+    {
+      "period": 1,
+      "period_seconds": 2255.0,
+      "home_shot_probability": 0.00015451564104296267,
+      "away_shot_probability": 0.013199791312217712
+    },
+    {
+      "period": 1,
+      "period_seconds": 2260.0,
+      "home_shot_probability": 0.0001289570500375703,
+      "away_shot_probability": 0.01683840900659561
+    },
+    {
+      "period": 1,
+      "period_seconds": 2265.0,
+      "home_shot_probability": 0.008479415439069271,
+      "away_shot_probability": 0.0008928686147555709
+    },
+    {
+      "period": 1,
+      "period_seconds": 2270.0,
+      "home_shot_probability": 0.0015192298451438546,
+      "away_shot_probability": 0.012048101983964443
+    },
+    {
+      "period": 1,
+      "period_seconds": 2275.0,
+      "home_shot_probability": 0.0006657674093730748,
+      "away_shot_probability": 0.028958095237612724
+    },
+    {
+      "period": 1,
+      "period_seconds": 2280.0,
+      "home_shot_probability": 0.0003266054263804108,
+      "away_shot_probability": 0.06163562089204788
+    },
+    {
+      "period": 1,
+      "period_seconds": 2285.0,
+      "home_shot_probability": 0.00454478245228529,
+      "away_shot_probability": 0.05031375586986542
+    },
+    {
+      "period": 1,
+      "period_seconds": 2290.0,
+      "home_shot_probability": 0.007561672944575548,
+      "away_shot_probability": 0.018975410610437393
+    },
+    {
+      "period": 1,
+      "period_seconds": 2295.0,
+      "home_shot_probability": 0.007214318960905075,
+      "away_shot_probability": 0.004554264713078737
+    },
+    {
+      "period": 1,
+      "period_seconds": 2300.0,
+      "home_shot_probability": 0.0021666432730853558,
+      "away_shot_probability": 0.0013446534285321832
+    },
+    {
+      "period": 1,
+      "period_seconds": 2305.0,
+      "home_shot_probability": 0.0022364810574799776,
+      "away_shot_probability": 0.0018882494186982512
+    },
+    {
+      "period": 1,
+      "period_seconds": 2310.0,
+      "home_shot_probability": 0.0018657570471987128,
+      "away_shot_probability": 0.0060486686415970325
+    },
+    {
+      "period": 1,
+      "period_seconds": 2315.0,
+      "home_shot_probability": 0.0011305531952530146,
+      "away_shot_probability": 0.013974987901747227
+    },
+    {
+      "period": 1,
+      "period_seconds": 2320.0,
+      "home_shot_probability": 0.0005966955213807523,
+      "away_shot_probability": 0.02393718995153904
+    },
+    {
+      "period": 1,
+      "period_seconds": 2325.0,
+      "home_shot_probability": 0.00014802634541410953,
+      "away_shot_probability": 0.06667619943618774
+    },
+    {
+      "period": 1,
+      "period_seconds": 2330.0,
+      "home_shot_probability": 9.714634506963193e-05,
+      "away_shot_probability": 0.040451958775520325
+    },
+    {
+      "period": 1,
+      "period_seconds": 2335.0,
+      "home_shot_probability": 7.232010102597997e-05,
+      "away_shot_probability": 0.023333746939897537
+    },
+    {
+      "period": 1,
+      "period_seconds": 2340.0,
+      "home_shot_probability": 3.0025028536329046e-05,
+      "away_shot_probability": 0.0730733796954155
+    },
+    {
+      "period": 1,
+      "period_seconds": 2345.0,
+      "home_shot_probability": 2.573834171926137e-05,
+      "away_shot_probability": 0.13525179028511047
+    },
+    {
+      "period": 1,
+      "period_seconds": 2350.0,
+      "home_shot_probability": 0.0029961757827550173,
+      "away_shot_probability": 0.05646653100848198
+    },
+    {
+      "period": 1,
+      "period_seconds": 2355.0,
+      "home_shot_probability": 0.011852936819195747,
+      "away_shot_probability": 0.04601609706878662
+    },
+    {
+      "period": 1,
+      "period_seconds": 2360.0,
+      "home_shot_probability": 0.02663588710129261,
+      "away_shot_probability": 0.02475508116185665
+    },
+    {
+      "period": 1,
+      "period_seconds": 2365.0,
+      "home_shot_probability": 0.020869331434369087,
+      "away_shot_probability": 0.0019777920097112656
+    },
+    {
+      "period": 1,
+      "period_seconds": 2370.0,
+      "home_shot_probability": 0.004732540342956781,
+      "away_shot_probability": 0.009726684540510178
+    },
+    {
+      "period": 1,
+      "period_seconds": 2375.0,
+      "home_shot_probability": 0.0021492131054401398,
+      "away_shot_probability": 0.04378373920917511
+    },
+    {
+      "period": 1,
+      "period_seconds": 2380.0,
+      "home_shot_probability": 0.0010303000453859568,
+      "away_shot_probability": 0.04254176840186119
+    },
+    {
+      "period": 1,
+      "period_seconds": 2385.0,
+      "home_shot_probability": 0.0004944646498188376,
+      "away_shot_probability": 0.015224839560687542
+    },
+    {
+      "period": 1,
+      "period_seconds": 2390.0,
+      "home_shot_probability": 7.098135392880067e-05,
+      "away_shot_probability": 0.013978656381368637
+    },
+    {
+      "period": 1,
+      "period_seconds": 2395.0,
+      "home_shot_probability": 8.964564767666161e-05,
+      "away_shot_probability": 0.030551591888070107
+    },
+    {
+      "period": 1,
+      "period_seconds": 2400.0,
+      "home_shot_probability": 6.856080290162936e-05,
+      "away_shot_probability": 0.0677155926823616
+    },
+    {
+      "period": 1,
+      "period_seconds": 2405.0,
+      "home_shot_probability": 5.561071520787664e-05,
+      "away_shot_probability": 0.04439856484532356
+    },
+    {
+      "period": 1,
+      "period_seconds": 2410.0,
+      "home_shot_probability": 9.506752394372597e-05,
+      "away_shot_probability": 0.02797660417854786
+    },
+    {
+      "period": 1,
+      "period_seconds": 2415.0,
+      "home_shot_probability": 0.0001432380231563002,
+      "away_shot_probability": 0.01384168304502964
+    },
+    {
+      "period": 1,
+      "period_seconds": 2420.0,
+      "home_shot_probability": 0.0001722235610941425,
+      "away_shot_probability": 0.013943261466920376
+    },
+    {
+      "period": 1,
+      "period_seconds": 2425.0,
+      "home_shot_probability": 0.0002413694455754012,
+      "away_shot_probability": 0.018805144354701042
+    },
+    {
+      "period": 1,
+      "period_seconds": 2430.0,
+      "home_shot_probability": 0.0004030527197755873,
+      "away_shot_probability": 0.02107655629515648
+    },
+    {
+      "period": 1,
+      "period_seconds": 2435.0,
+      "home_shot_probability": 0.015543640591204166,
+      "away_shot_probability": 0.017081057652831078
+    },
+    {
+      "period": 1,
+      "period_seconds": 2440.0,
+      "home_shot_probability": 0.017652224749326706,
+      "away_shot_probability": 0.017652224749326706
+    },
+    {
+      "period": 1,
+      "period_seconds": 2445.0,
+      "home_shot_probability": 0.0060522593557834625,
+      "away_shot_probability": 0.0013877128949388862
+    },
+    {
+      "period": 1,
+      "period_seconds": 2450.0,
+      "home_shot_probability": 0.05965833365917206,
+      "away_shot_probability": 0.001969994278624654
+    },
+    {
+      "period": 1,
+      "period_seconds": 2455.0,
+      "home_shot_probability": 0.025976285338401794,
+      "away_shot_probability": 0.0013374130940064788
+    },
+    {
+      "period": 1,
+      "period_seconds": 2460.0,
+      "home_shot_probability": 0.017353827133774757,
+      "away_shot_probability": 0.0010061959037557244
+    },
+    {
+      "period": 1,
+      "period_seconds": 2465.0,
+      "home_shot_probability": 0.01657932437956333,
+      "away_shot_probability": 0.0008587983320467174
+    },
+    {
+      "period": 1,
+      "period_seconds": 2470.0,
+      "home_shot_probability": 0.016836293041706085,
+      "away_shot_probability": 0.0007294417591765523
+    },
+    {
+      "period": 1,
+      "period_seconds": 2475.0,
+      "home_shot_probability": 0.019895106554031372,
+      "away_shot_probability": 0.0004506995028350502
+    },
+    {
+      "period": 1,
+      "period_seconds": 2480.0,
+      "home_shot_probability": 0.017658676952123642,
+      "away_shot_probability": 0.017658676952123642
+    },
+    {
+      "period": 1,
+      "period_seconds": 2485.0,
+      "home_shot_probability": 0.017659222707152367,
+      "away_shot_probability": 0.017659222707152367
+    },
+    {
+      "period": 1,
+      "period_seconds": 2490.0,
+      "home_shot_probability": 0.017659761011600494,
+      "away_shot_probability": 0.017659761011600494
+    },
+    {
+      "period": 1,
+      "period_seconds": 2495.0,
+      "home_shot_probability": 0.01766030676662922,
+      "away_shot_probability": 0.01766030676662922
+    },
+    {
+      "period": 1,
+      "period_seconds": 2500.0,
+      "home_shot_probability": 0.07663978636264801,
+      "away_shot_probability": 0.0002682408085092902
+    },
+    {
+      "period": 1,
+      "period_seconds": 2505.0,
+      "home_shot_probability": 0.05139705166220665,
+      "away_shot_probability": 0.0027504744939506054
+    },
+    {
+      "period": 1,
+      "period_seconds": 2510.0,
+      "home_shot_probability": 0.11204111576080322,
+      "away_shot_probability": 0.0005243748892098665
+    },
+    {
+      "period": 1,
+      "period_seconds": 2515.0,
+      "home_shot_probability": 0.09110482037067413,
+      "away_shot_probability": 0.00026850562426261604
+    },
+    {
+      "period": 1,
+      "period_seconds": 2520.0,
+      "home_shot_probability": 0.018671279773116112,
+      "away_shot_probability": 0.00018473945965524763
+    },
+    {
+      "period": 1,
+      "period_seconds": 2525.0,
+      "home_shot_probability": 0.004692587070167065,
+      "away_shot_probability": 0.00013469395344145596
+    },
+    {
+      "period": 1,
+      "period_seconds": 2530.0,
+      "home_shot_probability": 0.0024137545842677355,
+      "away_shot_probability": 0.0001015142843243666
+    },
+    {
+      "period": 1,
+      "period_seconds": 2535.0,
+      "home_shot_probability": 0.010148291476070881,
+      "away_shot_probability": 0.00011303306382615119
+    },
+    {
+      "period": 1,
+      "period_seconds": 2540.0,
+      "home_shot_probability": 0.0029978384263813496,
+      "away_shot_probability": 0.006131382193416357
+    },
+    {
+      "period": 1,
+      "period_seconds": 2545.0,
+      "home_shot_probability": 0.00042636305443011224,
+      "away_shot_probability": 0.012235165573656559
+    },
+    {
+      "period": 1,
+      "period_seconds": 2550.0,
+      "home_shot_probability": 0.016280606389045715,
+      "away_shot_probability": 0.03276380896568298
+    },
+    {
+      "period": 1,
+      "period_seconds": 2555.0,
+      "home_shot_probability": 0.010077578015625477,
+      "away_shot_probability": 0.028177721425890923
+    },
+    {
+      "period": 1,
+      "period_seconds": 2560.0,
+      "home_shot_probability": 0.11186402291059494,
+      "away_shot_probability": 0.006882427725940943
+    },
+    {
+      "period": 1,
+      "period_seconds": 2565.0,
+      "home_shot_probability": 0.040004368871450424,
+      "away_shot_probability": 0.009905132465064526
+    },
+    {
+      "period": 1,
+      "period_seconds": 2570.0,
+      "home_shot_probability": 0.20832227170467377,
+      "away_shot_probability": 0.0012138248421251774
+    },
+    {
+      "period": 1,
+      "period_seconds": 2575.0,
+      "home_shot_probability": 0.47782909870147705,
+      "away_shot_probability": 0.0003757476224564016
+    },
+    {
+      "period": 1,
+      "period_seconds": 2580.0,
+      "home_shot_probability": 0.07517173141241074,
+      "away_shot_probability": 0.0012959494488313794
+    },
+    {
+      "period": 1,
+      "period_seconds": 2585.0,
+      "home_shot_probability": 0.01591653935611248,
+      "away_shot_probability": 0.0006412134971469641
+    },
+    {
+      "period": 1,
+      "period_seconds": 2590.0,
+      "home_shot_probability": 0.004923178814351559,
+      "away_shot_probability": 0.0006222367519512773
+    },
+    {
+      "period": 1,
+      "period_seconds": 2595.0,
+      "home_shot_probability": 0.004637041129171848,
+      "away_shot_probability": 0.0004884873633272946
+    },
+    {
+      "period": 1,
+      "period_seconds": 2600.0,
+      "home_shot_probability": 0.010637892410159111,
+      "away_shot_probability": 0.0005536254611797631
+    },
+    {
+      "period": 1,
+      "period_seconds": 2605.0,
+      "home_shot_probability": 0.00443993229418993,
+      "away_shot_probability": 0.002192581770941615
+    },
+    {
+      "period": 1,
+      "period_seconds": 2610.0,
+      "home_shot_probability": 0.00260016112588346,
+      "away_shot_probability": 0.010912059806287289
+    },
+    {
+      "period": 1,
+      "period_seconds": 2615.0,
+      "home_shot_probability": 0.0012720997910946608,
+      "away_shot_probability": 0.017763810232281685
+    },
+    {
+      "period": 1,
+      "period_seconds": 2620.0,
+      "home_shot_probability": 0.0006224600947462022,
+      "away_shot_probability": 0.028911074623465538
+    },
+    {
+      "period": 1,
+      "period_seconds": 2625.0,
+      "home_shot_probability": 0.00027632698765955865,
+      "away_shot_probability": 0.028823450207710266
+    },
+    {
+      "period": 1,
+      "period_seconds": 2630.0,
+      "home_shot_probability": 0.00261088483966887,
+      "away_shot_probability": 0.03655747324228287
+    },
+    {
+      "period": 1,
+      "period_seconds": 2635.0,
+      "home_shot_probability": 0.00043680029921233654,
+      "away_shot_probability": 0.010078147985041142
+    },
+    {
+      "period": 1,
+      "period_seconds": 2640.0,
+      "home_shot_probability": 0.00019625936693046242,
+      "away_shot_probability": 0.00868108868598938
+    },
+    {
+      "period": 1,
+      "period_seconds": 2645.0,
+      "home_shot_probability": 0.0009357967064715922,
+      "away_shot_probability": 0.013554967939853668
+    },
+    {
+      "period": 1,
+      "period_seconds": 2650.0,
+      "home_shot_probability": 0.0003568007086869329,
+      "away_shot_probability": 0.08163518458604813
+    },
+    {
+      "period": 1,
+      "period_seconds": 2655.0,
+      "home_shot_probability": 0.0013331396039575338,
+      "away_shot_probability": 0.05344296991825104
+    },
+    {
+      "period": 1,
+      "period_seconds": 2660.0,
+      "home_shot_probability": 0.0009066901402547956,
+      "away_shot_probability": 0.09399361163377762
+    },
+    {
+      "period": 1,
+      "period_seconds": 2665.0,
+      "home_shot_probability": 0.0003889397776219994,
+      "away_shot_probability": 0.033928267657756805
+    },
+    {
+      "period": 1,
+      "period_seconds": 2670.0,
+      "home_shot_probability": 0.00020707161456812173,
+      "away_shot_probability": 0.10587459057569504
+    },
+    {
+      "period": 1,
+      "period_seconds": 2675.0,
+      "home_shot_probability": 0.0001521204540040344,
+      "away_shot_probability": 0.0468108169734478
+    },
+    {
+      "period": 1,
+      "period_seconds": 2680.0,
+      "home_shot_probability": 0.00011142026050947607,
+      "away_shot_probability": 0.042012911289930344
+    },
+    {
+      "period": 1,
+      "period_seconds": 2685.0,
+      "home_shot_probability": 9.203275840263814e-05,
+      "away_shot_probability": 0.017134128138422966
+    },
+    {
+      "period": 1,
+      "period_seconds": 2690.0,
+      "home_shot_probability": 6.924632907612249e-05,
+      "away_shot_probability": 0.010691673494875431
+    },
+    {
+      "period": 1,
+      "period_seconds": 2695.0,
+      "home_shot_probability": 7.762548193568364e-05,
+      "away_shot_probability": 0.01744963601231575
+    },
+    {
+      "period": 1,
+      "period_seconds": 2700.0,
+      "home_shot_probability": 0.00010336534614907578,
+      "away_shot_probability": 0.018347682431340218
+    },
+    {
+      "period": 1,
+      "period_seconds": 2705.0,
+      "home_shot_probability": 0.0001649675687076524,
+      "away_shot_probability": 0.020288551226258278
+    },
+    {
+      "period": 1,
+      "period_seconds": 2710.0,
+      "home_shot_probability": 0.017717450857162476,
+      "away_shot_probability": 0.017717450857162476
+    },
+    {
+      "period": 1,
+      "period_seconds": 2715.0,
+      "home_shot_probability": 0.017718994989991188,
+      "away_shot_probability": 0.017718994989991188
+    },
+    {
+      "period": 1,
+      "period_seconds": 2720.0,
+      "home_shot_probability": 0.017720546573400497,
+      "away_shot_probability": 0.017720546573400497
+    },
+    {
+      "period": 1,
+      "period_seconds": 2725.0,
+      "home_shot_probability": 0.006211194209754467,
+      "away_shot_probability": 0.0013740924187004566
+    },
+    {
+      "period": 1,
+      "period_seconds": 2730.0,
+      "home_shot_probability": 0.027101822197437286,
+      "away_shot_probability": 0.012009155005216599
+    },
+    {
+      "period": 1,
+      "period_seconds": 2735.0,
+      "home_shot_probability": 0.046912550926208496,
+      "away_shot_probability": 0.004008194897323847
+    },
+    {
+      "period": 1,
+      "period_seconds": 2740.0,
+      "home_shot_probability": 0.012966394424438477,
+      "away_shot_probability": 0.01221652515232563
+    },
+    {
+      "period": 1,
+      "period_seconds": 2745.0,
+      "home_shot_probability": 0.01850130222737789,
+      "away_shot_probability": 0.002534824190661311
+    },
+    {
+      "period": 1,
+      "period_seconds": 2750.0,
+      "home_shot_probability": 0.008514397777616978,
+      "away_shot_probability": 0.03503314405679703
+    },
+    {
+      "period": 2,
+      "period_seconds": 30.0,
+      "home_shot_probability": 0.00123070168774575,
+      "away_shot_probability": 0.011514855548739433
+    },
+    {
+      "period": 2,
+      "period_seconds": 35.0,
+      "home_shot_probability": 0.0005485958536155522,
+      "away_shot_probability": 0.012067369185388088
+    },
+    {
+      "period": 2,
+      "period_seconds": 40.0,
+      "home_shot_probability": 0.0004518090863712132,
+      "away_shot_probability": 0.010802141390740871
+    },
+    {
+      "period": 2,
+      "period_seconds": 45.0,
+      "home_shot_probability": 0.00029903274844400585,
+      "away_shot_probability": 0.024080956354737282
+    },
+    {
+      "period": 2,
+      "period_seconds": 50.0,
+      "home_shot_probability": 0.0022081430070102215,
+      "away_shot_probability": 0.022719504311680794
+    },
+    {
+      "period": 2,
+      "period_seconds": 55.0,
+      "home_shot_probability": 0.0022298023104667664,
+      "away_shot_probability": 0.00750050088390708
+    },
+    {
+      "period": 2,
+      "period_seconds": 60.0,
+      "home_shot_probability": 0.0016691150376573205,
+      "away_shot_probability": 0.009030459448695183
+    },
+    {
+      "period": 2,
+      "period_seconds": 65.0,
+      "home_shot_probability": 0.0006628884584642947,
+      "away_shot_probability": 0.012557454407215118
+    },
+    {
+      "period": 2,
+      "period_seconds": 70.0,
+      "home_shot_probability": 0.0006496100104413927,
+      "away_shot_probability": 0.008595666848123074
+    },
+    {
+      "period": 2,
+      "period_seconds": 75.0,
+      "home_shot_probability": 0.0005268011009320617,
+      "away_shot_probability": 0.015759602189064026
+    },
+    {
+      "period": 2,
+      "period_seconds": 80.0,
+      "home_shot_probability": 0.0002719219774007797,
+      "away_shot_probability": 0.033153701573610306
+    },
+    {
+      "period": 2,
+      "period_seconds": 85.0,
+      "home_shot_probability": 0.004487035796046257,
+      "away_shot_probability": 0.08633185923099518
+    },
+    {
+      "period": 2,
+      "period_seconds": 90.0,
+      "home_shot_probability": 0.002332415897399187,
+      "away_shot_probability": 0.030289791524410248
+    },
+    {
+      "period": 2,
+      "period_seconds": 95.0,
+      "home_shot_probability": 0.0008652564138174057,
+      "away_shot_probability": 0.012607711367309093
+    },
+    {
+      "period": 2,
+      "period_seconds": 100.0,
+      "home_shot_probability": 0.00048336200416088104,
+      "away_shot_probability": 0.009215423837304115
+    },
+    {
+      "period": 2,
+      "period_seconds": 105.0,
+      "home_shot_probability": 0.00032969473977573216,
+      "away_shot_probability": 0.007572939619421959
+    },
+    {
+      "period": 2,
+      "period_seconds": 110.0,
+      "home_shot_probability": 0.0002806152042467147,
+      "away_shot_probability": 0.008775590918958187
+    },
+    {
+      "period": 2,
+      "period_seconds": 115.0,
+      "home_shot_probability": 0.00035347935045138,
+      "away_shot_probability": 0.0222389604896307
+    },
+    {
+      "period": 2,
+      "period_seconds": 120.0,
+      "home_shot_probability": 0.014317171648144722,
+      "away_shot_probability": 0.014317171648144722
+    },
+    {
+      "period": 2,
+      "period_seconds": 125.0,
+      "home_shot_probability": 0.014312375336885452,
+      "away_shot_probability": 0.014312375336885452
+    },
+    {
+      "period": 2,
+      "period_seconds": 130.0,
+      "home_shot_probability": 0.01430758647620678,
+      "away_shot_probability": 0.01430758647620678
+    },
+    {
+      "period": 2,
+      "period_seconds": 135.0,
+      "home_shot_probability": 0.0002860157110262662,
+      "away_shot_probability": 0.08732518553733826
+    },
+    {
+      "period": 2,
+      "period_seconds": 140.0,
+      "home_shot_probability": 0.0002507881144993007,
+      "away_shot_probability": 0.04360651224851608
+    },
+    {
+      "period": 2,
+      "period_seconds": 145.0,
+      "home_shot_probability": 0.0002653312112670392,
+      "away_shot_probability": 0.029228486120700836
+    },
+    {
+      "period": 2,
+      "period_seconds": 150.0,
+      "home_shot_probability": 0.00027429795591160655,
+      "away_shot_probability": 0.02763076312839985
+    },
+    {
+      "period": 2,
+      "period_seconds": 155.0,
+      "home_shot_probability": 0.0002720451448112726,
+      "away_shot_probability": 0.026140088215470314
+    },
+    {
+      "period": 2,
+      "period_seconds": 160.0,
+      "home_shot_probability": 0.000274097197689116,
+      "away_shot_probability": 0.02543557621538639
+    },
+    {
+      "period": 2,
+      "period_seconds": 165.0,
+      "home_shot_probability": 0.00029421845101751387,
+      "away_shot_probability": 0.03169456496834755
+    },
+    {
+      "period": 2,
+      "period_seconds": 170.0,
+      "home_shot_probability": 0.0003124891663901508,
+      "away_shot_probability": 0.03542112559080124
+    },
+    {
+      "period": 2,
+      "period_seconds": 175.0,
+      "home_shot_probability": 0.00031434083939529955,
+      "away_shot_probability": 0.023610107600688934
+    },
+    {
+      "period": 2,
+      "period_seconds": 180.0,
+      "home_shot_probability": 0.00017499009845778346,
+      "away_shot_probability": 0.05325422063469887
+    },
+    {
+      "period": 2,
+      "period_seconds": 185.0,
+      "home_shot_probability": 0.0017616156255826354,
+      "away_shot_probability": 0.12280026823282242
+    },
+    {
+      "period": 2,
+      "period_seconds": 190.0,
+      "home_shot_probability": 0.0012644303496927023,
+      "away_shot_probability": 0.061885565519332886
+    },
+    {
+      "period": 2,
+      "period_seconds": 195.0,
+      "home_shot_probability": 0.0007224830915220082,
+      "away_shot_probability": 0.01920277439057827
+    },
+    {
+      "period": 2,
+      "period_seconds": 200.0,
+      "home_shot_probability": 0.000465010671177879,
+      "away_shot_probability": 0.010610871016979218
+    },
+    {
+      "period": 2,
+      "period_seconds": 205.0,
+      "home_shot_probability": 0.009511323645710945,
+      "away_shot_probability": 0.02187754213809967
+    },
+    {
+      "period": 2,
+      "period_seconds": 210.0,
+      "home_shot_probability": 0.011590411886572838,
+      "away_shot_probability": 0.026529906317591667
+    },
+    {
+      "period": 2,
+      "period_seconds": 215.0,
+      "home_shot_probability": 0.03265465423464775,
+      "away_shot_probability": 0.004778735805302858
+    },
+    {
+      "period": 2,
+      "period_seconds": 220.0,
+      "home_shot_probability": 0.023171698674559593,
+      "away_shot_probability": 0.0037252288311719894
+    },
+    {
+      "period": 2,
+      "period_seconds": 225.0,
+      "home_shot_probability": 0.05553063750267029,
+      "away_shot_probability": 0.005006501451134682
+    },
+    {
+      "period": 2,
+      "period_seconds": 230.0,
+      "home_shot_probability": 0.053924743086099625,
+      "away_shot_probability": 0.006099039223045111
+    },
+    {
+      "period": 2,
+      "period_seconds": 235.0,
+      "home_shot_probability": 0.017587244510650635,
+      "away_shot_probability": 0.0030651590786874294
+    },
+    {
+      "period": 2,
+      "period_seconds": 240.0,
+      "home_shot_probability": 0.005398848559707403,
+      "away_shot_probability": 0.001558760181069374
+    },
+    {
+      "period": 2,
+      "period_seconds": 245.0,
+      "home_shot_probability": 0.003544011851772666,
+      "away_shot_probability": 0.011787941679358482
+    },
+    {
+      "period": 2,
+      "period_seconds": 250.0,
+      "home_shot_probability": 0.0031094783917069435,
+      "away_shot_probability": 0.011745961382985115
+    },
+    {
+      "period": 2,
+      "period_seconds": 255.0,
+      "home_shot_probability": 0.0019520852947607636,
+      "away_shot_probability": 0.009436328895390034
+    },
+    {
+      "period": 2,
+      "period_seconds": 260.0,
+      "home_shot_probability": 0.00042819514055736363,
+      "away_shot_probability": 0.014294103719294071
+    },
+    {
+      "period": 2,
+      "period_seconds": 265.0,
+      "home_shot_probability": 0.0004802272014785558,
+      "away_shot_probability": 0.009557842276990414
+    },
+    {
+      "period": 2,
+      "period_seconds": 270.0,
+      "home_shot_probability": 0.00023326593509409577,
+      "away_shot_probability": 0.017651613801717758
+    },
+    {
+      "period": 2,
+      "period_seconds": 275.0,
+      "home_shot_probability": 0.001493940013460815,
+      "away_shot_probability": 0.06059876084327698
+    },
+    {
+      "period": 2,
+      "period_seconds": 280.0,
+      "home_shot_probability": 0.0011459368979558349,
+      "away_shot_probability": 0.06962309032678604
+    },
+    {
+      "period": 2,
+      "period_seconds": 285.0,
+      "home_shot_probability": 0.0007261441787704825,
+      "away_shot_probability": 0.17926591634750366
+    },
+    {
+      "period": 2,
+      "period_seconds": 290.0,
+      "home_shot_probability": 0.001986221643164754,
+      "away_shot_probability": 0.08000552654266357
+    },
+    {
+      "period": 2,
+      "period_seconds": 295.0,
+      "home_shot_probability": 0.0008885826682671905,
+      "away_shot_probability": 0.022626753896474838
+    },
+    {
+      "period": 2,
+      "period_seconds": 300.0,
+      "home_shot_probability": 0.0005155196995474398,
+      "away_shot_probability": 0.012245946563780308
+    },
+    {
+      "period": 2,
+      "period_seconds": 305.0,
+      "home_shot_probability": 0.0003889855870511383,
+      "away_shot_probability": 0.010582470335066319
+    },
+    {
+      "period": 2,
+      "period_seconds": 310.0,
+      "home_shot_probability": 0.0003909553634002805,
+      "away_shot_probability": 0.020472249016165733
+    },
+    {
+      "period": 2,
+      "period_seconds": 315.0,
+      "home_shot_probability": 0.00029424423701129854,
+      "away_shot_probability": 0.02643980272114277
+    },
+    {
+      "period": 2,
+      "period_seconds": 320.0,
+      "home_shot_probability": 0.014121291227638721,
+      "away_shot_probability": 0.014121291227638721
+    },
+    {
+      "period": 2,
+      "period_seconds": 325.0,
+      "home_shot_probability": 0.014116340316832066,
+      "away_shot_probability": 0.014116340316832066
+    },
+    {
+      "period": 2,
+      "period_seconds": 330.0,
+      "home_shot_probability": 0.014111397787928581,
+      "away_shot_probability": 0.014111397787928581
+    },
+    {
+      "period": 2,
+      "period_seconds": 335.0,
+      "home_shot_probability": 0.0018166207009926438,
+      "away_shot_probability": 0.00785816740244627
+    },
+    {
+      "period": 2,
+      "period_seconds": 340.0,
+      "home_shot_probability": 0.005114953964948654,
+      "away_shot_probability": 0.008459874428808689
+    },
+    {
+      "period": 2,
+      "period_seconds": 345.0,
+      "home_shot_probability": 0.004355885554105043,
+      "away_shot_probability": 0.005980900023132563
+    },
+    {
+      "period": 2,
+      "period_seconds": 350.0,
+      "home_shot_probability": 0.0020836309995502234,
+      "away_shot_probability": 0.01144625898450613
+    },
+    {
+      "period": 2,
+      "period_seconds": 355.0,
+      "home_shot_probability": 0.004761287942528725,
+      "away_shot_probability": 0.027632739394903183
+    },
+    {
+      "period": 2,
+      "period_seconds": 360.0,
+      "home_shot_probability": 0.012153935618698597,
+      "away_shot_probability": 0.02067337930202484
+    },
+    {
+      "period": 2,
+      "period_seconds": 365.0,
+      "home_shot_probability": 0.006129705812782049,
+      "away_shot_probability": 0.005539132282137871
+    },
+    {
+      "period": 2,
+      "period_seconds": 370.0,
+      "home_shot_probability": 0.0035235474351793528,
+      "away_shot_probability": 0.0027022771537303925
+    },
+    {
+      "period": 2,
+      "period_seconds": 375.0,
+      "home_shot_probability": 0.0028265896253287792,
+      "away_shot_probability": 0.0020965312141925097
+    },
+    {
+      "period": 2,
+      "period_seconds": 380.0,
+      "home_shot_probability": 0.0018255572067573667,
+      "away_shot_probability": 0.013320195488631725
+    },
+    {
+      "period": 2,
+      "period_seconds": 385.0,
+      "home_shot_probability": 0.016552578657865524,
+      "away_shot_probability": 0.03710610419511795
+    },
+    {
+      "period": 2,
+      "period_seconds": 390.0,
+      "home_shot_probability": 0.005547475069761276,
+      "away_shot_probability": 0.015714501962065697
+    },
+    {
+      "period": 2,
+      "period_seconds": 395.0,
+      "home_shot_probability": 0.0015368529129773378,
+      "away_shot_probability": 0.019403360784053802
+    },
+    {
+      "period": 2,
+      "period_seconds": 400.0,
+      "home_shot_probability": 0.005650073289871216,
+      "away_shot_probability": 0.004616940394043922
+    },
+    {
+      "period": 2,
+      "period_seconds": 405.0,
+      "home_shot_probability": 0.002094531897455454,
+      "away_shot_probability": 0.0052275219932198524
+    },
+    {
+      "period": 2,
+      "period_seconds": 410.0,
+      "home_shot_probability": 0.0011665073689073324,
+      "away_shot_probability": 0.003356123575940728
+    },
+    {
+      "period": 2,
+      "period_seconds": 415.0,
+      "home_shot_probability": 0.000966413936112076,
+      "away_shot_probability": 0.003060587216168642
+    },
+    {
+      "period": 2,
+      "period_seconds": 420.0,
+      "home_shot_probability": 0.0014064875431358814,
+      "away_shot_probability": 0.0036104838363826275
+    },
+    {
+      "period": 2,
+      "period_seconds": 425.0,
+      "home_shot_probability": 0.001359719317406416,
+      "away_shot_probability": 0.004842802416533232
+    },
+    {
+      "period": 2,
+      "period_seconds": 430.0,
+      "home_shot_probability": 0.012836938723921776,
+      "away_shot_probability": 0.014089283533394337
+    },
+    {
+      "period": 2,
+      "period_seconds": 435.0,
+      "home_shot_probability": 0.014090257696807384,
+      "away_shot_probability": 0.0011279344325885177
+    },
+    {
+      "period": 2,
+      "period_seconds": 440.0,
+      "home_shot_probability": 0.01255417987704277,
+      "away_shot_probability": 0.0012027089251205325
+    },
+    {
+      "period": 2,
+      "period_seconds": 445.0,
+      "home_shot_probability": 0.012520920485258102,
+      "away_shot_probability": 0.0012824342120438814
+    },
+    {
+      "period": 2,
+      "period_seconds": 450.0,
+      "home_shot_probability": 0.012708389200270176,
+      "away_shot_probability": 0.0013285442255437374
+    },
+    {
+      "period": 2,
+      "period_seconds": 455.0,
+      "home_shot_probability": 0.012749419547617435,
+      "away_shot_probability": 0.0013440197799354792
+    },
+    {
+      "period": 2,
+      "period_seconds": 460.0,
+      "home_shot_probability": 0.0035700849257409573,
+      "away_shot_probability": 0.0033456087112426758
+    },
+    {
+      "period": 2,
+      "period_seconds": 465.0,
+      "home_shot_probability": 0.0017786589451134205,
+      "away_shot_probability": 0.01062011532485485
+    },
+    {
+      "period": 2,
+      "period_seconds": 470.0,
+      "home_shot_probability": 0.0011302087223157287,
+      "away_shot_probability": 0.014082801528275013
+    },
+    {
+      "period": 2,
+      "period_seconds": 475.0,
+      "home_shot_probability": 0.0005564552266150713,
+      "away_shot_probability": 0.020198700949549675
+    },
+    {
+      "period": 2,
+      "period_seconds": 480.0,
+      "home_shot_probability": 0.00029226369224488735,
+      "away_shot_probability": 0.017726905643939972
+    },
+    {
+      "period": 2,
+      "period_seconds": 485.0,
+      "home_shot_probability": 0.00131699547637254,
+      "away_shot_probability": 0.06511956453323364
+    },
+    {
+      "period": 2,
+      "period_seconds": 490.0,
+      "home_shot_probability": 0.0008302281494252384,
+      "away_shot_probability": 0.017183801159262657
+    },
+    {
+      "period": 2,
+      "period_seconds": 495.0,
+      "home_shot_probability": 0.0006356678786687553,
+      "away_shot_probability": 0.009941693395376205
+    },
+    {
+      "period": 2,
+      "period_seconds": 500.0,
+      "home_shot_probability": 0.0005507358000613749,
+      "away_shot_probability": 0.008941258303821087
+    },
+    {
+      "period": 2,
+      "period_seconds": 505.0,
+      "home_shot_probability": 0.0004887342220172286,
+      "away_shot_probability": 0.012986170127987862
+    },
+    {
+      "period": 2,
+      "period_seconds": 510.0,
+      "home_shot_probability": 0.00042435229988768697,
+      "away_shot_probability": 0.019863856956362724
+    },
+    {
+      "period": 2,
+      "period_seconds": 515.0,
+      "home_shot_probability": 0.013972248882055283,
+      "away_shot_probability": 0.013972248882055283
+    },
+    {
+      "period": 2,
+      "period_seconds": 520.0,
+      "home_shot_probability": 0.013970442116260529,
+      "away_shot_probability": 0.013970442116260529
+    },
+    {
+      "period": 2,
+      "period_seconds": 525.0,
+      "home_shot_probability": 0.01396863628178835,
+      "away_shot_probability": 0.01396863628178835
+    },
+    {
+      "period": 2,
+      "period_seconds": 530.0,
+      "home_shot_probability": 0.01396683044731617,
+      "away_shot_probability": 0.01396683044731617
+    },
+    {
+      "period": 2,
+      "period_seconds": 535.0,
+      "home_shot_probability": 0.013965018093585968,
+      "away_shot_probability": 0.013965018093585968
+    },
+    {
+      "period": 2,
+      "period_seconds": 540.0,
+      "home_shot_probability": 0.00025164487306028605,
+      "away_shot_probability": 0.13515523076057434
+    },
+    {
+      "period": 2,
+      "period_seconds": 545.0,
+      "home_shot_probability": 0.0002814431209117174,
+      "away_shot_probability": 0.034449249505996704
+    },
+    {
+      "period": 2,
+      "period_seconds": 550.0,
+      "home_shot_probability": 0.00032361753983423114,
+      "away_shot_probability": 0.027773063629865646
+    },
+    {
+      "period": 2,
+      "period_seconds": 555.0,
+      "home_shot_probability": 0.00036488979822024703,
+      "away_shot_probability": 0.04619303718209267
+    },
+    {
+      "period": 2,
+      "period_seconds": 560.0,
+      "home_shot_probability": 0.00026609934866428375,
+      "away_shot_probability": 0.044063176959753036
+    },
+    {
+      "period": 2,
+      "period_seconds": 565.0,
+      "home_shot_probability": 0.0003206389374099672,
+      "away_shot_probability": 0.023176616057753563
+    },
+    {
+      "period": 2,
+      "period_seconds": 570.0,
+      "home_shot_probability": 0.00016927382966969162,
+      "away_shot_probability": 0.06180979683995247
+    },
+    {
+      "period": 2,
+      "period_seconds": 575.0,
+      "home_shot_probability": 0.0024067743215709925,
+      "away_shot_probability": 0.027961526066064835
+    },
+    {
+      "period": 2,
+      "period_seconds": 580.0,
+      "home_shot_probability": 0.0012412492651492357,
+      "away_shot_probability": 0.014733589254319668
+    },
+    {
+      "period": 2,
+      "period_seconds": 585.0,
+      "home_shot_probability": 0.0006968320230953395,
+      "away_shot_probability": 0.02011137269437313
+    },
+    {
+      "period": 2,
+      "period_seconds": 590.0,
+      "home_shot_probability": 0.00036033676587976515,
+      "away_shot_probability": 0.03547235578298569
+    },
+    {
+      "period": 2,
+      "period_seconds": 595.0,
+      "home_shot_probability": 0.0002835828345268965,
+      "away_shot_probability": 0.040943775326013565
+    },
+    {
+      "period": 2,
+      "period_seconds": 600.0,
+      "home_shot_probability": 0.0004323655739426613,
+      "away_shot_probability": 0.011728367768228054
+    },
+    {
+      "period": 2,
+      "period_seconds": 605.0,
+      "home_shot_probability": 0.00024313799804076552,
+      "away_shot_probability": 0.027708597481250763
+    },
+    {
+      "period": 2,
+      "period_seconds": 610.0,
+      "home_shot_probability": 0.0002534118539188057,
+      "away_shot_probability": 0.02907058782875538
+    },
+    {
+      "period": 2,
+      "period_seconds": 615.0,
+      "home_shot_probability": 0.0022663106210529804,
+      "away_shot_probability": 0.026713261380791664
+    },
+    {
+      "period": 2,
+      "period_seconds": 620.0,
+      "home_shot_probability": 0.011272289790213108,
+      "away_shot_probability": 0.00857168436050415
+    },
+    {
+      "period": 2,
+      "period_seconds": 625.0,
+      "home_shot_probability": 0.006754250731319189,
+      "away_shot_probability": 0.013839789666235447
+    },
+    {
+      "period": 2,
+      "period_seconds": 630.0,
+      "home_shot_probability": 0.0033171819522976875,
+      "away_shot_probability": 0.009048416279256344
+    },
+    {
+      "period": 2,
+      "period_seconds": 635.0,
+      "home_shot_probability": 0.005896225571632385,
+      "away_shot_probability": 0.018232230097055435
+    },
+    {
+      "period": 2,
+      "period_seconds": 640.0,
+      "home_shot_probability": 0.011125526390969753,
+      "away_shot_probability": 0.006706768646836281
+    },
+    {
+      "period": 2,
+      "period_seconds": 645.0,
+      "home_shot_probability": 0.005194254219532013,
+      "away_shot_probability": 0.003384173847734928
+    },
+    {
+      "period": 2,
+      "period_seconds": 650.0,
+      "home_shot_probability": 0.0045995512045919895,
+      "away_shot_probability": 0.031054917722940445
+    },
+    {
+      "period": 2,
+      "period_seconds": 655.0,
+      "home_shot_probability": 0.08847710490226746,
+      "away_shot_probability": 0.003761923871934414
+    },
+    {
+      "period": 2,
+      "period_seconds": 660.0,
+      "home_shot_probability": 0.024178825318813324,
+      "away_shot_probability": 0.0035349824465811253
+    },
+    {
+      "period": 2,
+      "period_seconds": 665.0,
+      "home_shot_probability": 0.0044600386172533035,
+      "away_shot_probability": 0.009382803924381733
+    },
+    {
+      "period": 2,
+      "period_seconds": 670.0,
+      "home_shot_probability": 0.014296703040599823,
+      "away_shot_probability": 0.008452421985566616
+    },
+    {
+      "period": 2,
+      "period_seconds": 675.0,
+      "home_shot_probability": 0.003510505659505725,
+      "away_shot_probability": 0.013698403723537922
+    },
+    {
+      "period": 2,
+      "period_seconds": 680.0,
+      "home_shot_probability": 0.002308415248990059,
+      "away_shot_probability": 0.03253455087542534
+    },
+    {
+      "period": 2,
+      "period_seconds": 685.0,
+      "home_shot_probability": 0.08210601657629013,
+      "away_shot_probability": 0.024153031408786774
+    },
+    {
+      "period": 2,
+      "period_seconds": 690.0,
+      "home_shot_probability": 0.0016741219442337751,
+      "away_shot_probability": 0.012731564231216908
+    },
+    {
+      "period": 2,
+      "period_seconds": 695.0,
+      "home_shot_probability": 0.0012604431249201298,
+      "away_shot_probability": 0.009690329432487488
+    },
+    {
+      "period": 2,
+      "period_seconds": 700.0,
+      "home_shot_probability": 0.0014801478246226907,
+      "away_shot_probability": 0.011725388467311859
+    },
+    {
+      "period": 2,
+      "period_seconds": 705.0,
+      "home_shot_probability": 0.0009377612732350826,
+      "away_shot_probability": 0.01604185439646244
+    },
+    {
+      "period": 2,
+      "period_seconds": 710.0,
+      "home_shot_probability": 0.0004431145207490772,
+      "away_shot_probability": 0.01843302510678768
+    },
+    {
+      "period": 2,
+      "period_seconds": 715.0,
+      "home_shot_probability": 0.010682293213903904,
+      "away_shot_probability": 0.0014441690873354673
+    },
+    {
+      "period": 2,
+      "period_seconds": 720.0,
+      "home_shot_probability": 0.011110863648355007,
+      "away_shot_probability": 0.0016393493860960007
+    },
+    {
+      "period": 2,
+      "period_seconds": 725.0,
+      "home_shot_probability": 0.011949134059250355,
+      "away_shot_probability": 0.001844415906816721
+    },
+    {
+      "period": 2,
+      "period_seconds": 730.0,
+      "home_shot_probability": 0.01264539547264576,
+      "away_shot_probability": 0.00201846519485116
+    },
+    {
+      "period": 2,
+      "period_seconds": 735.0,
+      "home_shot_probability": 0.002484041266143322,
+      "away_shot_probability": 0.007948383688926697
+    },
+    {
+      "period": 2,
+      "period_seconds": 740.0,
+      "home_shot_probability": 0.0023496844805777073,
+      "away_shot_probability": 0.006039035506546497
+    },
+    {
+      "period": 2,
+      "period_seconds": 745.0,
+      "home_shot_probability": 0.0024905104655772448,
+      "away_shot_probability": 0.0046026878990232944
+    },
+    {
+      "period": 2,
+      "period_seconds": 750.0,
+      "home_shot_probability": 0.0022563866805285215,
+      "away_shot_probability": 0.0032136801164597273
+    },
+    {
+      "period": 2,
+      "period_seconds": 755.0,
+      "home_shot_probability": 0.01049516536295414,
+      "away_shot_probability": 0.0019003519555553794
+    },
+    {
+      "period": 2,
+      "period_seconds": 760.0,
+      "home_shot_probability": 0.015101793222129345,
+      "away_shot_probability": 0.006639108993113041
+    },
+    {
+      "period": 2,
+      "period_seconds": 765.0,
+      "home_shot_probability": 0.01193595677614212,
+      "away_shot_probability": 0.009244119748473167
+    },
+    {
+      "period": 2,
+      "period_seconds": 770.0,
+      "home_shot_probability": 0.0042233956046402454,
+      "away_shot_probability": 0.013335960917174816
+    },
+    {
+      "period": 2,
+      "period_seconds": 775.0,
+      "home_shot_probability": 0.002844644710421562,
+      "away_shot_probability": 0.004614350851625204
+    },
+    {
+      "period": 2,
+      "period_seconds": 780.0,
+      "home_shot_probability": 0.0021522503811866045,
+      "away_shot_probability": 0.02256454899907112
+    },
+    {
+      "period": 2,
+      "period_seconds": 785.0,
+      "home_shot_probability": 0.002454331610351801,
+      "away_shot_probability": 0.005867538042366505
+    },
+    {
+      "period": 2,
+      "period_seconds": 790.0,
+      "home_shot_probability": 0.0007173225749284029,
+      "away_shot_probability": 0.014233633875846863
+    },
+    {
+      "period": 2,
+      "period_seconds": 795.0,
+      "home_shot_probability": 0.0007412363192997873,
+      "away_shot_probability": 0.010836302302777767
+    },
+    {
+      "period": 2,
+      "period_seconds": 800.0,
+      "home_shot_probability": 0.0005678185261785984,
+      "away_shot_probability": 0.014361854642629623
+    },
+    {
+      "period": 2,
+      "period_seconds": 805.0,
+      "home_shot_probability": 0.0012432826915755868,
+      "away_shot_probability": 0.10983145236968994
+    },
+    {
+      "period": 2,
+      "period_seconds": 810.0,
+      "home_shot_probability": 0.0010022579226642847,
+      "away_shot_probability": 0.13238686323165894
+    },
+    {
+      "period": 2,
+      "period_seconds": 815.0,
+      "home_shot_probability": 0.0007077266345731914,
+      "away_shot_probability": 0.04633941501379013
+    },
+    {
+      "period": 2,
+      "period_seconds": 820.0,
+      "home_shot_probability": 0.0005975979147478938,
+      "away_shot_probability": 0.01907777041196823
+    },
+    {
+      "period": 2,
+      "period_seconds": 825.0,
+      "home_shot_probability": 0.0005138188716955483,
+      "away_shot_probability": 0.016120517626404762
+    },
+    {
+      "period": 2,
+      "period_seconds": 830.0,
+      "home_shot_probability": 0.00043534496217034757,
+      "away_shot_probability": 0.02132563106715679
+    },
+    {
+      "period": 2,
+      "period_seconds": 835.0,
+      "home_shot_probability": 0.0008946680463850498,
+      "away_shot_probability": 0.07348044961690903
+    },
+    {
+      "period": 2,
+      "period_seconds": 840.0,
+      "home_shot_probability": 0.0005328317638486624,
+      "away_shot_probability": 0.06025242805480957
+    },
+    {
+      "period": 2,
+      "period_seconds": 845.0,
+      "home_shot_probability": 0.00028045152430422604,
+      "away_shot_probability": 0.08659996092319489
+    },
+    {
+      "period": 2,
+      "period_seconds": 850.0,
+      "home_shot_probability": 0.00021862066932953894,
+      "away_shot_probability": 0.04212263226509094
+    },
+    {
+      "period": 2,
+      "period_seconds": 855.0,
+      "home_shot_probability": 0.0001660555717535317,
+      "away_shot_probability": 0.0785212591290474
+    },
+    {
+      "period": 2,
+      "period_seconds": 860.0,
+      "home_shot_probability": 0.00010992980969604105,
+      "away_shot_probability": 0.07295214384794235
+    },
+    {
+      "period": 2,
+      "period_seconds": 865.0,
+      "home_shot_probability": 9.401213173987344e-05,
+      "away_shot_probability": 0.13346751034259796
+    },
+    {
+      "period": 2,
+      "period_seconds": 870.0,
+      "home_shot_probability": 0.004053171258419752,
+      "away_shot_probability": 0.031139161437749863
+    },
+    {
+      "period": 2,
+      "period_seconds": 875.0,
+      "home_shot_probability": 0.002500370377674699,
+      "away_shot_probability": 0.011015492491424084
+    },
+    {
+      "period": 2,
+      "period_seconds": 880.0,
+      "home_shot_probability": 0.0017472751205787063,
+      "away_shot_probability": 0.005486960988491774
+    },
+    {
+      "period": 2,
+      "period_seconds": 885.0,
+      "home_shot_probability": 0.003174628596752882,
+      "away_shot_probability": 0.0037286102306097746
+    },
+    {
+      "period": 2,
+      "period_seconds": 890.0,
+      "home_shot_probability": 0.0020798826590180397,
+      "away_shot_probability": 0.0038728255312889814
+    },
+    {
+      "period": 2,
+      "period_seconds": 895.0,
+      "home_shot_probability": 0.00404340447857976,
+      "away_shot_probability": 0.0035546417348086834
+    },
+    {
+      "period": 2,
+      "period_seconds": 900.0,
+      "home_shot_probability": 0.003647296456620097,
+      "away_shot_probability": 0.005421515088528395
+    },
+    {
+      "period": 2,
+      "period_seconds": 905.0,
+      "home_shot_probability": 0.0016433242708444595,
+      "away_shot_probability": 0.01931147277355194
+    },
+    {
+      "period": 2,
+      "period_seconds": 910.0,
+      "home_shot_probability": 0.005570497829467058,
+      "away_shot_probability": 0.012770912609994411
+    },
+    {
+      "period": 2,
+      "period_seconds": 915.0,
+      "home_shot_probability": 0.002120744902640581,
+      "away_shot_probability": 0.009451192803680897
+    },
+    {
+      "period": 2,
+      "period_seconds": 920.0,
+      "home_shot_probability": 0.0016203192062675953,
+      "away_shot_probability": 0.01039110403507948
+    },
+    {
+      "period": 2,
+      "period_seconds": 925.0,
+      "home_shot_probability": 0.0007880687480792403,
+      "away_shot_probability": 0.01642337068915367
+    },
+    {
+      "period": 2,
+      "period_seconds": 930.0,
+      "home_shot_probability": 0.0016203097766265273,
+      "away_shot_probability": 0.08211719989776611
+    },
+    {
+      "period": 2,
+      "period_seconds": 935.0,
+      "home_shot_probability": 0.0010714286472648382,
+      "away_shot_probability": 0.02071092650294304
+    },
+    {
+      "period": 2,
+      "period_seconds": 940.0,
+      "home_shot_probability": 0.0009882273152470589,
+      "away_shot_probability": 0.010999157093465328
+    },
+    {
+      "period": 2,
+      "period_seconds": 945.0,
+      "home_shot_probability": 0.0008593352395109832,
+      "away_shot_probability": 0.012723402120172977
+    },
+    {
+      "period": 2,
+      "period_seconds": 950.0,
+      "home_shot_probability": 0.000739838695153594,
+      "away_shot_probability": 0.016247892752289772
+    },
+    {
+      "period": 2,
+      "period_seconds": 955.0,
+      "home_shot_probability": 0.0007341547170653939,
+      "away_shot_probability": 0.018144171684980392
+    },
+    {
+      "period": 2,
+      "period_seconds": 960.0,
+      "home_shot_probability": 0.013834050856530666,
+      "away_shot_probability": 0.013834050856530666
+    },
+    {
+      "period": 2,
+      "period_seconds": 965.0,
+      "home_shot_probability": 0.013832885771989822,
+      "away_shot_probability": 0.013832885771989822
+    },
+    {
+      "period": 2,
+      "period_seconds": 970.0,
+      "home_shot_probability": 0.01383171509951353,
+      "away_shot_probability": 0.01383171509951353
+    },
+    {
+      "period": 2,
+      "period_seconds": 975.0,
+      "home_shot_probability": 0.013830550014972687,
+      "away_shot_probability": 0.013830550014972687
+    },
+    {
+      "period": 2,
+      "period_seconds": 980.0,
+      "home_shot_probability": 0.013829386793076992,
+      "away_shot_probability": 0.013829386793076992
+    },
+    {
+      "period": 2,
+      "period_seconds": 985.0,
+      "home_shot_probability": 0.013828215189278126,
+      "away_shot_probability": 0.013828215189278126
+    },
+    {
+      "period": 2,
+      "period_seconds": 990.0,
+      "home_shot_probability": 0.00045367327402345836,
+      "away_shot_probability": 0.08365041017532349
+    },
+    {
+      "period": 2,
+      "period_seconds": 995.0,
+      "home_shot_probability": 0.00035040153306908906,
+      "away_shot_probability": 0.07005076110363007
+    },
+    {
+      "period": 2,
+      "period_seconds": 1000.0,
+      "home_shot_probability": 0.000308233720716089,
+      "away_shot_probability": 0.0334945023059845
+    },
+    {
+      "period": 2,
+      "period_seconds": 1005.0,
+      "home_shot_probability": 0.007651074789464474,
+      "away_shot_probability": 0.014154534786939621
+    },
+    {
+      "period": 2,
+      "period_seconds": 1010.0,
+      "home_shot_probability": 0.07004612684249878,
+      "away_shot_probability": 0.007096972782164812
+    },
+    {
+      "period": 2,
+      "period_seconds": 1015.0,
+      "home_shot_probability": 0.052019599825143814,
+      "away_shot_probability": 0.0031952415592968464
+    },
+    {
+      "period": 2,
+      "period_seconds": 1020.0,
+      "home_shot_probability": 0.012059340253472328,
+      "away_shot_probability": 0.0017750146798789501
+    },
+    {
+      "period": 2,
+      "period_seconds": 1025.0,
+      "home_shot_probability": 0.004622237291187048,
+      "away_shot_probability": 0.0013776617124676704
+    },
+    {
+      "period": 2,
+      "period_seconds": 1030.0,
+      "home_shot_probability": 0.008216707967221737,
+      "away_shot_probability": 0.000495348940603435
+    },
+    {
+      "period": 2,
+      "period_seconds": 1035.0,
+      "home_shot_probability": 0.015082328580319881,
+      "away_shot_probability": 0.0005184946930967271
+    },
+    {
+      "period": 2,
+      "period_seconds": 1040.0,
+      "home_shot_probability": 0.01893567107617855,
+      "away_shot_probability": 0.0004509089922066778
+    },
+    {
+      "period": 2,
+      "period_seconds": 1045.0,
+      "home_shot_probability": 0.0138142304494977,
+      "away_shot_probability": 0.0138142304494977
+    },
+    {
+      "period": 2,
+      "period_seconds": 1050.0,
+      "home_shot_probability": 0.013813067227602005,
+      "away_shot_probability": 0.013813067227602005
+    },
+    {
+      "period": 2,
+      "period_seconds": 1055.0,
+      "home_shot_probability": 0.013811898417770863,
+      "away_shot_probability": 0.013811898417770863
+    },
+    {
+      "period": 2,
+      "period_seconds": 1060.0,
+      "home_shot_probability": 0.013810735195875168,
+      "away_shot_probability": 0.013810735195875168
+    },
+    {
+      "period": 2,
+      "period_seconds": 1065.0,
+      "home_shot_probability": 0.013809572905302048,
+      "away_shot_probability": 0.013809572905302048
+    },
+    {
+      "period": 2,
+      "period_seconds": 1070.0,
+      "home_shot_probability": 0.01380840316414833,
+      "away_shot_probability": 0.01380840316414833
+    },
+    {
+      "period": 2,
+      "period_seconds": 1075.0,
+      "home_shot_probability": 0.01380724087357521,
+      "away_shot_probability": 0.01380724087357521
+    },
+    {
+      "period": 2,
+      "period_seconds": 1080.0,
+      "home_shot_probability": 0.013806072995066643,
+      "away_shot_probability": 0.013806072995066643
+    },
+    {
+      "period": 2,
+      "period_seconds": 1085.0,
+      "home_shot_probability": 0.013804911635816097,
+      "away_shot_probability": 0.013804911635816097
+    },
+    {
+      "period": 2,
+      "period_seconds": 1090.0,
+      "home_shot_probability": 0.013803749345242977,
+      "away_shot_probability": 0.013803749345242977
+    },
+    {
+      "period": 2,
+      "period_seconds": 1095.0,
+      "home_shot_probability": 0.013802587054669857,
+      "away_shot_probability": 0.013802587054669857
+    },
+    {
+      "period": 2,
+      "period_seconds": 1100.0,
+      "home_shot_probability": 0.013801418244838715,
+      "away_shot_probability": 0.013801418244838715
+    },
+    {
+      "period": 2,
+      "period_seconds": 1105.0,
+      "home_shot_probability": 0.061986520886421204,
+      "away_shot_probability": 0.00032549945171922445
+    },
+    {
+      "period": 2,
+      "period_seconds": 1110.0,
+      "home_shot_probability": 0.013031709007918835,
+      "away_shot_probability": 0.000383678765501827
+    },
+    {
+      "period": 2,
+      "period_seconds": 1115.0,
+      "home_shot_probability": 0.0067443628795444965,
+      "away_shot_probability": 0.0027392739430069923
+    },
+    {
+      "period": 2,
+      "period_seconds": 1120.0,
+      "home_shot_probability": 0.03781969100236893,
+      "away_shot_probability": 0.0012851622886955738
+    },
+    {
+      "period": 2,
+      "period_seconds": 1125.0,
+      "home_shot_probability": 0.006559962406754494,
+      "away_shot_probability": 0.0033215375151485205
+    },
+    {
+      "period": 2,
+      "period_seconds": 1130.0,
+      "home_shot_probability": 0.003933170344680548,
+      "away_shot_probability": 0.03723951429128647
+    },
+    {
+      "period": 2,
+      "period_seconds": 1135.0,
+      "home_shot_probability": 0.002692628186196089,
+      "away_shot_probability": 0.028075048699975014
+    },
+    {
+      "period": 2,
+      "period_seconds": 1140.0,
+      "home_shot_probability": 0.001910030608996749,
+      "away_shot_probability": 0.03411869704723358
+    },
+    {
+      "period": 2,
+      "period_seconds": 1145.0,
+      "home_shot_probability": 0.0012021843576803803,
+      "away_shot_probability": 0.03327314928174019
+    },
+    {
+      "period": 2,
+      "period_seconds": 1150.0,
+      "home_shot_probability": 0.0003644322860054672,
+      "away_shot_probability": 0.03326050564646721
+    },
+    {
+      "period": 2,
+      "period_seconds": 1155.0,
+      "home_shot_probability": 0.00011089886538684368,
+      "away_shot_probability": 0.054916974157094955
+    },
+    {
+      "period": 2,
+      "period_seconds": 1160.0,
+      "home_shot_probability": 0.0001890314306365326,
+      "away_shot_probability": 0.03664928302168846
+    },
+    {
+      "period": 2,
+      "period_seconds": 1165.0,
+      "home_shot_probability": 0.0016299767885357141,
+      "away_shot_probability": 0.02050155960023403
+    },
+    {
+      "period": 2,
+      "period_seconds": 1170.0,
+      "home_shot_probability": 0.0008216386777348816,
+      "away_shot_probability": 0.019262172281742096
+    },
+    {
+      "period": 2,
+      "period_seconds": 1175.0,
+      "home_shot_probability": 0.00044578470988199115,
+      "away_shot_probability": 0.049149103462696075
+    },
+    {
+      "period": 2,
+      "period_seconds": 1180.0,
+      "home_shot_probability": 0.00036830795579589903,
+      "away_shot_probability": 0.03620074316859245
+    },
+    {
+      "period": 2,
+      "period_seconds": 1185.0,
+      "home_shot_probability": 0.00022845309285912663,
+      "away_shot_probability": 0.04083443433046341
+    },
+    {
+      "period": 2,
+      "period_seconds": 1190.0,
+      "home_shot_probability": 0.0016838087467476726,
+      "away_shot_probability": 0.04328753054141998
+    },
+    {
+      "period": 2,
+      "period_seconds": 1195.0,
+      "home_shot_probability": 0.0009320710087195039,
+      "away_shot_probability": 0.03612883388996124
+    },
+    {
+      "period": 2,
+      "period_seconds": 1200.0,
+      "home_shot_probability": 0.0004728339263238013,
+      "away_shot_probability": 0.04248975217342377
+    },
+    {
+      "period": 2,
+      "period_seconds": 1205.0,
+      "home_shot_probability": 0.0003710646415129304,
+      "away_shot_probability": 0.013436956331133842
+    },
+    {
+      "period": 2,
+      "period_seconds": 1210.0,
+      "home_shot_probability": 0.0002897749072872102,
+      "away_shot_probability": 0.010667859576642513
+    },
+    {
+      "period": 2,
+      "period_seconds": 1215.0,
+      "home_shot_probability": 0.00026345273363403976,
+      "away_shot_probability": 0.011886140331625938
+    },
+    {
+      "period": 2,
+      "period_seconds": 1220.0,
+      "home_shot_probability": 0.00040937369340099394,
+      "away_shot_probability": 0.017689522355794907
+    },
+    {
+      "period": 2,
+      "period_seconds": 1225.0,
+      "home_shot_probability": 0.0006119532627053559,
+      "away_shot_probability": 0.020898334681987762
+    },
+    {
+      "period": 2,
+      "period_seconds": 1230.0,
+      "home_shot_probability": 0.013774925842881203,
+      "away_shot_probability": 0.013774925842881203
+    },
+    {
+      "period": 2,
+      "period_seconds": 1235.0,
+      "home_shot_probability": 0.013773894868791103,
+      "away_shot_probability": 0.013773894868791103
+    },
+    {
+      "period": 2,
+      "period_seconds": 1240.0,
+      "home_shot_probability": 0.013772864826023579,
+      "away_shot_probability": 0.013772864826023579
+    },
+    {
+      "period": 2,
+      "period_seconds": 1245.0,
+      "home_shot_probability": 0.013771841302514076,
+      "away_shot_probability": 0.013771841302514076
+    },
+    {
+      "period": 2,
+      "period_seconds": 1250.0,
+      "home_shot_probability": 0.013770811259746552,
+      "away_shot_probability": 0.013770811259746552
+    },
+    {
+      "period": 2,
+      "period_seconds": 1255.0,
+      "home_shot_probability": 0.013769945129752159,
+      "away_shot_probability": 0.013769945129752159
+    },
+    {
+      "period": 2,
+      "period_seconds": 1260.0,
+      "home_shot_probability": 0.01376916654407978,
+      "away_shot_probability": 0.01376916654407978
+    },
+    {
+      "period": 2,
+      "period_seconds": 1265.0,
+      "home_shot_probability": 0.013768389821052551,
+      "away_shot_probability": 0.013768389821052551
+    },
+    {
+      "period": 2,
+      "period_seconds": 1270.0,
+      "home_shot_probability": 0.013767613098025322,
+      "away_shot_probability": 0.013767613098025322
+    },
+    {
+      "period": 2,
+      "period_seconds": 1275.0,
+      "home_shot_probability": 0.0060036214999854565,
+      "away_shot_probability": 0.002843255875632167
+    },
+    {
+      "period": 2,
+      "period_seconds": 1280.0,
+      "home_shot_probability": 0.0033202210906893015,
+      "away_shot_probability": 0.01798936538398266
+    },
+    {
+      "period": 2,
+      "period_seconds": 1285.0,
+      "home_shot_probability": 0.01645836979150772,
+      "away_shot_probability": 0.009625053033232689
+    },
+    {
+      "period": 2,
+      "period_seconds": 1290.0,
+      "home_shot_probability": 0.0030202989000827074,
+      "away_shot_probability": 0.015030172653496265
+    },
+    {
+      "period": 2,
+      "period_seconds": 1295.0,
+      "home_shot_probability": 0.0014718235470354557,
+      "away_shot_probability": 0.032556213438510895
+    },
+    {
+      "period": 2,
+      "period_seconds": 1300.0,
+      "home_shot_probability": 0.0008816670160740614,
+      "away_shot_probability": 0.037390995770692825
+    },
+    {
+      "period": 2,
+      "period_seconds": 1305.0,
+      "home_shot_probability": 0.0004622996202670038,
+      "away_shot_probability": 0.0774504691362381
+    },
+    {
+      "period": 2,
+      "period_seconds": 1310.0,
+      "home_shot_probability": 0.0002957449760288,
+      "away_shot_probability": 0.04951709136366844
+    },
+    {
+      "period": 2,
+      "period_seconds": 1315.0,
+      "home_shot_probability": 9.742242400534451e-05,
+      "away_shot_probability": 0.039702583104372025
+    },
+    {
+      "period": 2,
+      "period_seconds": 1320.0,
+      "home_shot_probability": 0.001182153238914907,
+      "away_shot_probability": 0.06830267608165741
+    },
+    {
+      "period": 2,
+      "period_seconds": 1325.0,
+      "home_shot_probability": 0.0010296539403498173,
+      "away_shot_probability": 0.026619041338562965
+    },
+    {
+      "period": 2,
+      "period_seconds": 1330.0,
+      "home_shot_probability": 0.0005032197223044932,
+      "away_shot_probability": 0.0704277753829956
+    },
+    {
+      "period": 2,
+      "period_seconds": 1335.0,
+      "home_shot_probability": 0.001966287149116397,
+      "away_shot_probability": 0.057111043483018875
+    },
+    {
+      "period": 2,
+      "period_seconds": 1340.0,
+      "home_shot_probability": 0.0011794824386015534,
+      "away_shot_probability": 0.020606623962521553
+    },
+    {
+      "period": 2,
+      "period_seconds": 1345.0,
+      "home_shot_probability": 0.0008718069875612855,
+      "away_shot_probability": 0.01296845730394125
+    },
+    {
+      "period": 2,
+      "period_seconds": 1350.0,
+      "home_shot_probability": 0.0004039668710902333,
+      "away_shot_probability": 0.03572652116417885
+    },
+    {
+      "period": 2,
+      "period_seconds": 1355.0,
+      "home_shot_probability": 0.00020614848472177982,
+      "away_shot_probability": 0.054995547980070114
+    },
+    {
+      "period": 2,
+      "period_seconds": 1360.0,
+      "home_shot_probability": 0.00013012596173211932,
+      "away_shot_probability": 0.05281676724553108
+    },
+    {
+      "period": 2,
+      "period_seconds": 1365.0,
+      "home_shot_probability": 0.00014927837764844298,
+      "away_shot_probability": 0.023915046826004982
+    },
+    {
+      "period": 2,
+      "period_seconds": 1370.0,
+      "home_shot_probability": 0.00016141431115102023,
+      "away_shot_probability": 0.016433024778962135
+    },
+    {
+      "period": 2,
+      "period_seconds": 1375.0,
+      "home_shot_probability": 0.0001790102105587721,
+      "away_shot_probability": 0.016829758882522583
+    },
+    {
+      "period": 2,
+      "period_seconds": 1380.0,
+      "home_shot_probability": 0.00016992374730762094,
+      "away_shot_probability": 0.09470007568597794
+    },
+    {
+      "period": 2,
+      "period_seconds": 1385.0,
+      "home_shot_probability": 0.00020101260452065617,
+      "away_shot_probability": 0.08580498397350311
+    },
+    {
+      "period": 2,
+      "period_seconds": 1390.0,
+      "home_shot_probability": 0.00011627050116658211,
+      "away_shot_probability": 0.1139870285987854
+    },
+    {
+      "period": 2,
+      "period_seconds": 1395.0,
+      "home_shot_probability": 0.0008687053341418505,
+      "away_shot_probability": 0.08515558391809464
+    },
+    {
+      "period": 2,
+      "period_seconds": 1400.0,
+      "home_shot_probability": 0.0016399957239627838,
+      "away_shot_probability": 0.13469302654266357
+    },
+    {
+      "period": 2,
+      "period_seconds": 1405.0,
+      "home_shot_probability": 0.0007718254928477108,
+      "away_shot_probability": 0.08185356110334396
+    },
+    {
+      "period": 2,
+      "period_seconds": 1410.0,
+      "home_shot_probability": 0.0002814122417476028,
+      "away_shot_probability": 0.06586543470621109
+    },
+    {
+      "period": 2,
+      "period_seconds": 1415.0,
+      "home_shot_probability": 0.0008655140991322696,
+      "away_shot_probability": 0.14470264315605164
+    },
+    {
+      "period": 2,
+      "period_seconds": 1420.0,
+      "home_shot_probability": 0.0023551646154373884,
+      "away_shot_probability": 0.018790442496538162
+    },
+    {
+      "period": 2,
+      "period_seconds": 1425.0,
+      "home_shot_probability": 0.007102155592292547,
+      "away_shot_probability": 0.019349319860339165
+    },
+    {
+      "period": 2,
+      "period_seconds": 1430.0,
+      "home_shot_probability": 0.0333268977701664,
+      "away_shot_probability": 0.060151975601911545
+    },
+    {
+      "period": 2,
+      "period_seconds": 1435.0,
+      "home_shot_probability": 0.009229440242052078,
+      "away_shot_probability": 0.01946365274488926
+    },
+    {
+      "period": 2,
+      "period_seconds": 1440.0,
+      "home_shot_probability": 0.003537875832989812,
+      "away_shot_probability": 0.005440662615001202
+    },
+    {
+      "period": 2,
+      "period_seconds": 1445.0,
+      "home_shot_probability": 0.00227761990390718,
+      "away_shot_probability": 0.002310456708073616
+    },
+    {
+      "period": 2,
+      "period_seconds": 1450.0,
+      "home_shot_probability": 0.004440804943442345,
+      "away_shot_probability": 0.009637451730668545
+    },
+    {
+      "period": 2,
+      "period_seconds": 1455.0,
+      "home_shot_probability": 0.006176577415317297,
+      "away_shot_probability": 0.003424727590754628
+    },
+    {
+      "period": 2,
+      "period_seconds": 1460.0,
+      "home_shot_probability": 0.006534053478389978,
+      "away_shot_probability": 0.0013177922228351235
+    },
+    {
+      "period": 2,
+      "period_seconds": 1465.0,
+      "home_shot_probability": 0.007607586216181517,
+      "away_shot_probability": 0.0019148871069774032
+    },
+    {
+      "period": 2,
+      "period_seconds": 1470.0,
+      "home_shot_probability": 0.007311799097806215,
+      "away_shot_probability": 0.018970279023051262
+    },
+    {
+      "period": 2,
+      "period_seconds": 1475.0,
+      "home_shot_probability": 0.0033973727840930223,
+      "away_shot_probability": 0.011637463234364986
+    },
+    {
+      "period": 2,
+      "period_seconds": 1480.0,
+      "home_shot_probability": 0.002198244445025921,
+      "away_shot_probability": 0.02102108858525753
+    },
+    {
+      "period": 2,
+      "period_seconds": 1485.0,
+      "home_shot_probability": 0.001075618201866746,
+      "away_shot_probability": 0.0351860448718071
+    },
+    {
+      "period": 2,
+      "period_seconds": 1490.0,
+      "home_shot_probability": 0.0005133836530148983,
+      "away_shot_probability": 0.031222814694046974
+    },
+    {
+      "period": 2,
+      "period_seconds": 1495.0,
+      "home_shot_probability": 0.0018169009126722813,
+      "away_shot_probability": 0.03641432523727417
+    },
+    {
+      "period": 2,
+      "period_seconds": 1500.0,
+      "home_shot_probability": 0.00047700261347927153,
+      "away_shot_probability": 0.12838535010814667
+    },
+    {
+      "period": 2,
+      "period_seconds": 1505.0,
+      "home_shot_probability": 0.00042575286352075636,
+      "away_shot_probability": 0.06819424033164978
+    },
+    {
+      "period": 2,
+      "period_seconds": 1510.0,
+      "home_shot_probability": 0.00031726702582091093,
+      "away_shot_probability": 0.058681901544332504
+    },
+    {
+      "period": 2,
+      "period_seconds": 1515.0,
+      "home_shot_probability": 0.00019683167920447886,
+      "away_shot_probability": 0.07775486260652542
+    },
+    {
+      "period": 2,
+      "period_seconds": 1520.0,
+      "home_shot_probability": 0.0014298243913799524,
+      "away_shot_probability": 0.033718325197696686
+    },
+    {
+      "period": 2,
+      "period_seconds": 1525.0,
+      "home_shot_probability": 0.0004715133982244879,
+      "away_shot_probability": 0.06459973007440567
+    },
+    {
+      "period": 2,
+      "period_seconds": 1530.0,
+      "home_shot_probability": 0.0001937625784194097,
+      "away_shot_probability": 0.09201496839523315
+    },
+    {
+      "period": 2,
+      "period_seconds": 1535.0,
+      "home_shot_probability": 0.00018573580018710345,
+      "away_shot_probability": 0.0406612753868103
+    },
+    {
+      "period": 2,
+      "period_seconds": 1540.0,
+      "home_shot_probability": 9.999723988585174e-05,
+      "away_shot_probability": 0.05072479695081711
+    },
+    {
+      "period": 2,
+      "period_seconds": 1545.0,
+      "home_shot_probability": 9.150647383648902e-05,
+      "away_shot_probability": 0.052711714059114456
+    },
+    {
+      "period": 2,
+      "period_seconds": 1550.0,
+      "home_shot_probability": 0.00011722656927304342,
+      "away_shot_probability": 0.09017303586006165
+    },
+    {
+      "period": 2,
+      "period_seconds": 1555.0,
+      "home_shot_probability": 0.0017831508303061128,
+      "away_shot_probability": 0.04079922288656235
+    },
+    {
+      "period": 2,
+      "period_seconds": 1560.0,
+      "home_shot_probability": 0.0006519873859360814,
+      "away_shot_probability": 0.035846006125211716
+    },
+    {
+      "period": 2,
+      "period_seconds": 1565.0,
+      "home_shot_probability": 0.0006245276890695095,
+      "away_shot_probability": 0.01601596176624298
+    },
+    {
+      "period": 2,
+      "period_seconds": 1570.0,
+      "home_shot_probability": 0.0003230426518712193,
+      "away_shot_probability": 0.047427207231521606
+    },
+    {
+      "period": 2,
+      "period_seconds": 1575.0,
+      "home_shot_probability": 0.00016467086970806122,
+      "away_shot_probability": 0.07658989727497101
+    },
+    {
+      "period": 2,
+      "period_seconds": 1580.0,
+      "home_shot_probability": 0.001825871760956943,
+      "away_shot_probability": 0.07191459089517593
+    },
+    {
+      "period": 2,
+      "period_seconds": 1585.0,
+      "home_shot_probability": 0.02066306583583355,
+      "away_shot_probability": 0.04433209449052811
+    },
+    {
+      "period": 2,
+      "period_seconds": 1590.0,
+      "home_shot_probability": 0.013223038986325264,
+      "away_shot_probability": 0.038341812789440155
+    },
+    {
+      "period": 2,
+      "period_seconds": 1595.0,
+      "home_shot_probability": 0.09463469684123993,
+      "away_shot_probability": 0.043258823454380035
+    },
+    {
+      "period": 2,
+      "period_seconds": 1600.0,
+      "home_shot_probability": 0.04248875379562378,
+      "away_shot_probability": 0.04489603266119957
+    },
+    {
+      "period": 2,
+      "period_seconds": 1605.0,
+      "home_shot_probability": 0.016904830932617188,
+      "away_shot_probability": 0.0149986632168293
+    },
+    {
+      "period": 2,
+      "period_seconds": 1610.0,
+      "home_shot_probability": 0.0053929733112454414,
+      "away_shot_probability": 0.02311229705810547
+    },
+    {
+      "period": 2,
+      "period_seconds": 1615.0,
+      "home_shot_probability": 0.009836151264607906,
+      "away_shot_probability": 0.010600787587463856
+    },
+    {
+      "period": 2,
+      "period_seconds": 1620.0,
+      "home_shot_probability": 0.11496353894472122,
+      "away_shot_probability": 0.0022893764544278383
+    },
+    {
+      "period": 2,
+      "period_seconds": 1625.0,
+      "home_shot_probability": 0.1349267065525055,
+      "away_shot_probability": 0.0012795140501111746
+    },
+    {
+      "period": 2,
+      "period_seconds": 1630.0,
+      "home_shot_probability": 0.0056223152205348015,
+      "away_shot_probability": 0.031417835503816605
+    },
+    {
+      "period": 2,
+      "period_seconds": 1635.0,
+      "home_shot_probability": 0.006016904953867197,
+      "away_shot_probability": 0.028044655919075012
+    },
+    {
+      "period": 2,
+      "period_seconds": 1640.0,
+      "home_shot_probability": 0.0028292196802794933,
+      "away_shot_probability": 0.07237846404314041
+    },
+    {
+      "period": 2,
+      "period_seconds": 1645.0,
+      "home_shot_probability": 0.002539511304348707,
+      "away_shot_probability": 0.01602151431143284
+    },
+    {
+      "period": 2,
+      "period_seconds": 1650.0,
+      "home_shot_probability": 0.040072064846754074,
+      "away_shot_probability": 0.08943875879049301
+    },
+    {
+      "period": 2,
+      "period_seconds": 1655.0,
+      "home_shot_probability": 0.0010505523532629013,
+      "away_shot_probability": 0.014069374650716782
+    },
+    {
+      "period": 2,
+      "period_seconds": 1660.0,
+      "home_shot_probability": 0.0012119129532948136,
+      "away_shot_probability": 0.011135971173644066
+    },
+    {
+      "period": 2,
+      "period_seconds": 1665.0,
+      "home_shot_probability": 0.0010313012171536684,
+      "away_shot_probability": 0.011617324315011501
+    },
+    {
+      "period": 2,
+      "period_seconds": 1670.0,
+      "home_shot_probability": 0.0008506005397066474,
+      "away_shot_probability": 0.013437404297292233
+    },
+    {
+      "period": 2,
+      "period_seconds": 1675.0,
+      "home_shot_probability": 0.0065150135196745396,
+      "away_shot_probability": 0.0035313244443386793
+    },
+    {
+      "period": 2,
+      "period_seconds": 1680.0,
+      "home_shot_probability": 0.025545036420226097,
+      "away_shot_probability": 0.0026071600150316954
+    },
+    {
+      "period": 2,
+      "period_seconds": 1685.0,
+      "home_shot_probability": 0.028964143246412277,
+      "away_shot_probability": 0.0024934085085988045
+    },
+    {
+      "period": 2,
+      "period_seconds": 1690.0,
+      "home_shot_probability": 0.010666209273040295,
+      "away_shot_probability": 0.007911122404038906
+    },
+    {
+      "period": 2,
+      "period_seconds": 1695.0,
+      "home_shot_probability": 0.018821701407432556,
+      "away_shot_probability": 0.021323757246136665
+    },
+    {
+      "period": 2,
+      "period_seconds": 1700.0,
+      "home_shot_probability": 0.007212955970317125,
+      "away_shot_probability": 0.05269111692905426
+    },
+    {
+      "period": 2,
+      "period_seconds": 1705.0,
+      "home_shot_probability": 0.003319530049338937,
+      "away_shot_probability": 0.10421761870384216
+    },
+    {
+      "period": 2,
+      "period_seconds": 1710.0,
+      "home_shot_probability": 0.0026902244426310062,
+      "away_shot_probability": 0.03412800654768944
+    },
+    {
+      "period": 2,
+      "period_seconds": 1715.0,
+      "home_shot_probability": 0.005693176761269569,
+      "away_shot_probability": 0.016806727275252342
+    },
+    {
+      "period": 2,
+      "period_seconds": 1720.0,
+      "home_shot_probability": 0.0014142320724204183,
+      "away_shot_probability": 0.021592192351818085
+    },
+    {
+      "period": 2,
+      "period_seconds": 1725.0,
+      "home_shot_probability": 0.0007951061124913394,
+      "away_shot_probability": 0.02150287665426731
+    },
+    {
+      "period": 2,
+      "period_seconds": 1730.0,
+      "home_shot_probability": 0.0007304737227968872,
+      "away_shot_probability": 0.046506334096193314
+    },
+    {
+      "period": 2,
+      "period_seconds": 1735.0,
+      "home_shot_probability": 0.00039271844434551895,
+      "away_shot_probability": 0.10554863512516022
+    },
+    {
+      "period": 2,
+      "period_seconds": 1740.0,
+      "home_shot_probability": 0.0002940961567219347,
+      "away_shot_probability": 0.09553193300962448
+    },
+    {
+      "period": 2,
+      "period_seconds": 1745.0,
+      "home_shot_probability": 8.64317044033669e-05,
+      "away_shot_probability": 0.04943583160638809
+    },
+    {
+      "period": 2,
+      "period_seconds": 1750.0,
+      "home_shot_probability": 0.00011952401109738275,
+      "away_shot_probability": 0.0371532067656517
+    },
+    {
+      "period": 2,
+      "period_seconds": 1755.0,
+      "home_shot_probability": 8.031821198528633e-05,
+      "away_shot_probability": 0.10435667634010315
+    },
+    {
+      "period": 2,
+      "period_seconds": 1760.0,
+      "home_shot_probability": 0.004077514633536339,
+      "away_shot_probability": 0.04395680129528046
+    },
+    {
+      "period": 2,
+      "period_seconds": 1765.0,
+      "home_shot_probability": 0.0016097503248602152,
+      "away_shot_probability": 0.15586884319782257
+    },
+    {
+      "period": 2,
+      "period_seconds": 1770.0,
+      "home_shot_probability": 0.005067839752882719,
+      "away_shot_probability": 0.026056595146656036
+    },
+    {
+      "period": 2,
+      "period_seconds": 1775.0,
+      "home_shot_probability": 0.006818611640483141,
+      "away_shot_probability": 0.04910983145236969
+    },
+    {
+      "period": 2,
+      "period_seconds": 1780.0,
+      "home_shot_probability": 0.0013597826473414898,
+      "away_shot_probability": 0.07049279659986496
+    },
+    {
+      "period": 2,
+      "period_seconds": 1785.0,
+      "home_shot_probability": 0.000700678036082536,
+      "away_shot_probability": 0.0541963092982769
+    },
+    {
+      "period": 2,
+      "period_seconds": 1790.0,
+      "home_shot_probability": 0.00019309567869640887,
+      "away_shot_probability": 0.01655437983572483
+    },
+    {
+      "period": 2,
+      "period_seconds": 1795.0,
+      "home_shot_probability": 0.0002558963606134057,
+      "away_shot_probability": 0.010592884384095669
+    },
+    {
+      "period": 2,
+      "period_seconds": 1800.0,
+      "home_shot_probability": 0.00016134875477291644,
+      "away_shot_probability": 0.006108831148594618
+    },
+    {
+      "period": 2,
+      "period_seconds": 1805.0,
+      "home_shot_probability": 0.0005644357879646122,
+      "away_shot_probability": 0.022306809201836586
+    },
+    {
+      "period": 2,
+      "period_seconds": 1810.0,
+      "home_shot_probability": 0.0007241580751724541,
+      "away_shot_probability": 0.0237346813082695
+    },
+    {
+      "period": 2,
+      "period_seconds": 1815.0,
+      "home_shot_probability": 0.013885111548006535,
+      "away_shot_probability": 0.013885111548006535
+    },
+    {
+      "period": 2,
+      "period_seconds": 1820.0,
+      "home_shot_probability": 0.00030011121998541057,
+      "away_shot_probability": 0.04695536941289902
+    },
+    {
+      "period": 2,
+      "period_seconds": 1825.0,
+      "home_shot_probability": 0.00025153043679893017,
+      "away_shot_probability": 0.05646513029932976
+    },
+    {
+      "period": 2,
+      "period_seconds": 1830.0,
+      "home_shot_probability": 0.00293027819134295,
+      "away_shot_probability": 0.12645049393177032
+    },
+    {
+      "period": 2,
+      "period_seconds": 1835.0,
+      "home_shot_probability": 0.008425935171544552,
+      "away_shot_probability": 0.010730571113526821
+    },
+    {
+      "period": 2,
+      "period_seconds": 1840.0,
+      "home_shot_probability": 0.006050524301826954,
+      "away_shot_probability": 0.004481031559407711
+    },
+    {
+      "period": 2,
+      "period_seconds": 1845.0,
+      "home_shot_probability": 0.005976623855531216,
+      "away_shot_probability": 0.007443566340953112
+    },
+    {
+      "period": 2,
+      "period_seconds": 1850.0,
+      "home_shot_probability": 0.006297856103628874,
+      "away_shot_probability": 0.009555364027619362
+    },
+    {
+      "period": 2,
+      "period_seconds": 1855.0,
+      "home_shot_probability": 0.035033904016017914,
+      "away_shot_probability": 0.0035251814406365156
+    },
+    {
+      "period": 2,
+      "period_seconds": 1860.0,
+      "home_shot_probability": 0.008253494277596474,
+      "away_shot_probability": 0.0011983235599473119
+    },
+    {
+      "period": 2,
+      "period_seconds": 1865.0,
+      "home_shot_probability": 0.006798068527132273,
+      "away_shot_probability": 0.001320598996244371
+    },
+    {
+      "period": 2,
+      "period_seconds": 1870.0,
+      "home_shot_probability": 0.005519629456102848,
+      "away_shot_probability": 0.0012806302402168512
+    },
+    {
+      "period": 2,
+      "period_seconds": 1875.0,
+      "home_shot_probability": 0.005484174471348524,
+      "away_shot_probability": 0.0020445105619728565
+    },
+    {
+      "period": 2,
+      "period_seconds": 1880.0,
+      "home_shot_probability": 0.006686519831418991,
+      "away_shot_probability": 0.0014712924603372812
+    },
+    {
+      "period": 2,
+      "period_seconds": 1885.0,
+      "home_shot_probability": 0.013914509676396847,
+      "away_shot_probability": 0.013914509676396847
+    },
+    {
+      "period": 2,
+      "period_seconds": 1890.0,
+      "home_shot_probability": 0.0139174684882164,
+      "away_shot_probability": 0.0139174684882164
+    },
+    {
+      "period": 2,
+      "period_seconds": 1895.0,
+      "home_shot_probability": 0.013920431956648827,
+      "away_shot_probability": 0.013920431956648827
+    },
+    {
+      "period": 2,
+      "period_seconds": 1900.0,
+      "home_shot_probability": 0.013923391699790955,
+      "away_shot_probability": 0.013923391699790955
+    },
+    {
+      "period": 2,
+      "period_seconds": 1905.0,
+      "home_shot_probability": 0.013926357962191105,
+      "away_shot_probability": 0.013926357962191105
+    },
+    {
+      "period": 2,
+      "period_seconds": 1910.0,
+      "home_shot_probability": 0.013929316774010658,
+      "away_shot_probability": 0.013929316774010658
+    },
+    {
+      "period": 2,
+      "period_seconds": 1915.0,
+      "home_shot_probability": 0.010150394402444363,
+      "away_shot_probability": 0.0011960571864619851
+    },
+    {
+      "period": 2,
+      "period_seconds": 1920.0,
+      "home_shot_probability": 0.015003546141088009,
+      "away_shot_probability": 0.003014853224158287
+    },
+    {
+      "period": 2,
+      "period_seconds": 1925.0,
+      "home_shot_probability": 0.00539431581273675,
+      "away_shot_probability": 0.006538487039506435
+    },
+    {
+      "period": 2,
+      "period_seconds": 1930.0,
+      "home_shot_probability": 0.0033644994255155325,
+      "away_shot_probability": 0.03860912472009659
+    },
+    {
+      "period": 2,
+      "period_seconds": 1935.0,
+      "home_shot_probability": 0.00196625804528594,
+      "away_shot_probability": 0.0245271734893322
+    },
+    {
+      "period": 2,
+      "period_seconds": 1940.0,
+      "home_shot_probability": 0.0016511091962456703,
+      "away_shot_probability": 0.026724601164460182
+    },
+    {
+      "period": 2,
+      "period_seconds": 1945.0,
+      "home_shot_probability": 0.0008814734756015241,
+      "away_shot_probability": 0.03414246067404747
+    },
+    {
+      "period": 2,
+      "period_seconds": 1950.0,
+      "home_shot_probability": 0.009121089242398739,
+      "away_shot_probability": 0.028820080682635307
+    },
+    {
+      "period": 2,
+      "period_seconds": 1955.0,
+      "home_shot_probability": 0.0019777307752519846,
+      "away_shot_probability": 0.0882784053683281
+    },
+    {
+      "period": 2,
+      "period_seconds": 1960.0,
+      "home_shot_probability": 0.0007543079555034637,
+      "away_shot_probability": 0.09603548049926758
+    },
+    {
+      "period": 2,
+      "period_seconds": 1965.0,
+      "home_shot_probability": 0.0006202783551998436,
+      "away_shot_probability": 0.022778114303946495
+    },
+    {
+      "period": 2,
+      "period_seconds": 1970.0,
+      "home_shot_probability": 0.0005561116267926991,
+      "away_shot_probability": 0.006099770311266184
+    },
+    {
+      "period": 2,
+      "period_seconds": 1975.0,
+      "home_shot_probability": 0.0006457808776758611,
+      "away_shot_probability": 0.0031971829012036324
+    },
+    {
+      "period": 2,
+      "period_seconds": 1980.0,
+      "home_shot_probability": 0.0003350522893015295,
+      "away_shot_probability": 0.009411214850842953
+    },
+    {
+      "period": 2,
+      "period_seconds": 1985.0,
+      "home_shot_probability": 0.0005659827729687095,
+      "away_shot_probability": 0.011153596453368664
+    },
+    {
+      "period": 2,
+      "period_seconds": 1990.0,
+      "home_shot_probability": 0.013976817019283772,
+      "away_shot_probability": 0.013976817019283772
+    },
+    {
+      "period": 2,
+      "period_seconds": 1995.0,
+      "home_shot_probability": 0.005760896019637585,
+      "away_shot_probability": 0.0031009246595203876
+    },
+    {
+      "period": 2,
+      "period_seconds": 2000.0,
+      "home_shot_probability": 0.0061776661314070225,
+      "away_shot_probability": 0.0036137925926595926
+    },
+    {
+      "period": 2,
+      "period_seconds": 2005.0,
+      "home_shot_probability": 0.002897381316870451,
+      "away_shot_probability": 0.019390912726521492
+    },
+    {
+      "period": 2,
+      "period_seconds": 2010.0,
+      "home_shot_probability": 0.0016616509528830647,
+      "away_shot_probability": 0.055302008986473083
+    },
+    {
+      "period": 2,
+      "period_seconds": 2015.0,
+      "home_shot_probability": 0.0007710573263466358,
+      "away_shot_probability": 0.03557168319821358
+    },
+    {
+      "period": 2,
+      "period_seconds": 2020.0,
+      "home_shot_probability": 0.0029756862204521894,
+      "away_shot_probability": 0.018237365409731865
+    },
+    {
+      "period": 2,
+      "period_seconds": 2025.0,
+      "home_shot_probability": 0.0007865202496759593,
+      "away_shot_probability": 0.03623349964618683
+    },
+    {
+      "period": 2,
+      "period_seconds": 2030.0,
+      "home_shot_probability": 0.0006181973149068654,
+      "away_shot_probability": 0.03752460703253746
+    },
+    {
+      "period": 2,
+      "period_seconds": 2035.0,
+      "home_shot_probability": 0.00037275030626915395,
+      "away_shot_probability": 0.023038476705551147
+    },
+    {
+      "period": 2,
+      "period_seconds": 2040.0,
+      "home_shot_probability": 0.0002402726240688935,
+      "away_shot_probability": 0.021344391629099846
+    },
+    {
+      "period": 2,
+      "period_seconds": 2045.0,
+      "home_shot_probability": 0.0001278363197343424,
+      "away_shot_probability": 0.07263503223657608
+    },
+    {
+      "period": 2,
+      "period_seconds": 2050.0,
+      "home_shot_probability": 0.00015806742885615677,
+      "away_shot_probability": 0.023462237790226936
+    },
+    {
+      "period": 2,
+      "period_seconds": 2055.0,
+      "home_shot_probability": 0.0002334715100005269,
+      "away_shot_probability": 0.018250219523906708
+    },
+    {
+      "period": 2,
+      "period_seconds": 2060.0,
+      "home_shot_probability": 0.0002445305872242898,
+      "away_shot_probability": 0.01984255760908127
+    },
+    {
+      "period": 2,
+      "period_seconds": 2065.0,
+      "home_shot_probability": 0.0002130197244696319,
+      "away_shot_probability": 0.025954879820346832
+    },
+    {
+      "period": 2,
+      "period_seconds": 2070.0,
+      "home_shot_probability": 0.0001887450780486688,
+      "away_shot_probability": 0.02717236988246441
+    },
+    {
+      "period": 2,
+      "period_seconds": 2075.0,
+      "home_shot_probability": 0.014027460478246212,
+      "away_shot_probability": 0.014027460478246212
+    },
+    {
+      "period": 2,
+      "period_seconds": 2080.0,
+      "home_shot_probability": 0.003963348921388388,
+      "away_shot_probability": 0.004225070122629404
+    },
+    {
+      "period": 2,
+      "period_seconds": 2085.0,
+      "home_shot_probability": 0.0012660366483032703,
+      "away_shot_probability": 0.030411824584007263
+    },
+    {
+      "period": 2,
+      "period_seconds": 2090.0,
+      "home_shot_probability": 0.0008791445870883763,
+      "away_shot_probability": 0.03321196138858795
+    },
+    {
+      "period": 2,
+      "period_seconds": 2095.0,
+      "home_shot_probability": 0.0033032726496458054,
+      "away_shot_probability": 0.025766123086214066
+    },
+    {
+      "period": 2,
+      "period_seconds": 2100.0,
+      "home_shot_probability": 0.0017926370492205024,
+      "away_shot_probability": 0.012201941572129726
+    },
+    {
+      "period": 2,
+      "period_seconds": 2105.0,
+      "home_shot_probability": 0.0012836898677051067,
+      "away_shot_probability": 0.007200983352959156
+    },
+    {
+      "period": 2,
+      "period_seconds": 2110.0,
+      "home_shot_probability": 0.0005283932550810277,
+      "away_shot_probability": 0.010749670676887035
+    },
+    {
+      "period": 2,
+      "period_seconds": 2115.0,
+      "home_shot_probability": 0.0002870089083444327,
+      "away_shot_probability": 0.16269388794898987
+    },
+    {
+      "period": 2,
+      "period_seconds": 2120.0,
+      "home_shot_probability": 0.00022016024740878493,
+      "away_shot_probability": 0.052295587956905365
+    },
+    {
+      "period": 2,
+      "period_seconds": 2125.0,
+      "home_shot_probability": 0.0001883323275251314,
+      "away_shot_probability": 0.070673368871212
+    },
+    {
+      "period": 2,
+      "period_seconds": 2130.0,
+      "home_shot_probability": 0.0064655691385269165,
+      "away_shot_probability": 0.015011519193649292
+    },
+    {
+      "period": 2,
+      "period_seconds": 2135.0,
+      "home_shot_probability": 0.0016732981894165277,
+      "away_shot_probability": 0.038273975253105164
+    },
+    {
+      "period": 2,
+      "period_seconds": 2140.0,
+      "home_shot_probability": 0.005338716320693493,
+      "away_shot_probability": 0.04724809527397156
+    },
+    {
+      "period": 2,
+      "period_seconds": 2145.0,
+      "home_shot_probability": 0.001015756162814796,
+      "away_shot_probability": 0.041381437331438065
+    },
+    {
+      "period": 2,
+      "period_seconds": 2150.0,
+      "home_shot_probability": 0.0004386086075101048,
+      "away_shot_probability": 0.12184427678585052
+    },
+    {
+      "period": 2,
+      "period_seconds": 2155.0,
+      "home_shot_probability": 0.0003384853480383754,
+      "away_shot_probability": 0.08863157033920288
+    },
+    {
+      "period": 2,
+      "period_seconds": 2160.0,
+      "home_shot_probability": 0.00011021087266271934,
+      "away_shot_probability": 0.1039741188287735
+    },
+    {
+      "period": 2,
+      "period_seconds": 2165.0,
+      "home_shot_probability": 9.764228161657229e-05,
+      "away_shot_probability": 0.03871317580342293
+    },
+    {
+      "period": 2,
+      "period_seconds": 2170.0,
+      "home_shot_probability": 0.00016919361951295286,
+      "away_shot_probability": 0.01345566101372242
+    },
+    {
+      "period": 2,
+      "period_seconds": 2175.0,
+      "home_shot_probability": 0.0002171514934161678,
+      "away_shot_probability": 0.012576110661029816
+    },
+    {
+      "period": 2,
+      "period_seconds": 2180.0,
+      "home_shot_probability": 0.00025490601547062397,
+      "away_shot_probability": 0.01616956666111946
+    },
+    {
+      "period": 2,
+      "period_seconds": 2185.0,
+      "home_shot_probability": 0.00027616159059107304,
+      "away_shot_probability": 0.020489564165472984
+    },
+    {
+      "period": 2,
+      "period_seconds": 2190.0,
+      "home_shot_probability": 0.0002813642204273492,
+      "away_shot_probability": 0.021973587572574615
+    },
+    {
+      "period": 2,
+      "period_seconds": 2195.0,
+      "home_shot_probability": 0.014099972322583199,
+      "away_shot_probability": 0.014099972322583199
+    },
+    {
+      "period": 2,
+      "period_seconds": 2200.0,
+      "home_shot_probability": 0.014103088527917862,
+      "away_shot_probability": 0.014103088527917862
+    },
+    {
+      "period": 2,
+      "period_seconds": 2205.0,
+      "home_shot_probability": 0.01410620380192995,
+      "away_shot_probability": 0.01410620380192995
+    },
+    {
+      "period": 2,
+      "period_seconds": 2210.0,
+      "home_shot_probability": 0.014109327457845211,
+      "away_shot_probability": 0.014109327457845211
+    },
+    {
+      "period": 2,
+      "period_seconds": 2215.0,
+      "home_shot_probability": 0.014112444594502449,
+      "away_shot_probability": 0.014112444594502449
+    },
+    {
+      "period": 2,
+      "period_seconds": 2220.0,
+      "home_shot_probability": 0.014115563593804836,
+      "away_shot_probability": 0.014115563593804836
+    },
+    {
+      "period": 2,
+      "period_seconds": 2225.0,
+      "home_shot_probability": 0.014118682593107224,
+      "away_shot_probability": 0.014118682593107224
+    },
+    {
+      "period": 2,
+      "period_seconds": 2230.0,
+      "home_shot_probability": 0.014121809974312782,
+      "away_shot_probability": 0.014121809974312782
+    },
+    {
+      "period": 2,
+      "period_seconds": 2235.0,
+      "home_shot_probability": 0.01412492897361517,
+      "away_shot_probability": 0.01412492897361517
+    },
+    {
+      "period": 2,
+      "period_seconds": 2240.0,
+      "home_shot_probability": 0.014128051698207855,
+      "away_shot_probability": 0.014128051698207855
+    },
+    {
+      "period": 2,
+      "period_seconds": 2245.0,
+      "home_shot_probability": 0.014131174422800541,
+      "away_shot_probability": 0.014131174422800541
+    },
+    {
+      "period": 2,
+      "period_seconds": 2250.0,
+      "home_shot_probability": 0.014134295284748077,
+      "away_shot_probability": 0.014134295284748077
+    },
+    {
+      "period": 2,
+      "period_seconds": 2255.0,
+      "home_shot_probability": 0.01413742545992136,
+      "away_shot_probability": 0.01413742545992136
+    },
+    {
+      "period": 2,
+      "period_seconds": 2260.0,
+      "home_shot_probability": 0.01414054911583662,
+      "away_shot_probability": 0.01414054911583662
+    },
+    {
+      "period": 2,
+      "period_seconds": 2265.0,
+      "home_shot_probability": 0.014143675565719604,
+      "away_shot_probability": 0.014143675565719604
+    },
+    {
+      "period": 2,
+      "period_seconds": 2270.0,
+      "home_shot_probability": 0.01414680015295744,
+      "away_shot_probability": 0.01414680015295744
+    },
+    {
+      "period": 2,
+      "period_seconds": 2275.0,
+      "home_shot_probability": 0.00433903094381094,
+      "away_shot_probability": 0.002199894282966852
+    },
+    {
+      "period": 2,
+      "period_seconds": 2280.0,
+      "home_shot_probability": 0.004564256872981787,
+      "away_shot_probability": 0.0025926765520125628
+    },
+    {
+      "period": 2,
+      "period_seconds": 2285.0,
+      "home_shot_probability": 0.0047119781374931335,
+      "away_shot_probability": 0.002752799540758133
+    },
+    {
+      "period": 2,
+      "period_seconds": 2290.0,
+      "home_shot_probability": 0.004562502261251211,
+      "away_shot_probability": 0.002635102951899171
+    },
+    {
+      "period": 2,
+      "period_seconds": 2295.0,
+      "home_shot_probability": 0.004270472098141909,
+      "away_shot_probability": 0.0025224245619028807
+    },
+    {
+      "period": 2,
+      "period_seconds": 2300.0,
+      "home_shot_probability": 0.0037983653601258993,
+      "away_shot_probability": 0.002414553891867399
+    },
+    {
+      "period": 2,
+      "period_seconds": 2305.0,
+      "home_shot_probability": 0.014168708585202694,
+      "away_shot_probability": 0.014168708585202694
+    },
+    {
+      "period": 2,
+      "period_seconds": 2310.0,
+      "home_shot_probability": 0.014171839691698551,
+      "away_shot_probability": 0.014171839691698551
+    },
+    {
+      "period": 2,
+      "period_seconds": 2315.0,
+      "home_shot_probability": 0.014174978248775005,
+      "away_shot_probability": 0.014174978248775005
+    },
+    {
+      "period": 2,
+      "period_seconds": 2320.0,
+      "home_shot_probability": 0.014178109355270863,
+      "away_shot_probability": 0.014178109355270863
+    },
+    {
+      "period": 2,
+      "period_seconds": 2325.0,
+      "home_shot_probability": 0.014181242324411869,
+      "away_shot_probability": 0.014181242324411869
+    },
+    {
+      "period": 2,
+      "period_seconds": 2330.0,
+      "home_shot_probability": 0.014184375293552876,
+      "away_shot_probability": 0.014184375293552876
+    },
+    {
+      "period": 2,
+      "period_seconds": 2335.0,
+      "home_shot_probability": 0.014187516644597054,
+      "away_shot_probability": 0.014187516644597054
+    },
+    {
+      "period": 2,
+      "period_seconds": 2340.0,
+      "home_shot_probability": 0.014190652407705784,
+      "away_shot_probability": 0.014190652407705784
+    },
+    {
+      "period": 2,
+      "period_seconds": 2345.0,
+      "home_shot_probability": 0.01419378723949194,
+      "away_shot_probability": 0.01419378723949194
+    },
+    {
+      "period": 2,
+      "period_seconds": 2350.0,
+      "home_shot_probability": 0.01419692300260067,
+      "away_shot_probability": 0.01419692300260067
+    },
+    {
+      "period": 2,
+      "period_seconds": 2355.0,
+      "home_shot_probability": 0.014200067147612572,
+      "away_shot_probability": 0.014200067147612572
+    },
+    {
+      "period": 2,
+      "period_seconds": 2360.0,
+      "home_shot_probability": 0.014203204773366451,
+      "away_shot_probability": 0.014203204773366451
+    },
+    {
+      "period": 2,
+      "period_seconds": 2365.0,
+      "home_shot_probability": 0.014206343330442905,
+      "away_shot_probability": 0.014206343330442905
+    },
+    {
+      "period": 2,
+      "period_seconds": 2370.0,
+      "home_shot_probability": 0.0050402674823999405,
+      "away_shot_probability": 0.006549980025738478
+    },
+    {
+      "period": 2,
+      "period_seconds": 2375.0,
+      "home_shot_probability": 0.01853911764919758,
+      "away_shot_probability": 0.004880137275904417
+    },
+    {
+      "period": 2,
+      "period_seconds": 2380.0,
+      "home_shot_probability": 0.006548980250954628,
+      "away_shot_probability": 0.00651623634621501
+    },
+    {
+      "period": 2,
+      "period_seconds": 2385.0,
+      "home_shot_probability": 0.021901072934269905,
+      "away_shot_probability": 0.004114598501473665
+    },
+    {
+      "period": 2,
+      "period_seconds": 2390.0,
+      "home_shot_probability": 0.00941393617540598,
+      "away_shot_probability": 0.009004292078316212
+    },
+    {
+      "period": 2,
+      "period_seconds": 2395.0,
+      "home_shot_probability": 0.022939585149288177,
+      "away_shot_probability": 0.02292465604841709
+    },
+    {
+      "period": 2,
+      "period_seconds": 2400.0,
+      "home_shot_probability": 0.051527880132198334,
+      "away_shot_probability": 0.007730737794190645
+    },
+    {
+      "period": 2,
+      "period_seconds": 2405.0,
+      "home_shot_probability": 0.07121841609477997,
+      "away_shot_probability": 0.02613815851509571
+    },
+    {
+      "period": 2,
+      "period_seconds": 2410.0,
+      "home_shot_probability": 0.011725488118827343,
+      "away_shot_probability": 0.0066970172338187695
+    },
+    {
+      "period": 2,
+      "period_seconds": 2415.0,
+      "home_shot_probability": 0.004713655449450016,
+      "away_shot_probability": 0.003063789801672101
+    },
+    {
+      "period": 2,
+      "period_seconds": 2420.0,
+      "home_shot_probability": 0.0034513985738158226,
+      "away_shot_probability": 0.0015351190231740475
+    },
+    {
+      "period": 2,
+      "period_seconds": 2425.0,
+      "home_shot_probability": 0.0024307393468916416,
+      "away_shot_probability": 0.02258845791220665
+    },
+    {
+      "period": 2,
+      "period_seconds": 2430.0,
+      "home_shot_probability": 0.0031546044629067183,
+      "away_shot_probability": 0.01855139061808586
+    },
+    {
+      "period": 2,
+      "period_seconds": 2435.0,
+      "home_shot_probability": 0.0011966133024543524,
+      "away_shot_probability": 0.08790279179811478
+    },
+    {
+      "period": 2,
+      "period_seconds": 2440.0,
+      "home_shot_probability": 0.0029132612980902195,
+      "away_shot_probability": 0.02145213447511196
+    },
+    {
+      "period": 2,
+      "period_seconds": 2445.0,
+      "home_shot_probability": 0.001130508491769433,
+      "away_shot_probability": 0.016035420820116997
+    },
+    {
+      "period": 2,
+      "period_seconds": 2450.0,
+      "home_shot_probability": 0.0005249675014056265,
+      "away_shot_probability": 0.019204776734113693
+    },
+    {
+      "period": 2,
+      "period_seconds": 2455.0,
+      "home_shot_probability": 0.0004478971823118627,
+      "away_shot_probability": 0.010627343319356441
+    },
+    {
+      "period": 2,
+      "period_seconds": 2460.0,
+      "home_shot_probability": 0.0003442121669650078,
+      "away_shot_probability": 0.009900537319481373
+    },
+    {
+      "period": 2,
+      "period_seconds": 2465.0,
+      "home_shot_probability": 0.0003518013108987361,
+      "away_shot_probability": 0.009654556401073933
+    },
+    {
+      "period": 2,
+      "period_seconds": 2470.0,
+      "home_shot_probability": 0.0006127154920250177,
+      "away_shot_probability": 0.013465785421431065
+    },
+    {
+      "period": 2,
+      "period_seconds": 2475.0,
+      "home_shot_probability": 0.0011536264792084694,
+      "away_shot_probability": 0.016121022403240204
+    },
+    {
+      "period": 2,
+      "period_seconds": 2480.0,
+      "home_shot_probability": 0.004076730459928513,
+      "away_shot_probability": 0.016940360888838768
+    },
+    {
+      "period": 2,
+      "period_seconds": 2485.0,
+      "home_shot_probability": 0.004177133087068796,
+      "away_shot_probability": 0.01991305500268936
+    },
+    {
+      "period": 2,
+      "period_seconds": 2490.0,
+      "home_shot_probability": 0.001894875313155353,
+      "away_shot_probability": 0.019164780154824257
+    },
+    {
+      "period": 2,
+      "period_seconds": 2495.0,
+      "home_shot_probability": 0.0025989993009716272,
+      "away_shot_probability": 0.06682415306568146
+    },
+    {
+      "period": 2,
+      "period_seconds": 2500.0,
+      "home_shot_probability": 0.00483165867626667,
+      "away_shot_probability": 0.021603472530841827
+    },
+    {
+      "period": 2,
+      "period_seconds": 2505.0,
+      "home_shot_probability": 0.004170953296124935,
+      "away_shot_probability": 0.050896644592285156
+    },
+    {
+      "period": 2,
+      "period_seconds": 2510.0,
+      "home_shot_probability": 0.002083689672872424,
+      "away_shot_probability": 0.011015191674232483
+    },
+    {
+      "period": 2,
+      "period_seconds": 2515.0,
+      "home_shot_probability": 0.0018065458862110972,
+      "away_shot_probability": 0.007051151245832443
+    },
+    {
+      "period": 2,
+      "period_seconds": 2520.0,
+      "home_shot_probability": 0.0012140526669099927,
+      "away_shot_probability": 0.005376335233449936
+    },
+    {
+      "period": 2,
+      "period_seconds": 2525.0,
+      "home_shot_probability": 0.003599665593355894,
+      "away_shot_probability": 0.004725235048681498
+    },
+    {
+      "period": 2,
+      "period_seconds": 2530.0,
+      "home_shot_probability": 0.0036940407007932663,
+      "away_shot_probability": 0.0016398668522015214
+    },
+    {
+      "period": 2,
+      "period_seconds": 2535.0,
+      "home_shot_probability": 0.0024278066121041775,
+      "away_shot_probability": 0.007724064402282238
+    },
+    {
+      "period": 2,
+      "period_seconds": 2540.0,
+      "home_shot_probability": 0.04250162094831467,
+      "away_shot_probability": 0.005689029581844807
+    },
+    {
+      "period": 2,
+      "period_seconds": 2545.0,
+      "home_shot_probability": 0.05772649869322777,
+      "away_shot_probability": 0.007095185574144125
+    },
+    {
+      "period": 2,
+      "period_seconds": 2550.0,
+      "home_shot_probability": 0.0989498421549797,
+      "away_shot_probability": 0.01077592745423317
+    },
+    {
+      "period": 2,
+      "period_seconds": 2555.0,
+      "home_shot_probability": 0.032480329275131226,
+      "away_shot_probability": 0.002890490461140871
+    },
+    {
+      "period": 2,
+      "period_seconds": 2560.0,
+      "home_shot_probability": 0.010814203880727291,
+      "away_shot_probability": 0.001212643226608634
+    },
+    {
+      "period": 2,
+      "period_seconds": 2565.0,
+      "home_shot_probability": 0.00629414850845933,
+      "away_shot_probability": 0.0005241135368123651
+    },
+    {
+      "period": 2,
+      "period_seconds": 2570.0,
+      "home_shot_probability": 0.005491589196026325,
+      "away_shot_probability": 0.002719129202887416
+    },
+    {
+      "period": 2,
+      "period_seconds": 2575.0,
+      "home_shot_probability": 0.0014834108296781778,
+      "away_shot_probability": 0.013750770129263401
+    },
+    {
+      "period": 2,
+      "period_seconds": 2580.0,
+      "home_shot_probability": 0.0004065374378114939,
+      "away_shot_probability": 0.011557049117982388
+    },
+    {
+      "period": 2,
+      "period_seconds": 2585.0,
+      "home_shot_probability": 0.000440357718616724,
+      "away_shot_probability": 0.00972549058496952
+    },
+    {
+      "period": 2,
+      "period_seconds": 2590.0,
+      "home_shot_probability": 0.00048006014549173415,
+      "away_shot_probability": 0.009474322199821472
+    },
+    {
+      "period": 2,
+      "period_seconds": 2595.0,
+      "home_shot_probability": 0.0005215835990384221,
+      "away_shot_probability": 0.0099209975451231
+    },
+    {
+      "period": 2,
+      "period_seconds": 2600.0,
+      "home_shot_probability": 0.0005415721680037677,
+      "away_shot_probability": 0.010024533607065678
+    },
+    {
+      "period": 2,
+      "period_seconds": 2605.0,
+      "home_shot_probability": 0.0007018894539214671,
+      "away_shot_probability": 0.014578563161194324
+    },
+    {
+      "period": 2,
+      "period_seconds": 2610.0,
+      "home_shot_probability": 0.014361039735376835,
+      "away_shot_probability": 0.014361039735376835
+    },
+    {
+      "period": 2,
+      "period_seconds": 2615.0,
+      "home_shot_probability": 0.0143642108887434,
+      "away_shot_probability": 0.0143642108887434
+    },
+    {
+      "period": 2,
+      "period_seconds": 2620.0,
+      "home_shot_probability": 0.01436738483607769,
+      "away_shot_probability": 0.01436738483607769
+    },
+    {
+      "period": 2,
+      "period_seconds": 2625.0,
+      "home_shot_probability": 0.008312487043440342,
+      "away_shot_probability": 0.002010371768847108
+    },
+    {
+      "period": 2,
+      "period_seconds": 2630.0,
+      "home_shot_probability": 0.009228228591382504,
+      "away_shot_probability": 0.0022427996154874563
+    },
+    {
+      "period": 2,
+      "period_seconds": 2635.0,
+      "home_shot_probability": 0.010161765851080418,
+      "away_shot_probability": 0.002456986578181386
+    },
+    {
+      "period": 2,
+      "period_seconds": 2640.0,
+      "home_shot_probability": 0.010879711247980595,
+      "away_shot_probability": 0.0026961800176650286
+    },
+    {
+      "period": 2,
+      "period_seconds": 2645.0,
+      "home_shot_probability": 0.01730223558843136,
+      "away_shot_probability": 0.04979942366480827
+    },
+    {
+      "period": 2,
+      "period_seconds": 2650.0,
+      "home_shot_probability": 0.007837498560547829,
+      "away_shot_probability": 0.1336582750082016
+    },
+    {
+      "period": 2,
+      "period_seconds": 2655.0,
+      "home_shot_probability": 0.008015996776521206,
+      "away_shot_probability": 0.009216969832777977
+    },
+    {
+      "period": 2,
+      "period_seconds": 2660.0,
+      "home_shot_probability": 0.0025690479669719934,
+      "away_shot_probability": 0.004044820088893175
+    },
+    {
+      "period": 2,
+      "period_seconds": 2665.0,
+      "home_shot_probability": 0.001239553326740861,
+      "away_shot_probability": 0.0028147269040346146
+    },
+    {
+      "period": 2,
+      "period_seconds": 2670.0,
+      "home_shot_probability": 0.0006983175408095121,
+      "away_shot_probability": 0.002376091666519642
+    },
+    {
+      "period": 2,
+      "period_seconds": 2675.0,
+      "home_shot_probability": 0.0006919558509252965,
+      "away_shot_probability": 0.013719248585402966
+    },
+    {
+      "period": 2,
+      "period_seconds": 2680.0,
+      "home_shot_probability": 0.014919281005859375,
+      "away_shot_probability": 0.012622149661183357
+    },
+    {
+      "period": 2,
+      "period_seconds": 2685.0,
+      "home_shot_probability": 0.014408727176487446,
+      "away_shot_probability": 0.014408727176487446
+    },
+    {
+      "period": 2,
+      "period_seconds": 2690.0,
+      "home_shot_probability": 0.014411911368370056,
+      "away_shot_probability": 0.014411911368370056
+    },
+    {
+      "period": 2,
+      "period_seconds": 2695.0,
+      "home_shot_probability": 0.014415096491575241,
+      "away_shot_probability": 0.014415096491575241
+    },
+    {
+      "period": 2,
+      "period_seconds": 2700.0,
+      "home_shot_probability": 0.014418278820812702,
+      "away_shot_probability": 0.014418278820812702
+    },
+    {
+      "period": 2,
+      "period_seconds": 2705.0,
+      "home_shot_probability": 0.014421472325921059,
+      "away_shot_probability": 0.014421472325921059
+    },
+    {
+      "period": 2,
+      "period_seconds": 2710.0,
+      "home_shot_probability": 0.014424657449126244,
+      "away_shot_probability": 0.014424657449126244
+    },
+    {
+      "period": 2,
+      "period_seconds": 2715.0,
+      "home_shot_probability": 0.014427844434976578,
+      "away_shot_probability": 0.014427844434976578
+    },
+    {
+      "period": 2,
+      "period_seconds": 2720.0,
+      "home_shot_probability": 0.00028574178577400744,
+      "away_shot_probability": 0.1315920203924179
+    },
+    {
+      "period": 2,
+      "period_seconds": 2725.0,
+      "home_shot_probability": 0.0002638488949742168,
+      "away_shot_probability": 0.030406339094042778
+    },
+    {
+      "period": 2,
+      "period_seconds": 2730.0,
+      "home_shot_probability": 0.00029830465791746974,
+      "away_shot_probability": 0.019348781555891037
+    },
+    {
+      "period": 2,
+      "period_seconds": 2735.0,
+      "home_shot_probability": 0.0003271236491855234,
+      "away_shot_probability": 0.01887483336031437
+    },
+    {
+      "period": 2,
+      "period_seconds": 2740.0,
+      "home_shot_probability": 0.0003456562990322709,
+      "away_shot_probability": 0.0190932285040617
+    },
+    {
+      "period": 2,
+      "period_seconds": 2745.0,
+      "home_shot_probability": 0.00036799226654693484,
+      "away_shot_probability": 0.019241690635681152
+    },
+    {
+      "period": 2,
+      "period_seconds": 2750.0,
+      "home_shot_probability": 0.0002863742411136627,
+      "away_shot_probability": 0.02039395086467266
+    },
+    {
+      "period": 2,
+      "period_seconds": 2755.0,
+      "home_shot_probability": 0.014453372918069363,
+      "away_shot_probability": 0.014453372918069363
+    },
+    {
+      "period": 2,
+      "period_seconds": 2760.0,
+      "home_shot_probability": 0.032597459852695465,
+      "away_shot_probability": 0.0008797437185421586
+    },
+    {
+      "period": 2,
+      "period_seconds": 2765.0,
+      "home_shot_probability": 0.008032765239477158,
+      "away_shot_probability": 0.005734459031373262
+    },
+    {
+      "period": 2,
+      "period_seconds": 2770.0,
+      "home_shot_probability": 0.005451453384011984,
+      "away_shot_probability": 0.004590507131069899
+    },
+    {
+      "period": 2,
+      "period_seconds": 2775.0,
+      "home_shot_probability": 0.0043004658073186874,
+      "away_shot_probability": 0.003780194092541933
+    },
+    {
+      "period": 2,
+      "period_seconds": 2780.0,
+      "home_shot_probability": 0.004564913455396891,
+      "away_shot_probability": 0.0030506993643939495
+    },
+    {
+      "period": 2,
+      "period_seconds": 2785.0,
+      "home_shot_probability": 0.01771431416273117,
+      "away_shot_probability": 0.00134547078050673
+    },
+    {
+      "period": 2,
+      "period_seconds": 2790.0,
+      "home_shot_probability": 0.005281304009258747,
+      "away_shot_probability": 0.0044165728613734245
+    },
+    {
+      "period": 2,
+      "period_seconds": 2795.0,
+      "home_shot_probability": 0.006857478059828281,
+      "away_shot_probability": 0.0018012174405157566
+    },
+    {
+      "period": 2,
+      "period_seconds": 2800.0,
+      "home_shot_probability": 0.01147906668484211,
+      "away_shot_probability": 0.000857339589856565
+    },
+    {
+      "period": 2,
+      "period_seconds": 2805.0,
+      "home_shot_probability": 0.011916549876332283,
+      "away_shot_probability": 0.0006817328394390643
+    },
+    {
+      "period": 2,
+      "period_seconds": 2810.0,
+      "home_shot_probability": 0.011921080760657787,
+      "away_shot_probability": 0.0005403509130701423
+    },
+    {
+      "period": 2,
+      "period_seconds": 2815.0,
+      "home_shot_probability": 0.012898107059299946,
+      "away_shot_probability": 0.0004973656614311039
+    },
+    {
+      "period": 2,
+      "period_seconds": 2820.0,
+      "home_shot_probability": 0.014494952745735645,
+      "away_shot_probability": 0.014494952745735645
+    },
+    {
+      "period": 2,
+      "period_seconds": 2825.0,
+      "home_shot_probability": 0.014498154632747173,
+      "away_shot_probability": 0.014498154632747173
+    },
+    {
+      "period": 2,
+      "period_seconds": 2830.0,
+      "home_shot_probability": 0.014501363970339298,
+      "away_shot_probability": 0.014501363970339298
+    },
+    {
+      "period": 2,
+      "period_seconds": 2835.0,
+      "home_shot_probability": 0.014504806138575077,
+      "away_shot_probability": 0.014504806138575077
+    },
+    {
+      "period": 2,
+      "period_seconds": 2840.0,
+      "home_shot_probability": 0.014508835040032864,
+      "away_shot_probability": 0.014508835040032864
+    },
+    {
+      "period": 2,
+      "period_seconds": 2845.0,
+      "home_shot_probability": 0.014420237392187119,
+      "away_shot_probability": 0.0006106621585786343
+    },
+    {
+      "period": 2,
+      "period_seconds": 2850.0,
+      "home_shot_probability": 0.01189050916582346,
+      "away_shot_probability": 0.000642314727883786
+    },
+    {
+      "period": 2,
+      "period_seconds": 2855.0,
+      "home_shot_probability": 0.012313195504248142,
+      "away_shot_probability": 0.0006574568687938154
+    },
+    {
+      "period": 2,
+      "period_seconds": 2860.0,
+      "home_shot_probability": 0.012306529097259045,
+      "away_shot_probability": 0.0006419597775675356
+    },
+    {
+      "period": 2,
+      "period_seconds": 2865.0,
+      "home_shot_probability": 0.012183540500700474,
+      "away_shot_probability": 0.0006389335030689836
+    },
+    {
+      "period": 2,
+      "period_seconds": 2870.0,
+      "home_shot_probability": 0.011643920093774796,
+      "away_shot_probability": 0.0006377596291713417
+    },
+    {
+      "period": 2,
+      "period_seconds": 2875.0,
+      "home_shot_probability": 0.0021834103390574455,
+      "away_shot_probability": 0.007139364257454872
+    },
+    {
+      "period": 2,
+      "period_seconds": 2880.0,
+      "home_shot_probability": 0.001312069594860077,
+      "away_shot_probability": 0.013312539085745811
+    },
+    {
+      "period": 2,
+      "period_seconds": 2885.0,
+      "home_shot_probability": 0.0008759253541938961,
+      "away_shot_probability": 0.012309021316468716
+    },
+    {
+      "period": 2,
+      "period_seconds": 2890.0,
+      "home_shot_probability": 0.00047306454507634044,
+      "away_shot_probability": 0.024085380136966705
+    },
+    {
+      "period": 2,
+      "period_seconds": 2895.0,
+      "home_shot_probability": 0.000316191726597026,
+      "away_shot_probability": 0.015587913803756237
+    },
+    {
+      "period": 2,
+      "period_seconds": 2900.0,
+      "home_shot_probability": 0.00032829304109327495,
+      "away_shot_probability": 0.0090678995475173
+    },
+    {
+      "period": 2,
+      "period_seconds": 2905.0,
+      "home_shot_probability": 0.00023971566406544298,
+      "away_shot_probability": 0.014604995027184486
+    },
+    {
+      "period": 2,
+      "period_seconds": 2910.0,
+      "home_shot_probability": 0.00014658342115581036,
+      "away_shot_probability": 0.013943071477115154
+    },
+    {
+      "period": 2,
+      "period_seconds": 2915.0,
+      "home_shot_probability": 0.0017227099742740393,
+      "away_shot_probability": 0.02909739688038826
+    },
+    {
+      "period": 2,
+      "period_seconds": 2920.0,
+      "home_shot_probability": 0.0011974518420174718,
+      "away_shot_probability": 0.034855496138334274
+    },
+    {
+      "period": 2,
+      "period_seconds": 2925.0,
+      "home_shot_probability": 0.003376193344593048,
+      "away_shot_probability": 0.030409224331378937
+    },
+    {
+      "period": 2,
+      "period_seconds": 2930.0,
+      "home_shot_probability": 0.0010366514325141907,
+      "away_shot_probability": 0.036956604570150375
+    },
+    {
+      "period": 2,
+      "period_seconds": 2935.0,
+      "home_shot_probability": 0.0003577008319552988,
+      "away_shot_probability": 0.09202323853969574
+    },
+    {
+      "period": 2,
+      "period_seconds": 2940.0,
+      "home_shot_probability": 0.0002280570042785257,
+      "away_shot_probability": 0.09763269126415253
+    },
+    {
+      "period": 2,
+      "period_seconds": 2945.0,
+      "home_shot_probability": 0.0005989884375594556,
+      "away_shot_probability": 0.06766189634799957
+    },
+    {
+      "period": 2,
+      "period_seconds": 2950.0,
+      "home_shot_probability": 0.0004637365054804832,
+      "away_shot_probability": 0.025211533531546593
+    },
+    {
+      "period": 2,
+      "period_seconds": 2955.0,
+      "home_shot_probability": 0.0004837090673390776,
+      "away_shot_probability": 0.010883765295147896
+    },
+    {
+      "period": 2,
+      "period_seconds": 2960.0,
+      "home_shot_probability": 0.000523892289493233,
+      "away_shot_probability": 0.012551750056445599
+    },
+    {
+      "period": 2,
+      "period_seconds": 2965.0,
+      "home_shot_probability": 0.0006644675740972161,
+      "away_shot_probability": 0.013856146484613419
+    },
+    {
+      "period": 2,
+      "period_seconds": 2970.0,
+      "home_shot_probability": 0.0006240308866836131,
+      "away_shot_probability": 0.015422532334923744
+    },
+    {
+      "period": 2,
+      "period_seconds": 2975.0,
+      "home_shot_probability": 0.014618031680583954,
+      "away_shot_probability": 0.014618031680583954
+    },
+    {
+      "period": 2,
+      "period_seconds": 2980.0,
+      "home_shot_probability": 0.00047407252714037895,
+      "away_shot_probability": 0.04039281979203224
+    },
+    {
+      "period": 2,
+      "period_seconds": 2985.0,
+      "home_shot_probability": 0.0005028699524700642,
+      "away_shot_probability": 0.02124050073325634
+    },
+    {
+      "period": 2,
+      "period_seconds": 2990.0,
+      "home_shot_probability": 0.0005388960707932711,
+      "away_shot_probability": 0.02141278237104416
+    },
+    {
+      "period": 2,
+      "period_seconds": 2995.0,
+      "home_shot_probability": 0.0005965587915852666,
+      "away_shot_probability": 0.022138018161058426
+    },
+    {
+      "period": 2,
+      "period_seconds": 3000.0,
+      "home_shot_probability": 0.00025007801013998687,
+      "away_shot_probability": 0.17466965317726135
+    }
+  ]
+}
